@@ -1,4 +1,4 @@
-# CV
+# Lebenslauf
 
 ## Kontaktinformationen
 
