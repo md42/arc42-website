@@ -66,7 +66,7 @@ flowchart LR
         nArc[9 Entscheidungen]
         nQA[10 tbd]
         nRisks[11 tbd]
-        nGlossar[12 Tipps]
+        nGlossar[12 Nützliches]
         nLegal[99 Rechtliches]
     end
 
