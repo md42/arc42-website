@@ -1,0 +1,112 @@
+copyright: Copyright &copy; 2024 - Florian Schuttkowski
+site_name: florianschuttkowski.com
+site_url: https://flowinho.github.io/mkdocs-site/
+repo_url: https://github.com/flowinho/mkdocs-site/
+repo_name: flowinho/mkdocs-site
+edit_uri: edit/main/docs/
+
+extra_css:
+  - stylesheets/extra.css
+
+extra_javascript:
+  - javascripts/tablesort.js
+
+theme:
+  name: material
+  language: de
+  logo: assets/pixar-me.jpg
+  icon:
+    logo: fontawesome/solid/hand-spock
+  features:
+    - content.action.edit
+  palette:
+    # Palette toggle for automatic mode
+    - media: "(prefers-color-scheme)"
+      toggle:
+        icon: material/brightness-auto
+        name: Zum hellen Modus wechseln
+
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default 
+      primary: black
+      accent: indigo
+      toggle:
+        icon: material/brightness-7
+        name: Zum dunklen Modus wechseln
+
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: black
+      accent: indigo
+      toggle:
+        icon: material/brightness-4
+        name: Farbvorgabe des Systems anwenden
+
+  features:
+    - navigation.instant
+    - navigation.instant.progress
+    - navigation.tracking
+    - navigation.sections
+    - navigation.path
+    - toc.follow
+    - content.code.copy
+    - content.code.select
+
+plugins:
+  - search
+  - tags:
+      tags_file: glossar/schlagworte.md
+  - privacy
+  - social
+  - glightbox
+  - awesome-pages
+  - mermaid2:
+      arguments:
+        securityLevel: 'loose'
+
+extra:
+  generator: false
+  social:
+    - icon: fontawesome/brands/mastodon 
+      link: https://chaos.social/@flowinho
+    - icon: fontawesome/brands/github
+      link: https://github.com/flowinho
+    - icon: fontawesome/brands/signal-messenger
+      link: https://signal.me/#eu/YYsmjGrYPtnITzp0VY2zv6DvpI0ZO03kGV3ErqrMXQ4Xw1_UJtNI8KqaiDswvKQ
+    - icon: fontawesome/brands/slack
+      link: https://audiodump.de/slack
+    - icon: fontawesome/solid/envelope
+      link: mailto:mail@florianschuttkowski.com
+    - icon: fontawesome/brands/discord
+      link: https://discord.com/users/.flowinho
+    - icon: fontawesome/solid/mug-hot
+      link: https://ko-fi.com/flowinho
+
+markdown_extensions:
+  - abbr # Tooltips
+  - admonition # Callouts (mega)
+  - attr_list # HTML Klassen, braucht zB lazy loading
+  - md_in_html # markdown und html mischen
+  - footnotes
+  - toc:
+      permalink: true
+  - tables
+  - pymdownx.details
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - pymdownx.extra:
+      pymdownx.superfences:
+        custom_fences:
+          - name: mermaid
+            class: mermaid
+            format: !!python/name:mermaid2.fence_mermaid_custom
+            #format: !!python/name:mermaid2.fence_mermaid # Plain Mermaid, without Material Theme
