@@ -1,8 +1,8 @@
 copyright: Copyright &copy; 2024 - Florian Schuttkowski
 site_name: florianschuttkowski.com
-site_url: https://flowinho.github.io/mkdocs-site/
-repo_url: https://github.com/flowinho/mkdocs-site/
-repo_name: flowinho/mkdocs-site
+site_url: https://flowinho.github.io/arc42-website/
+repo_url: https://github.com/flowinho/arc42-website/
+repo_name: flowinho/arc42-website
 edit_uri: edit/main/docs/
 
 extra_css:
