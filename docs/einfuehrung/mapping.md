@@ -9,10 +9,6 @@ tags:
 
 ## Mapping
 
-[https://www.arc42.de/overview/](https://www.arc42.de/overview/)
-
-Was ist das Software-Produkt? Ich und diese Website
-
 ```mermaid
 flowchart LR
     subgraph arc42-software[ARC42 Template für Software Dokumentation]
