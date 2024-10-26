@@ -54,7 +54,7 @@
 <img alt="bosch" src="https://img.shields.io/badge/-Bosch-EA0016?style=flat-square&logo=bosch&logoColor=white" />
 </p>
 
-Willkommen!
+## Willkommen!
 
 
 Mein Name ist Florian Schuttkowski und ich entwickle diese "Apps" von denen ihr sicher schonmal gehört habt. Jepp, ich schreibe Programmcode, damit diese Programme funktionieren -- damit ihr das nicht müsst. Mein Fokus liegt auf Geräten auf denen Betriebssysteme von Apple laufen, ist aber nicht darauf beschränkt. Weil ich Dinge mag, die "fancy" sind, seht ihr mich selten im Backend. Manche dürften schon bezeugen, wie ich mich in Servercode ausgetobt habe -- und sie haben es sogar überlebt!
@@ -73,7 +73,7 @@ Mein Name ist Florian Schuttkowski und ich entwickle diese "Apps" von denen ihr 
   
     ---
 
-    Test
+    Auflistung eigener Motivation, Beschreibung eigener (Qualitäts-)Ziele, Stakeholder, Erläuterung der Website
 
 - __2. blubb__
   
@@ -85,43 +85,43 @@ Mein Name ist Florian Schuttkowski und ich entwickle diese "Apps" von denen ihr 
   
     ---
 
-    Test3
+    Lebenslauf
 
 - :material-brain: __4. Lösungsstrategien__
   
     ---
 
-    Test4
+    Eigene Werte, Lösungsstrategien für Probleme
 
 - :material-apps: __5. Bausteinsicht__
   
     ---
 
-    Test5
+    Projekte und Aktivitäten
 
 - :material-account-reactivate-outline: __6. Laufzeitsicht__
   
     ---
 
-    Test6
+    Arbeitsweise
 
 - :material-artboard: __7. Verteilungssicht__
   
     ---
 
-    Test7
+    Social Media, eigene Topologie, Deployment meiner Nebenprojekte
 
 - :material-arrow-decision-outline: __8. Querschnittliche Konzepte__
   
     ---
 
-    Test8
+    Allgemeine Lösungsansätze für Meta-Probleme, Rezepte, Bastelanleitungen
 
 - :material-alert-circle-check-outline: __9. Entscheidungen__
   
     ---
 
-    Test9
+    Entscheidungen für Projekte, Sport, Kinder, etc 
 
 - __10. a__
   
@@ -139,12 +139,12 @@ Mein Name ist Florian Schuttkowski und ich entwickle diese "Apps" von denen ihr 
   
     ---
 
-    Test12
+    Nützliche Hinweise, Tipps
 
 - :material-scale-balance: __99. Rechtliches__
   
     ---
 
-    Test7
+    Rechtliche Inhalte und Lizensierung
 
 </div>
