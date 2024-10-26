@@ -57,7 +57,7 @@
 ## Willkommen!
 
 
-Mein Name ist Florian Schuttkowski und ich entwickle diese "Apps" von denen ihr sicher schonmal gehört habt. Jepp, ich schreibe Programmcode, damit diese Programme funktionieren -- damit ihr das nicht müsst. Mein Fokus liegt auf Geräten auf denen Betriebssysteme von Apple laufen, ist aber nicht darauf beschränkt. Weil ich Dinge mag, die "fancy" sind, seht ihr mich selten im Backend. Manche dürften schon bezeugen, wie ich mich in Servercode ausgetobt habe -- und sie haben es sogar überlebt!
+Mein Name ist Florian Schuttkowski und ich entwickle unter anderem diese **Apps** von denen ihr sicher schonmal gehört habt. Jepp, ich schreibe Programmcode, damit diese Programme funktionieren -- damit ihr das nicht müsst. Mein Fokus liegt auf Geräten auf denen Betriebssysteme von Apple laufen, ist aber nicht darauf beschränkt. Weil ich Dinge mag, die "fancy" sind, seht ihr mich selten im Backend. Manche dürften schon bezeugen, wie ich mich in Servercode ausgetobt habe -- und sie haben es sogar überlebt!
 
 
 
