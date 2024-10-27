@@ -43,7 +43,7 @@ flowchart LR
 
     subgraph nContent[Inhalte Persönliches Template]
         ncGoals["Auflistung eigener Motivation, Beschreibung eigener (Qualitäts-)Ziele, Stakeholder, Erläuterung der Website"]
-        ncConstraints[Lorem ipsum blubber]
+        ncConstraints[Nebenaktivitäten und sonstige Skills]
         ncContext[Lebenslauf]
         ncSolution[Eigene Werte, Lösungsstrategien für Probleme]
         ncBlocks[Projekte und Aktivitäten]
@@ -51,7 +51,7 @@ flowchart LR
         ncDistribution[Social Media, eigene Topologie]
         ncCross[Allgemeine Lösungsansätze für Meta-Probleme, Rezepte, Bastelanleitungen]
         ncArc[Entscheidungen für Projekte, Sport, Kinder, etc]
-        ncQA[Lorem ipsum blubber]
+        ncQA[Lessons learned]
         ncRisks[Selbstreflexion, Probleme die gesehen werden]
         ncGlossar[Nützliche Hinweise, Tipps]
         ncLegal[Rechtliche Inhalte und Lizensierung]
@@ -59,7 +59,7 @@ flowchart LR
 
     subgraph arc42-personal[ARC42 für persönliche Webseiten]
         nGoals[1 Einführung & Ziele]
-        nConstraints[2 tbd]
+        nConstraints[2 Randbedingungen]
         nContext[3 Kontext]
         nSolution[4 Lösungsstrategien]
         nBlocks[5 Bausteinsicht]
@@ -67,8 +67,8 @@ flowchart LR
         nDistribution[7 Verteilungssicht]
         nCross[8 Querschnittliche Konzepte]
         nArc[9 Entscheidungen]
-        nQA[10 tbd]
-        nRisks[11 tbd]
+        nQA[10 Qualitätszenarien]
+        nRisks[11 Erfahrungswerte]
         nGlossar[12 Nützliches]
         nLegal[99 Rechtliches]
     end
