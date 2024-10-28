@@ -1,5 +1,8 @@
+@import "hack.css";
+
 :root {
     --md-primary-fg-color:        #222433;
+    --md-code-font: "Hack";
 }
 
 .md-grid {
