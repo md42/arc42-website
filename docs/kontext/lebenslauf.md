@@ -1,11 +1,25 @@
 # Lebenslauf
 
+**Florian Schuttkowski**  
+floːriːaːn ʃʊtkoːfskɪ (de-DE)  
+flɒɹiːɑːn ʃʊətkɒfskiː (en-UK)
+
+
 ## Kontaktinformationen
 
 **Mail**: contact at flowinho dot com  
 **Mail**: florian dot schuttkowski at de dot bosch dot com  
 **Telefon**: +49 . 173 . 42 79 512
-  
+
+
+
+```mermaid
+sequenceDiagram
+	200a9 ->> 20a11: B.Sc. Angewandte Informatik
+	20a11 ->> 20a12: Spiele-Entwickler und UI-Berater
+	20a12 ->> 20a14: Selbständiger Software-Entwickler
+```
+
 ## Kenntnisse
 
 |Language|Sicherheit|Notizen|
@@ -19,11 +33,6 @@
 |HTML|█░░░░|Basis-Kenntnisse die innerhalb dieses Blog genutzt werden.|
 |Bash|█░░░░|Schreiben eigener Shellscripts um den Alltag zu erleichtern.|
 
-## Ausbildung
-- **B.Sc.**, [ Ravensburg-Weingarten University of Applied Sciences ](https://rwu.de), Department of [Applied Informatics](https://www.rwu.de/studieren/studiengaenge/angewandte-informatik). 2011
-	- Gründungsmitglied der Mobile Application Development Group (M.A.D.), erste App Development Student Group der Fachhochschule.
-	- Sprecher „Nacht der Informatik“.
-
 ## Arbeitserfahrung
 - **Lead Developer / Architect iOS**, Electrified Mobility Cross Functional Core Development, [Robert Bosch GmbH](https://www.bosch.de/). 2024-Heute
 - **Lead Developer / Architect iOS**, Cross Solutions Charging, [Robert Bosch GmbH](https://www.bosch.de/). 2021-2023
@@ -33,6 +42,13 @@
 - **Technical Director**, [Zeitland media and games GmbH](https://zeitland.com/), 2014-2017
 - **Self-employed Software Developer**, Florian Schuttkowski Software Development. 2013-2014
 - **Game Developer and UI Consultant**, [Filmakademie Baden-Württemberg](https://www.filmakademie.de/). 2012-2013
+
+## Ausbildung
+- **B.Sc.**, [ Ravensburg-Weingarten University of Applied Sciences ](https://rwu.de), Department of [Applied Informatics](https://www.rwu.de/studieren/studiengaenge/angewandte-informatik). 2011
+	- Gründungsmitglied der Mobile Application Development Group (M.A.D.), erste App Development Student Group der Fachhochschule.
+	- Sprecher „Nacht der Informatik“.
+
+
 
 ## Andere Aktivitäten
 - **iOS Software Developer**, [Ladefuchs, einfach schlau laden](https://ladefuchs.app). 2020-2021
