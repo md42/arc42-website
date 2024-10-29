@@ -61,7 +61,7 @@ Mein Name ist Florian Schuttkowski und ich entwickle unter anderem diese **Apps*
   
     ---
 
-    Allgemeine Lösungsansätze für Meta-Probleme, Rezepte, Bastelanleitungen
+    Allgemeine Lösungsansätze für Meta-Probleme, Rezepte _als Sequendiagramme_, Bastelanleitungen
 
 - :material-alert-circle-check-outline: __9. Entscheidungen__
   
