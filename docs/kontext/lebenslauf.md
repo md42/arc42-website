@@ -11,15 +11,6 @@ flɒɹiːɑːn ʃʊətkɒfskiː (en-UK)
 **Mail**: florian dot schuttkowski at de dot bosch dot com  
 **Telefon**: +49 . 173 . 42 79 512
 
-
-
-```mermaid
-sequenceDiagram
-	200a9 ->> 20a11: B.Sc. Angewandte Informatik
-	20a11 ->> 20a12: Spiele-Entwickler und UI-Berater
-	20a12 ->> 20a14: Selbständiger Software-Entwickler
-```
-
 ## Kenntnisse
 
 |Language|Sicherheit|Notizen|
