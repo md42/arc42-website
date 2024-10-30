@@ -4,27 +4,38 @@
 floːriːaːn ʃʊtkoːfskɪ (de-DE)  
 flɒɹiːɑːn ʃʊətkɒfskiː (en-UK)
 
+Software-Engineer, Mobile Application Lead Developer  
+Ludwigsburg, Bundesrepublik Deutschland
 
-## Kontaktinformationen
+## Zusammenfassung
 
-**Mail**: contact at flowinho dot com  
-**Mail**: florian dot schuttkowski at de dot bosch dot com  
-**Telefon**: +49 . 173 . 42 79 512
+dasdsada
 
 ## Kenntnisse
 
-|Language|Sicherheit|Notizen|
-|:--|:--|:--|
-|Markdown|█████|Allgegenwärtig.|
-|Swift|████░|Umsetzung mehrerer App-Projekte.|
-|Objective-C|████░|Umsetzung mehrerer App-Projekte.|
-|YAML|███░░|Konfiguration von Software und CI/CD Pipelines.|
-|Mermaid|██░░░|Anwendung in Arc42 Dokumentation und Posts für diesen Blog.| 
-|CSS|██░░░|Gestaltung diverser Websites.|
-|HTML|█░░░░|Basis-Kenntnisse die innerhalb dieses Blog genutzt werden.|
-|Bash|█░░░░|Schreiben eigener Shellscripts um den Alltag zu erleichtern.|
+<div class="grid cards" markdown>
+
+- :simple-git: __DevOps__   
+	Lorem ipsum.
+- :material-code-json: __Application Architectures__  
+	Lorem ipsum.
+- :fontawesome-solid-people-group: __Team-Konstellationen__  
+	Lorem ipsum.
+- :simple-wheniwork: __Positionen / Verantwortungsbereiche__  
+	Lorem ipsum.
+- :material-presentation: __Workshops__  
+	Lorem ipsum.
+- :simple-apple: __Apple-Dienste__  
+	Lorem ipsum.
+- :material-tools: __Tooling__  
+	Lorem ipsum.
+- :material-language-swift: __Programmiersprachen / -notationen__  
+	Lorem ipsum.
+
+</div>
 
 ## Arbeitserfahrung
+
 - **Lead Developer / Architect iOS**, Electrified Mobility Cross Functional Core Development, [Robert Bosch GmbH](https://www.bosch.de/). 2024-Heute
 - **Lead Developer / Architect iOS**, Cross Solutions Charging, [Robert Bosch GmbH](https://www.bosch.de/). 2021-2023
 - **iOS Software Engineer**, Engineering Software Brokering Solutions, E-Bike & Automated Valet Parking, [Robert Bosch GmbH](https://www.bosch.de/). 2019-2021
@@ -35,13 +46,34 @@ flɒɹiːɑːn ʃʊətkɒfskiː (en-UK)
 - **Game Developer and UI Consultant**, [Filmakademie Baden-Württemberg](https://www.filmakademie.de/). 2012-2013
 
 ## Ausbildung
+
 - **B.Sc.**, [ Ravensburg-Weingarten University of Applied Sciences ](https://rwu.de), Department of [Applied Informatics](https://www.rwu.de/studieren/studiengaenge/angewandte-informatik). 2011
 	- Gründungsmitglied der Mobile Application Development Group (M.A.D.), erste App Development Student Group der Fachhochschule.
 	- Sprecher „Nacht der Informatik“.
 
+## Sonstige Aktivitäten
 
+<div class="grid" markdown>
 
-## Andere Aktivitäten
-- **iOS Software Developer**, [Ladefuchs, einfach schlau laden](https://ladefuchs.app). 2020-2021
-- **Podcast Host**, [Audiodump](https://audiodump.de). 2017-Heute
-- **Open Source Developer**, [GitHub](https://github.com/flowinho). 2017-Heute
+!!! tip "Online Aktivitäten"
+
+	**iOS Software-Entwickler Ladefuchs, einfach schlau laden**  
+		2020 - 2021, [Ladefuchs, einfach schlau laden](https://ladefuchs.app), Fokus auf schnelle Time-to-Market. Umsetzung in UIKit.
+	
+	**Podcast-Host, Audiodump**  
+		2017 - Heute, [audiodump](https://audiodump.de), Podcast im Stammtisch-Format, Fokus auf Technologie und Apple, verschiedenste Gäste. Geschätzt 10.000 Hörer:innen pro Episode.
+
+	**Open-Source Entwickler**  
+		2011 - Heute, [GitHub](https://github.com/flowinho), Veröffentlichung von Automationen, Konfigurationen und Hilfsprogrammen in meinem GitHub-Account.
+
+!!! example "Hochschul-Aktivitäten"
+
+	**Gründungsmitglied M.A.D. - Mobile Application Development Group**  
+		Implementierung von iOS Apps in Objective-C und Implementierung von Videospielen in Objective-C mit Sparrow und Box2D.
+
+!!! info "Sonstige Aktivitäten"
+
+	**Gast im Podcast "Auch interessant"**  
+		2014, [Auch interessant]([https://dsadsaa](https://auch-interessant.de/2024/10/01/medienkompetenz-mit-basti-schlingel-wolfle-flowinho/)), Medienkompetenz  
+		_Ausführliches Gespräch über den Umgang mit Internetinhalten, mit Fokus auf generierte Inhalte und deren Auswirkung auf die Erziehung unserer Kinder._
+</div>
