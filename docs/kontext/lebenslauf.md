@@ -85,17 +85,41 @@ dasdsada
 
 ## Arbeitserfahrung
 
+!!! warning „Liste aufgrund Non-Disclosure Agreements unvollständig“
+
+    Weitere Informationen zu den umgesetzten Projekten und den darin verwendeten Technologien und Paradigmen finden sich in meinem Projekt-Portfolio. Leider kann ich nicht alle umgesetzten Projekte auflisten, da manche Projekte einer NDA unterliegen. 
+
 ### Robert Bosch GmbH
 
 ### grow (a Bosch Company)
+September 2017 bis August 2018, [grow (a Bosch Company)](https://www.growplatform.com), ehemals Robert Bosch Start-Up GmbH
+
+**Lead-Entwickler iOS, myScotty GmbH**   
+
+Definition und Umsetzung von Qualitätsstandards, Teststrategien und Coding-Conventions in meiner Rolle als Technical Lead eines Teams in Ludwigsburg, DE und Cluj-Napoca, RO. Umsetzung der CI/CD-Pipelines zur Verteilung der iOS-App innerhalb der Firma und in Apple TestFlight.
+Einführung des V.I.P.E.R.-Paradigma zur Erhöhung der Testbarkeit.  
+_Ludwigsburg, Baden-Württemberg_
 
 ### Zeitland media and games GmbH
+
+[Zeitland media and Games GmbH](https://zeitland.de)
+  
+**Technical Director**   
+März 2015 bis August 2017  
+Lead-Entwickler native iOS-Entwicklung, Evaluierung von Toolchains und Verwaltungssoftware zusammen mit dem CTO um das technische Fundament der Firma voranzutreiben, sowie Unterstützung von Kunden bei der In-House-Distribution von iOS-Apps.   
+_Ludwigsburg, Baden-Württemberg_
+
+**Software-Entwickler**  
+März 2014 bis Februar 2015     
+Implementierung von Video-Spielen in Unity3D und C# / JavaScript und Umsetzung diverser Apps im Gesundheitsbereich mit Objective-C.  
+_Ludwigsburg, Baden-Württemberg_
+
 
 ### Florian Schuttkowski Software Development
 
 **Selbstständiger Software-Entwickler und -Berater**  
 März 2013 bis Februar 2014  
-dasda  
+Entwicklung von Messe-Apps für Unternehmen aus der Pharma-Branche mit Zielplattform iPad.  
 _Ludwigsburg, Baden-Württemberg_
 
 
