@@ -1,13 +1,19 @@
 # Lebenslauf
 
+```
+// Letzte Aktualisierung: 30.10.2024
+```
+
 ![aa](../assets/pixar-me.jpg){ align=right width="240" loading=lazy }
 
 **Florian Schuttkowski**  
 floːriːaːn ʃʊtkoːfskɪ (de-DE)  
 flɒɹiːɑːn ʃʊətkɒfskiː (en-UK)
 
-Software-Engineer, Mobile Application Lead Developer  
-Ludwigsburg, Bundesrepublik Deutschland
+**Software-Engineer, Mobile Application Lead Developer**  
+Korntaler Straße 15/1  
+71636 Ludwigsburg  
+Bundesrepublik Deutschland
 
 ## Zusammenfassung
 
@@ -15,7 +21,7 @@ dasdsada
 
 ## Kenntnisse
 
-<div class="grid cards" markdown>
+<!-- <div class="grid cards" markdown>
 
 - :simple-git: __DevOps__   
 	Lorem ipsum.
@@ -34,7 +40,7 @@ dasdsada
 - :material-language-swift: __Programmiersprachen / -notationen__  
 	Lorem ipsum.
 
-</div>
+</div> -->
 
 ???+ abstract "Sammlung vieler Sprachen, Tools und Frameworks mit denen ich arbeite(te)"
 
@@ -79,14 +85,16 @@ dasdsada
 
 ## Arbeitserfahrung
 
-- **Lead Developer / Architect iOS**, Electrified Mobility Cross Functional Core Development, [Robert Bosch GmbH](https://www.bosch.de/). 2024-Heute
-- **Lead Developer / Architect iOS**, Cross Solutions Charging, [Robert Bosch GmbH](https://www.bosch.de/). 2021-2023
-- **iOS Software Engineer**, Engineering Software Brokering Solutions, E-Bike & Automated Valet Parking, [Robert Bosch GmbH](https://www.bosch.de/). 2019-2021
-- **iOS Software Engineer**, Project Area Urban Mobility, [Robert Bosch GmbH](https://www.bosch.de/). 2018-2019
-- **Lead Developer iOS**, [myScotty GmbH](https://www.growplatform.com/stories/myscotty-exitstory/). 2017-2019
-- **Technical Director**, [Zeitland media and games GmbH](https://zeitland.com/), 2014-2017
-- **Self-employed Software Developer**, Florian Schuttkowski Software Development. 2013-2014
-- **Game Developer and UI Consultant**, [Filmakademie Baden-Württemberg](https://www.filmakademie.de/). 2012-2013
+### Robert Bosch GmbH
+
+### grow (a Bosch Company)
+
+### Zeitland media and games GmbH
+
+### Florian Schuttkowski Software Development
+
+### Vetter Pharma-Fertigungs GmbH & Co KG
+
 
 ## Ausbildung
 
@@ -111,12 +119,29 @@ dasdsada
 
 !!! example "Hochschul-Aktivitäten"
 
+	**Spiele-Entwickler**  
+		Implementierung der Visual Novel "Shift - Tales of the Sentinels" in Unity3D mit Fokus auf die Übertragung der Neigewinkel des Endgeräts auf den Comic um "hinter" die gezeichneten Elemente blicken zu können.  
+		_Filmakademie Baden-Württemberg, Ludwigsburg_
+
+	**Spiele-Entwickler und User-Interface-Berater**  
+		Umsetzung von Algorithmen zur Umwandlung von Fingerbewegungen in virtuelle physikalische Kräfte als Kern-Eingabemechanikt des Videospiels "Ploc the Croc".  
+		_Filmakademie Baden-Württemberg, Ludwigsburg_
+
 	**Gründungsmitglied M.A.D. - Mobile Application Development Group**  
-		Implementierung von iOS Apps in Objective-C und Implementierung von Videospielen in Objective-C mit Sparrow und Box2D.
+		Implementierung von iOS Apps in Objective-C und Implementierung von Videospielen in Objective-C mit Sparrow und Box2D.  
+		_Hochschule Ravensburg-Weingarten, Weingarten, Baden-Württemberg_
+
+	
+
 
 !!! info "Sonstige Aktivitäten"
 
 	**Gast im Podcast "Auch interessant"**  
 		2014, [Auch interessant]([https://dsadsaa](https://auch-interessant.de/2024/10/01/medienkompetenz-mit-basti-schlingel-wolfle-flowinho/)), Medienkompetenz  
 		_Ausführliches Gespräch über den Umgang mit Internetinhalten, mit Fokus auf generierte Inhalte und deren Auswirkung auf die Erziehung unserer Kinder._
+
+	**Blogger**  
+		2024, [GedankenFlut](https://gedankenflut.org)  
+		dsadsadsa  
+		2017 - 2013, diverse Webseiten
 </div>
