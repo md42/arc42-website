@@ -93,8 +93,18 @@ dasdsada
 
 ### Florian Schuttkowski Software Development
 
+**Selbstständiger Software-Entwickler und -Berater**  
+März 2013 bis Februar 2014  
+dasda  
+_Ludwigsburg, Baden-Württemberg_
+
+
 ### Vetter Pharma-Fertigungs GmbH & Co KG
 
+**Assistenz des Projekt-Managements**  
+März 2011 bis November 2011, [Vetter Pharma-Fertigungs GmbH & Co KG]()  
+Studentische Werksanstellung. Aufgabe war es die Analyseergebnisse der Produktion mit Fokus auf betriebswirtschafliche Optimierung zu verfeinern. Programmierung von Excel-Markos in Microsoft VBS.  
+_Ravensburg, Baden-Württemberg_
 
 ## Ausbildung
 
