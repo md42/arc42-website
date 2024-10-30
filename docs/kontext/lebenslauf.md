@@ -91,6 +91,34 @@ dasdsada
 
 ### Robert Bosch GmbH
 
+#### Geschäftsbereiche
+
+**Electrified Motion**, Januar 2024 bis Heute.  
+**Powertrain Solutions**, Januar 2023 bis Dezember 2023.  
+**Connected Mobility Solutions**, September 2018 bis Dezember 2022.  
+
+#### Projekte
+
+**Software-Architekt, Lead-Entwickler**, Charge my EV  
+Federführender Software-Architekt für eine hoch modularisierte iOS-Referenz-Implementierung und mehrerer SDKs zur Vermarktung und leichteren Integration von Backend-Services.  
+Lead-Entwickler eines iOS Development-Teams in Feuerbach (DE), Belgrad (SRB) und Sofia (BGR).  
+Verwaltung der Organisation, Projekte und Teams in Microsoft Azure DevOps.  
+_Feuerbach, Baden-Württemberg_
+
+**Software-Entwickler**, Automated Valet Parking  
+Analyse, Konzept und Implementierung von iOS-Apps für das Automated Valet Parking Projekt in einem kross-funktionalen agile Scrum-Team. Aktives Mitglied der AVP Academy zur Weiterverbreitung bezüglich Unit-Testing und GIT. Innerhalb dieses Rahmen habe ich einen Workshop "Code Retreat" angeboten.  
+_Ludwigsburg, Baden-Württemberg_
+
+**Software-Entwickler**, E-Bike Digital Business, COBI   
+Als Mitglied in einer krossfunktionalien SAFe-Organisation habe ich an Features für die COBI-App mitgearbeitet.
+_Kusterdingen, Baden-Württemberg_
+
+**Software-Entwickler** für interne Apps im Zusammenhang mit Corporate Mobility  
+Zusätzlich zum Requirements Engineering, dem technischen Konzept sowie der Umsetzung war ich für die Erstellung und den Betrieb von CI/CD-Pipelines zuständig.
+_Ludwigsburg, Baden-Württemberg_
+
+
+
 ### grow (a Bosch Company)
 September 2017 bis August 2018, [grow (a Bosch Company)](https://www.growplatform.com), ehemals Robert Bosch Start-Up GmbH
 
@@ -139,6 +167,13 @@ _Ravensburg, Baden-Württemberg_
 ## Sonstige Aktivitäten
 
 <div class="grid" markdown>
+
+!!! done "Innerbetriebliche Aktivitäten"
+
+	**TBD**
+
+	**AVP Academy**. 
+	Ich habe zur Weiterbildung von Kolleg:innen im Bereich GIT durch Workshops beigetragen und habe selbst auch an Workshops teilgenommen. Aktives Einbringen in das Mindset der Abteilung u.a. durch Veranstaltung des Workshops "Code Retreat".
 
 !!! tip "Online Aktivitäten"
 
