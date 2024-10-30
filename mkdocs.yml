@@ -15,6 +15,7 @@ theme:
   name: material
   language: de
   logo: assets/pixar-me.jpg
+  favicon: assets/favicon.png
   icon:
     logo: fontawesome/solid/hand-spock
   palette:
