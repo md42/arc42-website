@@ -1,3 +1,51 @@
+---
+tags:
+  - git
+  - GitHub Actions
+  - GitHub Pages
+  - Jekyll
+  - Xcode
+  - Jira
+  - Confluence
+  - Unity3D
+  - Csharp
+  - Vim
+  - tmux
+  - Homebrew
+  - Mermaid
+  - Material for MKDocs
+  - VSCodium
+  - SonarQube
+  - HTML5
+  - JavaScript
+  - Sass
+  - Swift
+  - Markdown
+  - Yaml
+  - CSS
+  - UIKit
+  - Nginx
+  - Obsidian
+  - Joplin
+  - Nextcloud
+  - Zsh
+  - Simple Icons
+  - Shields.io
+  - OpenAI
+  - FFmpeg
+  - Gnu Privacy Guard
+  - KeePassXC
+  - 2FAS
+  - Google Fonts
+  - KoFi
+  - Robert Bosch GmbH
+  - Vetter Pharma
+  - Zeitland media and games GmbH
+  - Taekwondo
+  - Ladefuchs
+  - Audiodump
+---
+
 # Lebenslauf
 
 ```
@@ -52,6 +100,8 @@ dasdsada
 	<img alt="xcode" src="https://img.shields.io/badge/-Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white" />
 	<img alt="jira" src="https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=tmux&logoColor=white" />
 	<img alt="confluence" src="https://img.shields.io/badge/-Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white" />
+	<img alt="unity" src="https://img.shields.io/badge/-Unity3D-FFFFFF?style=flat-square&logo=confluence&logoColor=black" />
+	<img alt="csharp" src="https://img.shields.io/badge/-Csharp-99CC00?style=flat-square&logo=sharp&logoColor=black" />
 	<img alt="vim" src="https://img.shields.io/badge/-Vim-019733?style=flat-square&logo=vim&logoColor=white" />
 	<img alt="tmux" src="https://img.shields.io/badge/-tmux-1BB91F?style=flat-square&logo=tmux&logoColor=white" />
 	<img alt="homebrew" src="https://img.shields.io/badge/-Homebrew-FBB040?style=flat-square&logo=homebrew&logoColor=white" />
@@ -172,7 +222,7 @@ _Ravensburg, Baden-Württemberg_
 
 <div class="grid" markdown>
 
-!!! done "Innerbetriebliche Aktivitäten: Robert Bosch GmbH"
+!!! success "Innerbetriebliche Aktivitäten: Robert Bosch GmbH"
 
 	**AVP Academy**    
 	Ich habe zur Weiterbildung von Kolleg:innen im Bereich GIT durch Workshops beigetragen und habe selbst auch an Workshops teilgenommen. Aktives Einbringen in das Mindset der Abteilung u.a. durch Veranstaltung des Workshops "Code Retreat".  
@@ -212,7 +262,7 @@ _Ravensburg, Baden-Württemberg_
 !!! info "Sonstige Aktivitäten"
 
 	**Gast im Podcast "Auch interessant"**  
-		2014, [Auch interessant]([https://dsadsaa](https://auch-interessant.de/2024/10/01/medienkompetenz-mit-basti-schlingel-wolfle-flowinho/)), Medienkompetenz  
+		2014, [Auch interessant](https://auch-interessant.de/2024/10/01/medienkompetenz-mit-basti-schlingel-wolfle-flowinho/), Medienkompetenz  
 		_Ausführliches Gespräch über den Umgang mit Internetinhalten, mit Fokus auf generierte Inhalte und deren Auswirkung auf die Erziehung unserer Kinder._
 
 	**Aktives Mitglied TaeGuk e.V. Ludwigsburg**  
