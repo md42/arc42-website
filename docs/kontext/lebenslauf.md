@@ -85,39 +85,39 @@ dasdsada
 
 ## Arbeitserfahrung
 
-!!! warning „Liste aufgrund Non-Disclosure Agreements unvollständig“
+!!! warning "Liste aufgrund Non-Disclosure Agreements unvollständig"
 
-    Weitere Informationen zu den umgesetzten Projekten und den darin verwendeten Technologien und Paradigmen finden sich in meinem Projekt-Portfolio. Leider kann ich nicht alle umgesetzten Projekte auflisten, da manche Projekte einer NDA unterliegen. 
+    Weitere Informationen zu den umgesetzten Projekten und den darin verwendeten Technologien und Paradigmen finden sich in meinem Projekt-Portfolio. Leider kann ich nicht alle umgesetzten Projekte auflisten, da manche Projekte und / oder Tätigkeitsbereiche einer NDA unterliegen. 
 
 ### Robert Bosch GmbH
 
-#### Geschäftsbereiche
+September 2018 bis Heute, [Robert Bosch GmbH]()
 
-**Electrified Motion**, Januar 2024 bis Heute.  
-**Powertrain Solutions**, Januar 2023 bis Dezember 2023.  
-**Connected Mobility Solutions**, September 2018 bis Dezember 2022.  
-
-#### Projekte
+Im Rahmen meiner Anstellung bei der Robert Bosch GmbH durfte ich in den Geschäftsbereichen Electrified Motion, Powertrain Solutions und Connected Mobility Solutions Teil von unterschiedlichsten Abteilungen und Projekt-Teams sein.
 
 **Software-Architekt, Lead-Entwickler**, Charge my EV  
+Juli 2021 bis Heute  
 Federführender Software-Architekt für eine hoch modularisierte iOS-Referenz-Implementierung und mehrerer SDKs zur Vermarktung und leichteren Integration von Backend-Services.  
 Lead-Entwickler eines iOS Development-Teams in Feuerbach (DE), Belgrad (SRB) und Sofia (BGR).  
 Verwaltung der Organisation, Projekte und Teams in Microsoft Azure DevOps.  
 _Feuerbach, Baden-Württemberg_
 
 **Software-Entwickler**, Automated Valet Parking  
+Juli 2020 bis Juni 2021  
 Analyse, Konzept und Implementierung von iOS-Apps für das Automated Valet Parking Projekt in einem kross-funktionalen agile Scrum-Team. Aktives Mitglied der AVP Academy zur Weiterverbreitung bezüglich Unit-Testing und GIT. Innerhalb dieses Rahmen habe ich einen Workshop "Code Retreat" angeboten.  
 _Ludwigsburg, Baden-Württemberg_
 
 **Software-Entwickler**, E-Bike Digital Business, COBI   
-Als Mitglied in einer krossfunktionalien SAFe-Organisation habe ich an Features für die COBI-App mitgearbeitet.
+September 2019 - Juni 2000  
+Als Mitglied in einer krossfunktionalien SAFe-Organisation habe ich an Features für die COBI-App mitgearbeitet.  
 _Kusterdingen, Baden-Württemberg_
 
 **Software-Entwickler** für interne Apps im Zusammenhang mit Corporate Mobility  
+September 2018 bis August 2019  
 Zusätzlich zum Requirements Engineering, dem technischen Konzept sowie der Umsetzung war ich für die Erstellung und den Betrieb von CI/CD-Pipelines zuständig.
 _Ludwigsburg, Baden-Württemberg_
 
-
+---
 
 ### grow (a Bosch Company)
 September 2017 bis August 2018, [grow (a Bosch Company)](https://www.growplatform.com), ehemals Robert Bosch Start-Up GmbH
@@ -127,6 +127,8 @@ September 2017 bis August 2018, [grow (a Bosch Company)](https://www.growplatfor
 Definition und Umsetzung von Qualitätsstandards, Teststrategien und Coding-Conventions in meiner Rolle als Technical Lead eines Teams in Ludwigsburg, DE und Cluj-Napoca, RO. Umsetzung der CI/CD-Pipelines zur Verteilung der iOS-App innerhalb der Firma und in Apple TestFlight.
 Einführung des V.I.P.E.R.-Paradigma zur Erhöhung der Testbarkeit.  
 _Ludwigsburg, Baden-Württemberg_
+
+---
 
 ### Zeitland media and games GmbH
 
@@ -142,6 +144,7 @@ März 2014 bis Februar 2015
 Implementierung von Video-Spielen in Unity3D und C# / JavaScript und Umsetzung diverser Apps im Gesundheitsbereich mit Objective-C.  
 _Ludwigsburg, Baden-Württemberg_
 
+---
 
 ### Florian Schuttkowski Software Development
 
@@ -150,6 +153,7 @@ März 2013 bis Februar 2014
 Entwicklung von Messe-Apps für Unternehmen aus der Pharma-Branche mit Zielplattform iPad.  
 _Ludwigsburg, Baden-Württemberg_
 
+---
 
 ### Vetter Pharma-Fertigungs GmbH & Co KG
 
@@ -160,31 +164,35 @@ _Ravensburg, Baden-Württemberg_
 
 ## Ausbildung
 
-- **B.Sc.**, [ Ravensburg-Weingarten University of Applied Sciences ](https://rwu.de), Department of [Applied Informatics](https://www.rwu.de/studieren/studiengaenge/angewandte-informatik). 2011
-	- Gründungsmitglied der Mobile Application Development Group (M.A.D.), erste App Development Student Group der Fachhochschule.
-	- Sprecher „Nacht der Informatik“.
+2011   
+**B.Sc.**, [ Ravensburg-Weingarten University of Applied Sciences ](https://rwu.de), Department of [Applied Informatics](https://www.rwu.de/studieren/studiengaenge/angewandte-informatik).   
+**Thema der Thesis:** _"Scrum - die Do's and Don'ts in der agilen Software-Entwicklung"_, entstanden in Zusammenarbeit mit [Zeitland media and games GmbH](https://zeitland.com)
 
 ## Sonstige Aktivitäten
 
 <div class="grid" markdown>
 
-!!! done "Innerbetriebliche Aktivitäten"
+!!! done "Innerbetriebliche Aktivitäten: Robert Bosch GmbH"
 
 	**TBD**
 
-	**AVP Academy**. 
-	Ich habe zur Weiterbildung von Kolleg:innen im Bereich GIT durch Workshops beigetragen und habe selbst auch an Workshops teilgenommen. Aktives Einbringen in das Mindset der Abteilung u.a. durch Veranstaltung des Workshops "Code Retreat".
+	**AVP Academy**    
+	Ich habe zur Weiterbildung von Kolleg:innen im Bereich GIT durch Workshops beigetragen und habe selbst auch an Workshops teilgenommen. Aktives Einbringen in das Mindset der Abteilung u.a. durch Veranstaltung des Workshops "Code Retreat".  
+	_Feuerbach, Baden-Württemberg & Ludwigsburg, Baden-Württemberg_
 
 !!! tip "Online Aktivitäten"
 
 	**iOS Software-Entwickler Ladefuchs, einfach schlau laden**  
-		2020 - 2021, [Ladefuchs, einfach schlau laden](https://ladefuchs.app), Fokus auf schnelle Time-to-Market. Umsetzung in UIKit.
+		2020 - 2021, [Ladefuchs, einfach schlau laden](https://ladefuchs.app)  
+		Fokus auf schnelle Time-to-Market. Umsetzung in UIKit.
 	
 	**Podcast-Host, Audiodump**  
-		2017 - Heute, [audiodump](https://audiodump.de), Podcast im Stammtisch-Format, Fokus auf Technologie und Apple, verschiedenste Gäste. Geschätzt 10.000 Hörer:innen pro Episode.
+		2017 - Heute, [audiodump](https://audiodump.de)   
+		Podcast im Stammtisch-Format, Fokus auf Technologie und Apple, verschiedenste Gäste. Ungefähr 5.000 Hörer:innen pro Episode.
 
 	**Open-Source Entwickler**  
-		2011 - Heute, [GitHub](https://github.com/flowinho), Veröffentlichung von Automationen, Konfigurationen und Hilfsprogrammen in meinem GitHub-Account.
+		2011 - Heute, [GitHub](https://github.com/flowinho)   
+		Veröffentlichung von Automationen, Konfigurationen und Hilfsprogrammen in meinem GitHub-Account.
 
 !!! example "Hochschul-Aktivitäten"
 
