@@ -91,7 +91,7 @@ dasdsada
 
 ### Robert Bosch GmbH
 
-September 2018 bis Heute, [Robert Bosch GmbH]()
+September 2018 bis Heute, [Robert Bosch GmbH](https://www.bosch.de/)
 
 Im Rahmen meiner Anstellung bei der Robert Bosch GmbH durfte ich in den Geschäftsbereichen Electrified Motion, Powertrain Solutions und Connected Mobility Solutions Teil von unterschiedlichsten Abteilungen und Projekt-Teams sein.
 
@@ -132,7 +132,7 @@ _Ludwigsburg, Baden-Württemberg_
 
 ### Zeitland media and games GmbH
 
-[Zeitland media and Games GmbH](https://zeitland.de)
+[Zeitland media and Games GmbH](https://zeitland.com)
   
 **Technical Director**   
 März 2015 bis August 2017  
@@ -158,7 +158,7 @@ _Ludwigsburg, Baden-Württemberg_
 ### Vetter Pharma-Fertigungs GmbH & Co KG
 
 **Assistenz des Projekt-Managements**  
-März 2011 bis November 2011, [Vetter Pharma-Fertigungs GmbH & Co KG]()  
+März 2011 bis November 2011, [Vetter Pharma-Fertigungs GmbH & Co KG](https://www.vetter-pharma.com/de/)  
 Studentische Werksanstellung. Aufgabe war es die Analyseergebnisse der Produktion mit Fokus auf betriebswirtschafliche Optimierung zu verfeinern. Programmierung von Excel-Markos in Microsoft VBS.  
 _Ravensburg, Baden-Württemberg_
 
@@ -173,8 +173,6 @@ _Ravensburg, Baden-Württemberg_
 <div class="grid" markdown>
 
 !!! done "Innerbetriebliche Aktivitäten: Robert Bosch GmbH"
-
-	**TBD**
 
 	**AVP Academy**    
 	Ich habe zur Weiterbildung von Kolleg:innen im Bereich GIT durch Workshops beigetragen und habe selbst auch an Workshops teilgenommen. Aktives Einbringen in das Mindset der Abteilung u.a. durch Veranstaltung des Workshops "Code Retreat".  
@@ -217,8 +215,7 @@ _Ravensburg, Baden-Württemberg_
 		2014, [Auch interessant]([https://dsadsaa](https://auch-interessant.de/2024/10/01/medienkompetenz-mit-basti-schlingel-wolfle-flowinho/)), Medienkompetenz  
 		_Ausführliches Gespräch über den Umgang mit Internetinhalten, mit Fokus auf generierte Inhalte und deren Auswirkung auf die Erziehung unserer Kinder._
 
-	**Blogger**  
-		2024, [GedankenFlut](https://gedankenflut.org)  
-		dsadsadsa  
-		2017 - 2013, diverse Webseiten
+	**Aktives Mitglied TaeGuk e.V. Ludwigsburg**  
+		Taekwondo-Verein mit Fokus auf Pomsae  
+		_Ludwigsburg, Baden-Württemberg_
 </div>
