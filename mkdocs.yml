@@ -13,6 +13,7 @@ extra_javascript:
 
 theme:
   name: material
+  custom_dir: overrides
   language: de
   logo: assets/pixar-me.jpg
   favicon: assets/favicon.png

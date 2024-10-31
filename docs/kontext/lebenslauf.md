@@ -1,3 +1,51 @@
+---
+tags:
+  - git
+  - GitHub Actions
+  - GitHub Pages
+  - Jekyll
+  - Xcode
+  - Jira
+  - Confluence
+  - Unity3D
+  - Csharp
+  - Vim
+  - tmux
+  - Homebrew
+  - Mermaid
+  - Material for MKDocs
+  - VSCodium
+  - SonarQube
+  - HTML5
+  - JavaScript
+  - Sass
+  - Swift
+  - Markdown
+  - Yaml
+  - CSS
+  - UIKit
+  - Nginx
+  - Obsidian
+  - Joplin
+  - Nextcloud
+  - Zsh
+  - Simple Icons
+  - Shields.io
+  - OpenAI
+  - FFmpeg
+  - Gnu Privacy Guard
+  - KeePassXC
+  - 2FAS
+  - Google Fonts
+  - KoFi
+  - Robert Bosch GmbH
+  - Vetter Pharma
+  - Zeitland media and games GmbH
+  - Taekwondo
+  - Ladefuchs
+  - Audiodump
+---
+
 # Lebenslauf
 
 ```
@@ -52,6 +100,8 @@ dasdsada
 	<img alt="xcode" src="https://img.shields.io/badge/-Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white" />
 	<img alt="jira" src="https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=tmux&logoColor=white" />
 	<img alt="confluence" src="https://img.shields.io/badge/-Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white" />
+	<img alt="unity" src="https://img.shields.io/badge/-Unity3D-FFFFFF?style=flat-square&logo=confluence&logoColor=black" />
+	<img alt="csharp" src="https://img.shields.io/badge/-Csharp-99CC00?style=flat-square&logo=sharp&logoColor=black" />
 	<img alt="vim" src="https://img.shields.io/badge/-Vim-019733?style=flat-square&logo=vim&logoColor=white" />
 	<img alt="tmux" src="https://img.shields.io/badge/-tmux-1BB91F?style=flat-square&logo=tmux&logoColor=white" />
 	<img alt="homebrew" src="https://img.shields.io/badge/-Homebrew-FBB040?style=flat-square&logo=homebrew&logoColor=white" />
@@ -85,39 +135,39 @@ dasdsada
 
 ## Arbeitserfahrung
 
-!!! warning „Liste aufgrund Non-Disclosure Agreements unvollständig“
+!!! warning "Liste aufgrund Non-Disclosure Agreements unvollständig"
 
-    Weitere Informationen zu den umgesetzten Projekten und den darin verwendeten Technologien und Paradigmen finden sich in meinem Projekt-Portfolio. Leider kann ich nicht alle umgesetzten Projekte auflisten, da manche Projekte einer NDA unterliegen. 
+    Weitere Informationen zu den umgesetzten Projekten und den darin verwendeten Technologien und Paradigmen finden sich in meinem Projekt-Portfolio. Leider kann ich nicht alle umgesetzten Projekte auflisten, da manche Projekte und / oder Tätigkeitsbereiche einer NDA unterliegen. 
 
 ### Robert Bosch GmbH
 
-#### Geschäftsbereiche
+September 2018 bis Heute, [Robert Bosch GmbH](https://www.bosch.de/)
 
-**Electrified Motion**, Januar 2024 bis Heute.  
-**Powertrain Solutions**, Januar 2023 bis Dezember 2023.  
-**Connected Mobility Solutions**, September 2018 bis Dezember 2022.  
-
-#### Projekte
+Im Rahmen meiner Anstellung bei der Robert Bosch GmbH durfte ich in den Geschäftsbereichen Electrified Motion, Powertrain Solutions und Connected Mobility Solutions Teil von unterschiedlichsten Abteilungen und Projekt-Teams sein.
 
 **Software-Architekt, Lead-Entwickler**, Charge my EV  
+Juli 2021 bis Heute  
 Federführender Software-Architekt für eine hoch modularisierte iOS-Referenz-Implementierung und mehrerer SDKs zur Vermarktung und leichteren Integration von Backend-Services.  
 Lead-Entwickler eines iOS Development-Teams in Feuerbach (DE), Belgrad (SRB) und Sofia (BGR).  
 Verwaltung der Organisation, Projekte und Teams in Microsoft Azure DevOps.  
 _Feuerbach, Baden-Württemberg_
 
 **Software-Entwickler**, Automated Valet Parking  
+Juli 2020 bis Juni 2021  
 Analyse, Konzept und Implementierung von iOS-Apps für das Automated Valet Parking Projekt in einem kross-funktionalen agile Scrum-Team. Aktives Mitglied der AVP Academy zur Weiterverbreitung bezüglich Unit-Testing und GIT. Innerhalb dieses Rahmen habe ich einen Workshop "Code Retreat" angeboten.  
 _Ludwigsburg, Baden-Württemberg_
 
 **Software-Entwickler**, E-Bike Digital Business, COBI   
-Als Mitglied in einer krossfunktionalien SAFe-Organisation habe ich an Features für die COBI-App mitgearbeitet.
+September 2019 - Juni 2000  
+Als Mitglied in einer krossfunktionalien SAFe-Organisation habe ich an Features für die COBI-App mitgearbeitet.  
 _Kusterdingen, Baden-Württemberg_
 
 **Software-Entwickler** für interne Apps im Zusammenhang mit Corporate Mobility  
+September 2018 bis August 2019  
 Zusätzlich zum Requirements Engineering, dem technischen Konzept sowie der Umsetzung war ich für die Erstellung und den Betrieb von CI/CD-Pipelines zuständig.
 _Ludwigsburg, Baden-Württemberg_
 
-
+---
 
 ### grow (a Bosch Company)
 September 2017 bis August 2018, [grow (a Bosch Company)](https://www.growplatform.com), ehemals Robert Bosch Start-Up GmbH
@@ -128,9 +178,11 @@ Definition und Umsetzung von Qualitätsstandards, Teststrategien und Coding-Conv
 Einführung des V.I.P.E.R.-Paradigma zur Erhöhung der Testbarkeit.  
 _Ludwigsburg, Baden-Württemberg_
 
+---
+
 ### Zeitland media and games GmbH
 
-[Zeitland media and Games GmbH](https://zeitland.de)
+[Zeitland media and Games GmbH](https://zeitland.com)
   
 **Technical Director**   
 März 2015 bis August 2017  
@@ -142,6 +194,7 @@ März 2014 bis Februar 2015
 Implementierung von Video-Spielen in Unity3D und C# / JavaScript und Umsetzung diverser Apps im Gesundheitsbereich mit Objective-C.  
 _Ludwigsburg, Baden-Württemberg_
 
+---
 
 ### Florian Schuttkowski Software Development
 
@@ -150,41 +203,44 @@ März 2013 bis Februar 2014
 Entwicklung von Messe-Apps für Unternehmen aus der Pharma-Branche mit Zielplattform iPad.  
 _Ludwigsburg, Baden-Württemberg_
 
+---
 
 ### Vetter Pharma-Fertigungs GmbH & Co KG
 
 **Assistenz des Projekt-Managements**  
-März 2011 bis November 2011, [Vetter Pharma-Fertigungs GmbH & Co KG]()  
+März 2011 bis November 2011, [Vetter Pharma-Fertigungs GmbH & Co KG](https://www.vetter-pharma.com/de/)  
 Studentische Werksanstellung. Aufgabe war es die Analyseergebnisse der Produktion mit Fokus auf betriebswirtschafliche Optimierung zu verfeinern. Programmierung von Excel-Markos in Microsoft VBS.  
 _Ravensburg, Baden-Württemberg_
 
 ## Ausbildung
 
-- **B.Sc.**, [ Ravensburg-Weingarten University of Applied Sciences ](https://rwu.de), Department of [Applied Informatics](https://www.rwu.de/studieren/studiengaenge/angewandte-informatik). 2011
-	- Gründungsmitglied der Mobile Application Development Group (M.A.D.), erste App Development Student Group der Fachhochschule.
-	- Sprecher „Nacht der Informatik“.
+2011   
+**B.Sc.**, [ Ravensburg-Weingarten University of Applied Sciences ](https://rwu.de), Department of [Applied Informatics](https://www.rwu.de/studieren/studiengaenge/angewandte-informatik).   
+**Thema der Thesis:** _"Scrum - die Do's and Don'ts in der agilen Software-Entwicklung"_, entstanden in Zusammenarbeit mit [Zeitland media and games GmbH](https://zeitland.com)
 
 ## Sonstige Aktivitäten
 
 <div class="grid" markdown>
 
-!!! done "Innerbetriebliche Aktivitäten"
+!!! success "Innerbetriebliche Aktivitäten: Robert Bosch GmbH"
 
-	**TBD**
-
-	**AVP Academy**. 
-	Ich habe zur Weiterbildung von Kolleg:innen im Bereich GIT durch Workshops beigetragen und habe selbst auch an Workshops teilgenommen. Aktives Einbringen in das Mindset der Abteilung u.a. durch Veranstaltung des Workshops "Code Retreat".
+	**AVP Academy**    
+	Ich habe zur Weiterbildung von Kolleg:innen im Bereich GIT durch Workshops beigetragen und habe selbst auch an Workshops teilgenommen. Aktives Einbringen in das Mindset der Abteilung u.a. durch Veranstaltung des Workshops "Code Retreat".  
+	_Feuerbach, Baden-Württemberg & Ludwigsburg, Baden-Württemberg_
 
 !!! tip "Online Aktivitäten"
 
 	**iOS Software-Entwickler Ladefuchs, einfach schlau laden**  
-		2020 - 2021, [Ladefuchs, einfach schlau laden](https://ladefuchs.app), Fokus auf schnelle Time-to-Market. Umsetzung in UIKit.
+		2020 - 2021, [Ladefuchs, einfach schlau laden](https://ladefuchs.app)  
+		Fokus auf schnelle Time-to-Market. Umsetzung in UIKit.
 	
 	**Podcast-Host, Audiodump**  
-		2017 - Heute, [audiodump](https://audiodump.de), Podcast im Stammtisch-Format, Fokus auf Technologie und Apple, verschiedenste Gäste. Geschätzt 10.000 Hörer:innen pro Episode.
+		2017 - Heute, [audiodump](https://audiodump.de)   
+		Podcast im Stammtisch-Format, Fokus auf Technologie und Apple, verschiedenste Gäste. Ungefähr 5.000 Hörer:innen pro Episode.
 
 	**Open-Source Entwickler**  
-		2011 - Heute, [GitHub](https://github.com/flowinho), Veröffentlichung von Automationen, Konfigurationen und Hilfsprogrammen in meinem GitHub-Account.
+		2011 - Heute, [GitHub](https://github.com/flowinho)   
+		Veröffentlichung von Automationen, Konfigurationen und Hilfsprogrammen in meinem GitHub-Account.
 
 !!! example "Hochschul-Aktivitäten"
 
@@ -206,11 +262,10 @@ _Ravensburg, Baden-Württemberg_
 !!! info "Sonstige Aktivitäten"
 
 	**Gast im Podcast "Auch interessant"**  
-		2014, [Auch interessant]([https://dsadsaa](https://auch-interessant.de/2024/10/01/medienkompetenz-mit-basti-schlingel-wolfle-flowinho/)), Medienkompetenz  
+		2014, [Auch interessant](https://auch-interessant.de/2024/10/01/medienkompetenz-mit-basti-schlingel-wolfle-flowinho/), Medienkompetenz  
 		_Ausführliches Gespräch über den Umgang mit Internetinhalten, mit Fokus auf generierte Inhalte und deren Auswirkung auf die Erziehung unserer Kinder._
 
-	**Blogger**  
-		2024, [GedankenFlut](https://gedankenflut.org)  
-		dsadsadsa  
-		2017 - 2013, diverse Webseiten
+	**Aktives Mitglied TaeGuk e.V. Ludwigsburg**  
+		Taekwondo-Verein mit Fokus auf Pomsae  
+		_Ludwigsburg, Baden-Württemberg_
 </div>
