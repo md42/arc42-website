@@ -2,8 +2,11 @@
 
 ## Willkommen!
 
+Ich bin ein Software Engineer mit über 10 Jahren Erfahrung in verschiedenen Branchen und Teams, spezialisiert auf Architektur, Qualität und effiziente Zusammenarbeit. Agile Werte lebe ich, indem ich Prozesse auf Teams zuschneide und stetig optimiere – denn guter Code entsteht nicht
+im Chaos. Meine vielseitige Erfahrung hilft mir, als Schnittstelle zwischen Stakeholdern und Entwicklungsteams Erwartungen klar zu kommunizieren und gemeinsam starke Lösungen zu schaffen. Nebenbei teile ich mein Wissen in Workshops und Gilden, immer mit dem Ziel, Qualität und
+Wiederverwendbarkeit auf ein neues Level zu heben. 
 
-Mein Name ist Florian Schuttkowski und ich entwickle unter anderem diese **Apps** von denen ihr sicher schonmal gehört habt. Jepp, ich schreibe Programmcode, damit diese Programme funktionieren -- damit ihr das nicht müsst. Mein Fokus liegt auf Geräten auf denen Betriebssysteme von Apple laufen, ist aber nicht darauf beschränkt. Weil ich Dinge mag, die "fancy" sind, seht ihr mich selten im Backend. Manche dürften schon bezeugen, wie ich mich in Servercode ausgetobt habe -- und sie haben es sogar überlebt!
+Software Engineering? Für mich mehr als ein Job – es ist Einstellungssache.
 
 
 
@@ -12,6 +15,8 @@ Mein Name ist Florian Schuttkowski und ich entwickle unter anderem diese **Apps*
 ???+ tip "Ist das nun eine Software Dokumentation oder deine persönliche Webseite?"
 
     Diese Webseite ist eine Übertragung des Dokumentationskonzept ARC42 auf private Personen und deren Projekte. Wie genau es dazu kam, welche Anpassungen ich vorgenommen habe und warum es mir so gefällt, lässt sich im Bereich "Einführung & Ziele" nachlesen.
+
+Diese Website wirkt wie eine statische Dokumentation, wird aber regelmäßig von mir aktualisiert. Neue Inhalte zu Software-Tooling, Programm-Architektur, Videospielen und Podcasts werden, ähnlich wie in einem Blog, hinzugefügt. 
 
 <div class="grid cards" markdown>
 
@@ -61,7 +66,7 @@ Mein Name ist Florian Schuttkowski und ich entwickle unter anderem diese **Apps*
   
     ---
 
-    Allgemeine Lösungsansätze für Meta-Probleme, Rezepte _als Sequendiagramme_, Bastelanleitungen
+    Allgemeine Lösungsansätze für Meta-Probleme, Rezepte _als Sequenzdiagramme_, Bastelanleitungen
 
 - :material-alert-circle-check-outline: __9. Entscheidungen__
   
