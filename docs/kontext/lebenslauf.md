@@ -56,7 +56,7 @@ tags:
 ## Florian Schuttkowski
 floːriːaːn ʃʊtkoːfskɪ (de-DE)  
 flɒɹiːɑːn ʃʊətkɒfskiː (en-UK)  
-シュトコウスキー フロリアンサン
+フロリアン シュウトコフスキー 
 
 **Software Lead Engineer, Mobile Application Expert**  
 Korntaler Straße 15/1  
@@ -71,7 +71,9 @@ Bundesrepublik Deutschland
 
 Ich bin ein Software Engineer mit über 10 Jahren Erfahrung in verschiedenen Branchen und Teams, spezialisiert auf Architektur, Qualität und effiziente Zusammenarbeit. Agile Werte lebe ich, indem ich Prozesse auf Teams zuschneide und stetig optimiere – denn guter Code entsteht nicht
 im Chaos. Meine vielseitige Erfahrung hilft mir, als Schnittstelle zwischen Stakeholdern und Entwicklungsteams Erwartungen klar zu kommunizieren und gemeinsam starke Lösungen zu schaffen. Nebenbei teile ich mein Wissen in Workshops und Gilden, immer mit dem Ziel, Qualität und
-Wiederverwendbarkeit auf ein neues Level zu heben. Software Engineering? Für mich mehr als ein Job – es ist Einstellungssache.
+Wiederverwendbarkeit auf ein neues Level zu heben. 
+
+Software Engineering? Für mich mehr als ein Job – es ist Einstellungssache.
 
 ## Kenntnisse
 
@@ -99,7 +101,7 @@ September 2018 bis Heute, [Robert Bosch GmbH](https://www.bosch.de/)
 _Juli 2021 - Heute, in Feuerbach, Deutschland_
 
 - Software-Architekt für modulare iOS-Referenzimplementierungen und SDKs zur Vermarktung und Integration von Backend-Services.
-- Entwicklung und Wartung Organisationen und CI/CD-Pipelines zur App-Verteilung über Azure DevOps und GitHub.
+- Entwicklung und Wartung von Organisationen und CI/CD-Pipelines zur App-Verteilung über Azure DevOps und GitHub.
 - Bereitstellung und Integration von Software-Komponenten in Paketverwaltungsquellen für Kundenanwendungen.
 - Schnittstelle zwischen Product Owner und Entwicklungsteam im SAFe- und Scrum-Umfeld.
 - Leitung eines internationalen iOS-Entwicklungsteams (Deutschland, Serbien, Bulgarien), technische Bewertungen von Bewerber:innen.
@@ -165,6 +167,8 @@ _März 2013 - Februar 2014, in Ludwigsburg, Deutschland_
 - Beratung, Design und Umsetzung benutzerfreundlicher App-Oberflächen.
 - Unterstützung bei der internen Verteilung von iOS-Apps. 
 
+---
+
 ### Filmakademie Baden-Württemberg
 
 Oktober 2012 bis April 2013, [Filmakademie Baden-Württemberg](https://www.filmakademie.de/en/start)
@@ -177,6 +181,7 @@ Kräfte innerhalb der Game-Engine Unity3D.
 - Entwurf und Umsetzung eines Steuerungskonzepts mit dem Gyroskop, welches innerhalb einer Graphic-Novel ermöglicht mittels Parallax-
 Effekt ”hinter”gezeichnete Comic-Panele zu blicken.
 
+---
 
 ### Vetter Pharma-Fertigungs GmbH & Co KG
 
@@ -185,12 +190,12 @@ März 2011 bis November 2011, [Vetter Pharma-Fertigungs GmbH & Co KG](https://ww
 **Assistenz des Projekt-Managements - Studentische Beschäftigung**  
 _März 2011 - November 2011, in Ravensburg, Deutschland_
 
-- Aufgabe war die Analyseergebnisse der Produktion mit Fokus auf betriebswirtschafliche Optimierung zu verfeinern.
+- Aufgabe war, die Analyseergebnisse der Produktion mit Fokus auf betriebswirtschafliche Optimierung zu verfeinern.
 - Programmierung von Excel-Markos in Microsoft VBS.
 
 !!! warning "Liste aufgrund Non-Disclosure Agreements unvollständig"
 
-    Leider kann ich nicht alle umgesetzten Projekte auflisten, da manche Projekte und / oder Tätigkeitsbereiche einem NDA mit meinem jeweiligen Arbeitgeber und / oder Auftraggeber:innen unterliegen. Gerne können wir uns über erweiterte Inhalte in einem persönlichen Gespräch austauschen, sofern diese Inhalt nicht gegen evtl. vorhandene Geheimhaltungsvereinbarungen verstoßen.
+    Leider kann ich nicht alle umgesetzten Projekte auflisten, da manche Projekte und / oder Tätigkeitsbereiche einem NDA mit meinem jeweiligen Arbeitgeber und / oder Auftraggeber:innen unterliegen. Gerne können wir uns über erweiterte Inhalte in einem persönlichen Gespräch austauschen, sofern diese Inhalte nicht gegen evtl. vorhandene Geheimhaltungsvereinbarungen verstoßen.
 
 ## Ausbildung
 
@@ -200,7 +205,7 @@ _März 2011 - November 2011, in Ravensburg, Deutschland_
 _2010 - 2014, in Weingarten, Deutschland_
 
 - Thesis: _Scrum - Die Dos und Don’ts der agilen Software-Entwicklung._
-- Gründungsmitglied der hochschul-gestützten Mobile Application Development Group zum Release des iPads um von Anfang an Erfahrungswerte
+- Gründungsmitglied der hochschul-gestützten Mobile Application Development Group zum Release des iPads, um von Anfang an Erfahrungswerte
 aufzubauen.
     + Umsetzung von Apps in Objective-C.
     + Entwicklung von Videospielen mit Objective-C, Sparrow und Box2D.
@@ -261,48 +266,7 @@ aufzubauen.
 		_Ludwigsburg, Baden-Württemberg_
 </div>
 
-## Weitere Technologien und Themen mit denen ich Kontakt hatte
-
-<img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-<img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
-<img alt="gitignoredotio" src="https://img.shields.io/badge/-gitignore.io-204ECF?style=flat-square&logo=gitignoredotio&logoColor=white" />
-<img alt="githubpages" src="https://img.shields.io/badge/-GitHub_Pages-222222?style=flat-square&logo=githubpages&logoColor=white" />
-<img alt="jekyll" src="https://img.shields.io/badge/-Jekyll-CC0000?style=flat-square&logo=jekyll&logoColor=white" />
-<img alt="xcode" src="https://img.shields.io/badge/-Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white" />
-<img alt="jira" src="https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=tmux&logoColor=white" />
-<img alt="confluence" src="https://img.shields.io/badge/-Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white" />
-<img alt="unity" src="https://img.shields.io/badge/-Unity3D-FFFFFF?style=flat-square&logo=confluence&logoColor=black" />
-<img alt="csharp" src="https://img.shields.io/badge/-Csharp-99CC00?style=flat-square&logo=sharp&logoColor=black" />
-<img alt="vim" src="https://img.shields.io/badge/-Vim-019733?style=flat-square&logo=vim&logoColor=white" />
-<img alt="tmux" src="https://img.shields.io/badge/-tmux-1BB91F?style=flat-square&logo=tmux&logoColor=white" />
-<img alt="homebrew" src="https://img.shields.io/badge/-Homebrew-FBB040?style=flat-square&logo=homebrew&logoColor=white" />
-<img alt="mermaid" src="https://img.shields.io/badge/-Mermaid-FF3670?style=flat-square&logo=mermaid&logoColor=white" />
-<img alt="mkdocs" src="https://img.shields.io/badge/-Material_for_MKDocs-526CFE?style=flat-square&logo=materialformkdocs&logoColor=white" />
-<img alt="vscodium" src="https://img.shields.io/badge/-VSCodium-2F80ED?style=flat-square&logo=vscodium&logoColor=white" />
-<img alt="sonarqube" src="https://img.shields.io/badge/-SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white" />
-<img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-<img alt="Javascript" src="https://img.shields.io/badge/-javascript-f7df1c?style=flat-square&logo=javascript&logoColor=black" />
-<img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
-<img alt="swift" src="https://img.shields.io/badge/-Swift-F05138?style=flat-square&logo=swift&logoColor=white" />
-<img alt="markdown" src="https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown&logoColor=white" />
-<img alt="yaml" src="https://img.shields.io/badge/-YAML-CB171E?style=flat-square&logo=yaml&logoColor=white" />
-<img alt="css" src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white" />
-<img alt="uikit" src="https://img.shields.io/badge/-UIkit-2396F3?style=flat-square&logo=uikit&logoColor=white" />
-<img alt="nginx" src="https://img.shields.io/badge/-NGINX-009639?style=flat-square&logo=nginx&logoColor=white" />
-<img alt="obsidian" src="https://img.shields.io/badge/-Obsidian-7C3AED?style=flat-square&logo=obsidian&logoColor=white" />
-<img alt="joplin" src="https://img.shields.io/badge/-Joplin-1071D3?style=flat-square&logo=joplin&logoColor=white" />
-<img alt="nextcloud" src="https://img.shields.io/badge/-Nextcloud-0082C9?style=flat-square&logo=nextcloud&logoColor=white" />
-<img alt="zsh" src="https://img.shields.io/badge/-Zsh-F15A24?style=flat-square&logo=zsh&logoColor=white" />
-<img alt="simpleicons" src="https://img.shields.io/badge/-Simple_Icons-111111?style=flat-square&logo=simpleicons&logoColor=white" />
-<img alt="shieldsio" src="https://img.shields.io/badge/-Shields.io-000000?style=flat-square&logo=shieldsdotio&logoColor=white" />
-<img alt="openai" src="https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
-<img alt="ffmpeg" src="https://img.shields.io/badge/-FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white" />
-<img alt="gpg" src="https://img.shields.io/badge/-Gnu_Privacy_Guard-0093DD?style=flat-square&logo=gnuprivacyguard&logoColor=white" />
-<img alt="keepassxc" src="https://img.shields.io/badge/-KeePassXC-6CAC4D?style=flat-square&logo=keepassxc&logoColor=white" />
-<img alt="2fas" src="https://img.shields.io/badge/-2FAS-EC1C24?style=flat-square&logo=2fas&logoColor=white" />
-<img alt="googlefonts" src="https://img.shields.io/badge/-Google_Fonts-4285F4?style=flat-square&logo=googlefonts&logoColor=white" />
-<img alt="kofi" src="https://img.shields.io/badge/-KoFi-FF5E5B?style=flat-square&logo=kofi&logoColor=white" />
-<img alt="bosch" src="https://img.shields.io/badge/-Bosch-EA0016?style=flat-square&logo=bosch&logoColor=white" />
+---
 
 ```
 // Letzte Aktualisierung: 04.11.2024
