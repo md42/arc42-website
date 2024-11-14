@@ -1,4 +1,4 @@
-# Webfont Hack als onospaced Font in Material for MKDocs nutzen
+# Webfont Hack als monospaced Font in Material for MKDocs nutzen
 
 1. Download der neuesten Version von Hack: [https://github.com/source-foundry/Hack/releases/latest](https://github.com/source-foundry/Hack/releases/latest)
 1. Verschieben des Ordners `/fonts` in `/docs/stylesheets`
