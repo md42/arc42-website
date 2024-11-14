@@ -98,6 +98,7 @@ tags:
 **Florian Schuttkowski**  
 floːriːaːn ʃʊtkoːfskɪ (de-DE)  
 flɒɹiːɑːn ʃʊətkɒfskiː (en-UK)
+シュトコウスキー フロリアンサン
 
 **Software-Engineer, Mobile Application Lead Developer**  
 Korntaler Straße 15/1  
