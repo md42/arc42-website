@@ -11,12 +11,19 @@
     max-width: 80rem;
 }
 
+
 .md-content p {
     font-family: var(--md-text-custom-font);
 }
 
 .md-content li {
     font-family: var(--md-text-custom-font);
+}
+
+.cards  {
+    li p {
+        font-family: var(--md-text-font);
+    }
 }
 
 html {

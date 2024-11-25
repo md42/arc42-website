@@ -213,7 +213,7 @@ aufzubauen.
 
 ## Sonstige Aktivitäten
 
-<div class="grid" markdown>
+<!-- <div class="grid" markdown> -->
 
 !!! success "Innerbetriebliche Aktivitäten: Robert Bosch GmbH"
 
@@ -264,7 +264,7 @@ aufzubauen.
 	**Aktives Mitglied TaeGuk e.V. Ludwigsburg**  
 		Taekwondo-Verein mit Fokus auf Pomsae  
 		_Ludwigsburg, Baden-Württemberg_
-</div>
+<!-- </div> -->
 
 ---
 
