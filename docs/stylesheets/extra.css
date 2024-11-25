@@ -20,10 +20,21 @@
     font-family: var(--md-text-custom-font);
 }
 
+.font-reset {
+    font-family: var(--md-text-font);
+}
+
+.md-ellipsis {
+    font-family: var(--md-text-custom-font);
+}
 .cards  {
     li p {
         font-family: var(--md-text-font);
     }
+}
+
+.md-nav .md-ellipsis {
+    font-family: var(--md-text-font);
 }
 
 html {
