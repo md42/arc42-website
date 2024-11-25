@@ -1,6 +1,6 @@
 # Ladefuchs
 
-|![](assets/ladefuchs-1.png){ loading=lazy }|![](assets/ladefuchs-2.png){ loading=lazy }|![](assets/ladefuchs-3.png){ loading=lazy }|
+|![](assets/ladefuchs-1.png)|![](assets/ladefuchs-2.png)|![](assets/ladefuchs-3.png)|
 |:-:|:-:|--:|
 |||14.11.2024|
 

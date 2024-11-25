@@ -1,14 +1,28 @@
+---
+hide:
+- toc
+---
+
 # Startseite
 
-## Willkommen!
+![aa](assets/pixar-me.jpg){ align=right width="240" loading=lazy }
 
-Ich bin ein Software Engineer mit über 10 Jahren Erfahrung in verschiedenen Branchen und Teams, spezialisiert auf Architektur, Qualität und effiziente Zusammenarbeit. Agile Werte lebe ich, indem ich Prozesse auf Teams zuschneide und stetig optimiere – denn guter Code entsteht nicht
-im Chaos. Meine vielseitige Erfahrung hilft mir, als Schnittstelle zwischen Stakeholdern und Entwicklungsteams Erwartungen klar zu kommunizieren und gemeinsam starke Lösungen zu schaffen. Nebenbei teile ich mein Wissen in Workshops und Gilden, immer mit dem Ziel, Qualität und
-Wiederverwendbarkeit auf ein neues Level zu heben. 
+## Florian Schuttkowski
 
-Software Engineering? Für mich mehr als ein Job – es ist Einstellungssache.
+<div class="font-reset">
+floːriːaːn ʃʊtkoːfskɪ (de-DE)  <br />
+flɒɹiːɑːn ʃʊətkɒfskiː (en-UK)  <br />
+フロリアン シュウトコフスキー 
+</div>
 
+**Software Lead Engineer, Mobile Application Expert**  
+Korntaler Straße 15/1  
+71636 Ludwigsburg  
+Bundesrepublik Deutschland
 
+```
+"Menschen lieben und Gegenstände benutzen - denn das Gegenteil funktioniert nie."
+```
 
 ## Aufbau der Webseite
 

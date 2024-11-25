@@ -52,11 +52,13 @@ tags:
 
 ![aa](../assets/pixar-me.jpg){ align=right width="240" loading=lazy }
 
-
 ## Florian Schuttkowski
-floːriːaːn ʃʊtkoːfskɪ (de-DE)  
-flɒɹiːɑːn ʃʊətkɒfskiː (en-UK)  
+
+<div class="font-reset">
+floːriːaːn ʃʊtkoːfskɪ (de-DE)  <br />
+flɒɹiːɑːn ʃʊətkɒfskiː (en-UK)  <br />
 フロリアン シュウトコフスキー 
+</div>
 
 **Software Lead Engineer, Mobile Application Expert**  
 Korntaler Straße 15/1  
