@@ -48,8 +48,6 @@ tags:
 
 # Lebenslauf
 
-
-
 ![aa](../assets/pixar-me.jpg){ align=right width="240" loading=lazy }
 
 ## Florian Schuttkowski
@@ -69,6 +67,8 @@ Bundesrepublik Deutschland
 "Menschen lieben und Gegenstände benutzen - denn das Gegenteil funktioniert nie."
 ```
 
+---
+
 ## Zusammenfassung
 
 Ich bin ein Software Engineer mit über 10 Jahren Erfahrung in verschiedenen Branchen und Teams, spezialisiert auf Architektur, Qualität und effiziente Zusammenarbeit. Agile Werte lebe ich, indem ich Prozesse auf Teams zuschneide und stetig optimiere – denn guter Code entsteht nicht
@@ -76,6 +76,8 @@ im Chaos. Meine vielseitige Erfahrung hilft mir, als Schnittstelle zwischen Stak
 Wiederverwendbarkeit auf ein neues Level zu heben. 
 
 Software Engineering? Für mich mehr als ein Job – es ist Einstellungssache.
+
+---
 
 ## Kenntnisse
 
@@ -92,6 +94,8 @@ Software Engineering? Für mich mehr als ein Job – es ist Einstellungssache.
 - :material-code-braces: __Programmiersprachen:__ Swift, Objective-C, Markdown, Mermaid, YAML, LaTeX, CSS, JSON / XML
 - :material-earth: __Sprachen:__ Deutsch, Englisch
 </div>
+
+---
 
 ## Arbeitserfahrung
 
@@ -199,6 +203,8 @@ _März 2011 - November 2011, in Ravensburg, Deutschland_
 
     Leider kann ich nicht alle umgesetzten Projekte auflisten, da manche Projekte und / oder Tätigkeitsbereiche einem NDA mit meinem jeweiligen Arbeitgeber und / oder Auftraggeber:innen unterliegen. Gerne können wir uns über erweiterte Inhalte in einem persönlichen Gespräch austauschen, sofern diese Inhalte nicht gegen evtl. vorhandene Geheimhaltungsvereinbarungen verstoßen.
 
+---
+
 ## Ausbildung
 
 ### HRW - University of Applied Sciences Ravensburg-Weingarten 
@@ -212,6 +218,8 @@ aufzubauen.
     + Umsetzung von Apps in Objective-C.
     + Entwicklung von Videospielen mit Objective-C, Sparrow und Box2D.
 - Kernfokussierung auf Multimedia Engineering und Netzwerk-Technologien.
+
+--- 
 
 ## Sonstige Aktivitäten
 
