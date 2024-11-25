@@ -12,7 +12,7 @@ Software Engineering? Für mich mehr als ein Job – es ist Einstellungssache.
 
 ## Aufbau der Webseite
 
-???+ tip "Ist das nun eine Software Dokumentation oder deine persönliche Webseite?"
+!!! tip "Ist das nun eine Software Dokumentation oder deine persönliche Webseite?"
 
     Diese Webseite ist eine Übertragung des Dokumentationskonzept ARC42 auf private Personen und deren Projekte. Wie genau es dazu kam, welche Anpassungen ich vorgenommen habe und warum es mir so gefällt, lässt sich im Bereich "Einführung & Ziele" nachlesen.
 
