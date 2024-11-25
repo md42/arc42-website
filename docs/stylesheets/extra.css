@@ -7,6 +7,20 @@
 
 .md-grid {
     max-width: 80rem;
-    /* max-width: initial; */
-  }
+}
 
+html {
+    font-size: 125%;
+}
+
+@media screen and (min-width: 100em) {
+    html {
+        font-size:125%
+    }
+}
+
+@media screen and (min-width: 125em) {
+    html {
+        font-size:125%
+    }
+}
