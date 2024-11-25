@@ -24,13 +24,24 @@ Bundesrepublik Deutschland
 "Menschen lieben und Gegenstände benutzen - denn das Gegenteil funktioniert nie."
 ```
 
-## Aufbau der Webseite
+## Über mich
+
+Ich bin ein Software Engineer mit über 10 Jahren Erfahrung in verschiedenen Branchen und Teams, spezialisiert auf Architektur, Qualität und effiziente Zusammenarbeit. Agile Werte lebe ich, indem ich Prozesse auf Teams zuschneide und stetig optimiere – denn guter Code entsteht nicht
+im Chaos. Meine vielseitige Erfahrung hilft mir, als Schnittstelle zwischen Stakeholdern und Entwicklungsteams Erwartungen klar zu kommunizieren und gemeinsam starke Lösungen zu schaffen. Nebenbei teile ich mein Wissen in Workshops und Gilden, immer mit dem Ziel, Qualität und
+Wiederverwendbarkeit auf ein neues Level zu heben. 
+
+Software Engineering? Für mich mehr als ein Job – es ist Einstellungssache.
+
+## Über diese Webseite
 
 !!! tip "Ist das nun eine Software Dokumentation oder deine persönliche Webseite?"
 
-    Diese Webseite ist eine Übertragung des Dokumentationskonzept ARC42 auf private Personen und deren Projekte. Wie genau es dazu kam, welche Anpassungen ich vorgenommen habe und warum es mir so gefällt, lässt sich im Bereich "Einführung & Ziele" nachlesen.
+    Es ist letztlich beides. Denn ich dokumentiere mein Projektportfolio, den Tech-Stack hinter dieser Webseite, bestimmte Entscheidungen, Rezepte und meinen Lebenslauf gleichermaßen. 
 
-Diese Website wirkt wie eine statische Dokumentation, wird aber regelmäßig von mir aktualisiert. Neue Inhalte zu Software-Tooling, Programm-Architektur, Videospielen und Podcasts werden, ähnlich wie in einem Blog, hinzugefügt. 
+[ARC42](https://arc42.org "ARC42") ist ein Template zur Dokumentation von komplexen Software-Systemen und deren Architektur, welches ich regelmäßig bei der Arbeit sowohl lesend nutze als auch schreibend zu den Dokumentationen meiner Projekte beitrage. In meiner Rolle als Lead versuche ich meinen Teams dieses Template nahezubringen, da es Struktur in die oftmals etwas unstrukturiert organisierten Dokumentationen bringt. Da ich nicht wäre, wo ich heute bin, wenn ich nicht unzählige Dokumentationen gelesen hätte und dankbar für das Teilen dieser Informationen bin, habe ich mich entschieden, meine persönliche Webseite und deren Inhalt ebenfalls in ARC42 zu strukturieren. 
+
+Es war und ist ein schönes Gedankenexperiment, ein Konzept, welches für Software erdacht wurde, auf eine Person zu übertragen.
+
 
 <div class="grid cards" markdown>
 
@@ -38,19 +49,25 @@ Diese Website wirkt wie eine statische Dokumentation, wird aber regelmäßig von
   
     ---
 
-    Auflistung eigener Motivation, Beschreibung eigener (Qualitäts-)Ziele, Stakeholder, Erläuterung der Website
+    Hier beschreibe ich die Motivation hinter dieser Webseite etwas genauer, versuche darauf einzugehen, welche Stakeholder dieses Projekt und ich habe und welches Ziel ich damit verfolge.
 
-- __2. Randbedingungen__
+- :material-account-reactivate-outline: __2. Randbedingungen__
   
     ---
 
-    Nebenaktivitäten und sonstige Skills
+    Was gibt es um mich herum noch, außer Software? Welche Aktivitäten übe ich noch aus? Welches Hobby zieht mir das Geld aus der Tasche? Aspekte, mit denen sich dieser Bereich beschäftigt.
 
 - :material-arrow-expand-all: __3. Kontext__
   
     ---
 
-    Lebenslauf
+    Im Projekt-Kontext meines Selbst befinden sich Informationen wie mein Lebenslauf und Referenzen meiner ehemaligen Kollegen.
+
+
+</div>
+<!-- 
+
+
 
 - :material-brain: __4. Lösungsstrategien__
   
@@ -112,7 +129,7 @@ Diese Website wirkt wie eine statische Dokumentation, wird aber regelmäßig von
 
     Rechtliche Inhalte und Lizensierung
 
-</div>
+</div> -->
 
 ## Gebaut mit wundervollen Tools
 

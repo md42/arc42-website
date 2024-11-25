@@ -1,7 +1,6 @@
 nav:
     - index.md
     - widmung.md
-    - Kontaktmöglichkeiten: kontakt
     - 1. Einführung & Ziele: einfuehrung
     - 3. Kontext: kontext
     - 4. Lösungsstrategien: loesung
@@ -9,5 +8,7 @@ nav:
     - 7. Verteilungsansicht: verteilung
     - 8. Querschnittliche Konzepte: querschnitt
     - 12. Glossar & Nützliches: glossar
-    - Rechtliches: rechtliches
+    - datenschutz.md
+    - impressum.md
+    - lizenzen.md
     
