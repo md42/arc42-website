@@ -106,12 +106,12 @@ _Juli 2021 - Heute, in Feuerbach, Deutschland_
 - Entwicklung und Wartung von Organisationen und CI/CD-Pipelines zur App-Verteilung über Azure DevOps und GitHub.
 - Bereitstellung und Integration von Software-Komponenten in Paketverwaltungsquellen für Kundenanwendungen.
 - Schnittstelle zwischen Product Owner und Entwicklungsteam im SAFe- und Scrum-Umfeld.
-- Leitung eines internationalen iOS-Entwicklungsteams (Deutschland, Serbien, Bulgarien), technische Bewertungen von Bewerber:innen.
+- Technische Leitung eines internationalen iOS-Entwicklungsteams (Deutschland, Serbien, Bulgarien), technische Bewertung von Bewerber:innen.
 
 **Software-Engineer**  
 _Juli 2020 - Juni 2021, in Ludwigsburg, Deutschland_
 
-- Mitarbeit an der Implementierung autonomer Fahrfunktionen in Zusammenarbeit mit einem deutschen Automobilhersteller.
+- Entwicklung von iOS-Apps zur Unterstützung eines Projekts zur Implementierung autonomer Fahrfunktionen in Zusammenarbeit mit einem deutschen Automobilhersteller, in einem agilen Scrum-Team.
 - Entwicklung von iOS-Apps für das Projekt in einem agilen Scrum-Team.
 - Konzeption und Wartung von CI/CD-Pipelines für App-Verteilung über Azure DevOps und GitHub.
 - Durchführung von Workshops und Schulungen zu Unit-Testing und Git im Rahmen der projektinternen Akademie.
