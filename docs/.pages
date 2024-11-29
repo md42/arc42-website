@@ -1,12 +1,10 @@
 nav:
     - index.md
     - widmung.md
-    - 1. Einführung & Ziele: einfuehrung
     - 3. Kontext: kontext
     - 4. Lösungsstrategien: loesung
     - 5. Bausteinsicht: bausteine
     - 7. Verteilungsansicht: verteilung
-    - 8. Querschnittliche Konzepte: querschnitt
     - 12. Glossar & Nützliches: glossar
     - datenschutz.md
     - impressum.md
