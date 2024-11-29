@@ -99,7 +99,7 @@ Software Engineering? Für mich mehr als ein Job – es ist Einstellungssache.
 
 September 2018 bis Heute, [Robert Bosch GmbH](https://www.bosch.de/)
 
-**Lead-Entwickler, Software Architekt**  
+**Lead-Software-Engineer, Software-Architekt**  
 _Juli 2021 - Heute, in Feuerbach, Deutschland_
 
 - Software-Architekt für modulare iOS-Referenzimplementierungen und SDKs zur Vermarktung und Integration von Backend-Services.
