@@ -48,7 +48,7 @@ tags:
 
 # Lebenslauf
 
-![aa](../assets/pixar-me.jpg){ align=right width="240" loading=lazy }
+<!-- ![aa](../assets/pixar-me.jpg){ align=right width="240" loading=lazy } -->
 
 ## Florian Schuttkowski
 

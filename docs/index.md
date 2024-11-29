@@ -5,8 +5,6 @@ hide:
 
 # Startseite
 
-![aa](assets/pixar-me.jpg){ align=right width="240" loading=lazy }
-
 ## Florian Schuttkowski
 
 <div class="font-reset">
