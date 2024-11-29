@@ -63,10 +63,6 @@ Korntaler Straße 15/1
 71636 Ludwigsburg  
 Bundesrepublik Deutschland
 
-```
-"Menschen lieben und Gegenstände benutzen - denn das Gegenteil funktioniert nie."
-```
-
 ---
 
 ## Zusammenfassung
