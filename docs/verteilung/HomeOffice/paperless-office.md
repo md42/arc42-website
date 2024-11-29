@@ -73,9 +73,17 @@ sequenceDiagram
     r ->> d: PDF mit OCR werden exportiert
     s ->> d: PDF mit OCR werden exportiert
     p ->> d: Dateien werden in DevonThink To Go geteilt
+    d ->> d: Checksummen für Dokumente werden angelegt
     d ->> f: Dokumente werden verschlüsselt hochgeladen
+    alt Datei-Abgleich fehlerhaft
+        d ->> f: Dokumenten werden erneut hochgeladen
+    end
 
     f ->> d: Dokumente werden heruntergeladen
     d ->> d: Verifiziert heruntergeladene Dokumente
 
+    alt Verifizierung fehlerhaft
+        f ->> d: Dokumente werden erneut heruntergeladen
+    end
+        
 ```
