@@ -20,9 +20,9 @@ Korntaler Straße 15/1
 71636 Ludwigsburg  
 Bundesrepublik Deutschland
 
-```
-"Menschen lieben und Gegenstände benutzen - denn das Gegenteil funktioniert nie."
-```
+!!! quote "Was ich euch mitgeben möchte"
+
+    Menschen lieben und Gegenstände benutzen - denn das Gegenteil funktioniert nie.
 
 ## Über mich
 
@@ -45,17 +45,17 @@ Es war und ist ein schönes Gedankenexperiment, ein Konzept, welches für Softwa
 
 <div class="grid cards" markdown>
 
-- :material-book-open-blank-variant-outline: __1. Einführung & Ziele__
+- :material-book-open-blank-variant-outline: __1. Einführung & Ziele__{: class="disabled" }
   
     ---
 
-    Hier beschreibe ich die Motivation hinter dieser Webseite etwas genauer, versuche darauf einzugehen, welche Stakeholder dieses Projekt und ich habe und welches Ziel ich damit verfolge.
+    <span class="disabled">Hier beschreibe ich die Motivation hinter dieser Webseite etwas genauer, versuche darauf einzugehen, welche Stakeholder dieses Projekt und ich haben und welches Ziel ich damit verfolge.</span>
 
-- :material-account-reactivate-outline: __2. Randbedingungen__
+- :material-account-reactivate-outline: __2. Randbedingungen__{: class="disabled" }
   
     ---
 
-    Was gibt es um mich herum noch, außer Software? Welche Aktivitäten übe ich noch aus? Welches Hobby zieht mir das Geld aus der Tasche? Aspekte, mit denen sich dieser Bereich beschäftigt.
+    <span class="disabled">Was gibt es um mich herum noch, außer Software? Welche Aktivitäten übe ich noch aus? Welches Hobby zieht mir das Geld aus der Tasche? Aspekte, mit denen sich dieser Bereich beschäftigt.</span>
 
 - :material-arrow-expand-all: __3. Kontext__
   
@@ -63,73 +63,65 @@ Es war und ist ein schönes Gedankenexperiment, ein Konzept, welches für Softwa
 
     Im Projekt-Kontext meines Selbst befinden sich Informationen wie mein Lebenslauf und Referenzen meiner aktuellen und ehemaligen Kollegen.
 
-
-</div>
-<!-- 
-
-
-
 - :material-brain: __4. Lösungsstrategien__
   
     ---
 
-    Eigene Werte, Lösungsstrategien für Probleme
+    Hier notiere ich Lösungen zu Problemen, die ich im Laufe der Zeit erarbeitet und / oder recherchiert habe. 
 
 - :material-apps: __5. Bausteinsicht__
   
     ---
 
-    Projekte und Aktivitäten
+    Hier könnt ihr mein Projektportfolio und weitere Aktivitäten meinerseits einsehen.
 
-- :material-account-reactivate-outline: __6. Laufzeitsicht__
+- :material-account-reactivate-outline: __6. Laufzeitsicht__{: class="disabled" }
   
     ---
 
-    Arbeitsweise
+    <span class="disabled">Wenn ich die Zeit dafür finde, schreibe ich gerne etwas über meine Arbeits- und Herangehensweise bezüglich verschiedenster Themen.</span>
 
 - :material-artboard: __7. Verteilungssicht__
   
     ---
 
-    Social Media, eigene Topologie, Deployment meiner Nebenprojekte
+    Wer etwas darüber erfahren möchte, wie diese Website oder  manches Nebenprojekt deployed wird, wird hier fündig.
 
-- :material-arrow-decision-outline: __8. Querschnittliche Konzepte__
+- :material-arrow-decision-outline: __8. Querschnittliche Konzepte__{: class="disabled" }
   
     ---
 
-    Allgemeine Lösungsansätze für Meta-Probleme, Rezepte _als Sequenzdiagramme_, Bastelanleitungen
+    <span class="disabled">Dinge, die nichts mit IT zu tun haben, können auch Spaß machen! Ehrlich! Unter anderem Kochen.</span>
 
-- :material-alert-circle-check-outline: __9. Entscheidungen__
+- :material-alert-circle-check-outline: __9. Entscheidungen__{: class="disabled" }
   
     ---
 
-    Entscheidungen für Projekte, Sport, Kinder, etc 
+    <span class="disabled">Manchmal muss man Entscheidungen treffen. Für Software, für Services, für Partnerschaften. Diese Entscheidungen zu dokumentieren, hilft nicht nur bei der Software-Entwicklung im Team.</span>
 
-- :material-flag-checkered: __10. Qualitätszenarien__
+- :material-flag-checkered: __10. Qualitätszenarien__{: class="disabled" }
   
     ---
 
-    Lessons learned
+    <span class="disabled">Jede Person hat Ansprüche und Erwartungen an die Arbeit, an Mitmenschen, an sich selbst. Von manchen können auch andere profitieren.</span> 
+    
 
-- :material-head-cog-outline: __11. Erfahrungswerte__
+- :material-head-cog-outline: __11. Erfahrungswerte__{: class="disabled" }
   
     ---
 
-    Selbstreflexion, Probleme die gesehen werden
+    <span class="disabled">Nicht alles läuft wie geplant. Lessons learned meiner IT Projekte.</span>
 
-- :material-arm-flex-outline: __12. Nützliches__
+- :material-arm-flex-outline: __12. Glossar und Nützliches__
   
     ---
 
-    Nützliche Hinweise, Tipps
+    Hier handelt es sich hauptsächlich um Listen mit Empfehlungen oder Bewertungen aus verschiedenen Themenbereichen.
+</div>
 
-- :material-scale-balance: __99. Rechtliches__
-  
-    ---
+!!! example "Nicht alle Themenbereiche sind befüllt"
 
-    Rechtliche Inhalte und Lizensierung
-
-</div> -->
+    Mir ist bewusst, dass bisher nicht alle Themenbereiche Inhalte aufweisen. Eine unerwartete Änderungen meiner Lebensumstände bewirkte, dass ich diese Webseite früher veröffentlichen musste als geplant. Ich arbeite kontinuierlich daran, diese Webseite auszubauen. 
 
 ## Gebaut mit wundervollen Tools
 
