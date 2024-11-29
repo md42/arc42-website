@@ -1,3 +1,8 @@
+---
+hide:
+    - toc
+---
+
 # WhiteBox: PaperLess Office mit DevonThink und Hetzner StorageBox
 
 ## Aufbau
