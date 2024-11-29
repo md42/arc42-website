@@ -61,7 +61,7 @@ Es war und ist ein schönes Gedankenexperiment, ein Konzept, welches für Softwa
   
     ---
 
-    Im Projekt-Kontext meines Selbst befinden sich Informationen wie mein Lebenslauf und Referenzen meiner ehemaligen Kollegen.
+    Im Projekt-Kontext meines Selbst befinden sich Informationen wie mein Lebenslauf und Referenzen meiner aktuellen und ehemaligen Kollegen.
 
 
 </div>
