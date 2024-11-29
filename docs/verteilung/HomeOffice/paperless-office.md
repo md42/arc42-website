@@ -18,6 +18,10 @@ flowchart TD
         macFiles[Sonstige Dateien]
         
         macFiles --teilt Dateien--> dmac
+
+        export[Vollständiger Export aller Dokumente]
+        blueray[Archiv-Blueray]
+        export --gebrannt mit maximaler Fehlerkorrektur-->blueray
     end
 
     subgraph iPhone
@@ -43,9 +47,16 @@ flowchart TD
         storagebox[(Hetzner StorageBox)]
         storageshare--liegt verschlüsselt in-->storagebox
     end
+
+    subgraph Offsite
+        safe[Feuerfeste Kassette]
+        blueray --abgelegt in-->safe
+    end
+
+    dmac --einmal im Jahr --> export
 ```
 
-## Ablauf
+## Ablauf Dokumentenerfassung
 
 ```mermaid
 sequenceDiagram
@@ -65,4 +76,6 @@ sequenceDiagram
     d ->> f: Dokumente werden verschlüsselt hochgeladen
 
     f ->> d: Dokumente werden heruntergeladen
+    d ->> d: Verifiziert heruntergeladene Dokumente
+
 ```
