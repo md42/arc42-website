@@ -1,9 +1,9 @@
-@import "calendasplus.css";
+@import "gjklg.css";
 @import "hack.css";
 
 :root {
     --md-primary-fg-color:        #222433;
-    --md-text-custom-font: "calendas_plusregular";
+    --md-text-custom-font: "cpr";
     --md-code-font: "Hack";
 }
 
