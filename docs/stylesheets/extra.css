@@ -2,7 +2,6 @@
 @import "hack.css";
 
 :root {
-    --md-primary-fg-color:        #222433;
     --md-text-custom-font: "cpr";
     --md-code-font: "Hack";
 }
@@ -11,13 +10,17 @@
     max-width: 75rem;
 }
 
-
+ 
 .md-content p {
     font-family: var(--md-text-custom-font);
 }
 
 .md-content li {
     font-family: var(--md-text-custom-font);
+}
+
+.md-path .md-ellipsis {
+    font-family: var(--md-text-font);
 }
 
 .font-reset {
@@ -56,6 +59,15 @@ html {
 .md-typeset .admonition {
     font-size: 0.75rem;
 }
+
+
+[data-md-color-scheme="default"] {
+    --md-primary-fg-color:        #136074;
+  }
+
+[data-md-color-scheme="slate"] {
+    --md-primary-fg-color:        #136074;
+  }
 
 [data-md-color-scheme="default"] .disabled {
     color: lightgray;
