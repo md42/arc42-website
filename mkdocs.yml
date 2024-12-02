@@ -32,6 +32,7 @@ theme:
       server: material/server
       fonts: material/format-font
       lebenslauf: material/file-account
+      glossar: material/library
       kontext: material/arrow-expand-all
   palette:
     # Palette toggle for automatic mode
@@ -109,6 +110,7 @@ extra:
     Fonts: fonts
     Lebenslauf: lebenslauf
     Kontext: kontext
+    Glossar: glossar
   generator: false
   social:
     - icon: fontawesome/brands/mastodon 
