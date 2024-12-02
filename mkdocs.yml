@@ -20,7 +20,7 @@ theme:
   favicon: assets/favicon.png
   icon:
     repo: fontawesome/brands/github
-    logo: fontawesome/solid/spaghetti-monster-flying
+    logo: fontawesome/solid/dragon
     tag: 
       default: fontawesome/solid/tag
   palette:
