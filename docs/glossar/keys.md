@@ -1,6 +1,6 @@
 ---
 tags:
-    - Public Keys
+    - PublicKeys
 ---
 
 # Keys
