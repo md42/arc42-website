@@ -26,6 +26,7 @@ theme:
       mfmkdocs: simple/materialformkdocs
       mermaid: simple/mermaid
       apache: simple/apache
+      css: simple/css3
   palette:
     # Palette toggle for automatic mode
     - media: "(prefers-color-scheme)"
@@ -95,6 +96,7 @@ extra:
     MaterialForMKDocs: mfmkdocs
     Mermaid: mermaid
     Apache: apache
+    CSS: css
   generator: false
   social:
     - icon: fontawesome/brands/mastodon 
