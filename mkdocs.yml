@@ -25,6 +25,7 @@ theme:
       default: fontawesome/solid/tag
       mfmkdocs: simple/materialformkdocs
       mermaid: simple/mermaid
+      apache: simple/apache
   palette:
     # Palette toggle for automatic mode
     - media: "(prefers-color-scheme)"
@@ -93,6 +94,7 @@ extra:
   tags: 
     MaterialForMKDocs: mfmkdocs
     Mermaid: mermaid
+    Apache: apache
   generator: false
   social:
     - icon: fontawesome/brands/mastodon 
