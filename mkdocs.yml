@@ -16,10 +16,13 @@ theme:
   name: material
   custom_dir: overrides
   language: de
-  logo: assets/pixar-me.jpg
+  # logo: assets/pixar-me.jpg
   favicon: assets/favicon.png
   icon:
+    repo: fontawesome/brands/github
     logo: fontawesome/solid/hand-spock
+    tag: 
+      default: fontawesome/solid/tag
   palette:
     # Palette toggle for automatic mode
     - media: "(prefers-color-scheme)"
@@ -47,6 +50,7 @@ theme:
 
   features:
     - navigation.instant
+    - navigation.instant.preview
     - navigation.instant.progress
     - navigation.tracking
     - navigation.sections
@@ -56,18 +60,29 @@ theme:
     - content.code.select
     - content.action.edit
     - content.action.view
+    - content.footnote.tooltips
 
 plugins:
   - search
   - tags:
       tags_file: glossar/schlagworte.md
-  - privacy
+      tags_hierarchy: true
+      tags_slugify: !!python/object/apply:pymdownx.slugs.slugify
+        kwds:
+          case: lower
+  - privacy:
+      links_attr_map:
+        target: _blank
   - optimize:
       enabled: true
       cache: false
   - social
   - glightbox
   - awesome-pages
+  - typeset
+  - git-authors
+  - meta:
+      enabled: false
   - mermaid2:
       arguments:
         securityLevel: 'loose'

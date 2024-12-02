@@ -1,49 +1,8 @@
 ---
+links:
+  - kontext/referenzen.md
 tags:
-  - git
-  - GitHub Actions
-  - GitHub Pages
-  - Jekyll
-  - Xcode
-  - Jira
-  - Confluence
-  - Unity3D
-  - Csharp
-  - Vim
-  - tmux
-  - Homebrew
-  - Mermaid
-  - Material for MKDocs
-  - VSCodium
-  - SonarQube
-  - HTML5
-  - JavaScript
-  - Sass
-  - Swift
-  - Markdown
-  - Yaml
-  - CSS
-  - UIKit
-  - Nginx
-  - Obsidian
-  - Joplin
-  - Nextcloud
-  - Zsh
-  - Simple Icons
-  - Shields.io
-  - OpenAI
-  - FFmpeg
-  - Gnu Privacy Guard
-  - KeePassXC
-  - 2FAS
-  - Google Fonts
-  - KoFi
-  - Robert Bosch GmbH
-  - Vetter Pharma
-  - Zeitland media and games GmbH
-  - Taekwondo
-  - Ladefuchs
-  - Audiodump
+  - Lebenslauf
 ---
 
 # Lebenslauf

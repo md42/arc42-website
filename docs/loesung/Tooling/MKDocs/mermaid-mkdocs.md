@@ -1,3 +1,9 @@
+---
+tags:
+  - Mermaid
+  - Material for MKDocs
+---
+
 # Mermaid2 Plugin in mkdocs-Material einrichten
 
 ## Dependencies

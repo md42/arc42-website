@@ -1,10 +1,4 @@
----
-tags:
-    - ARC42
-    - Diagramme
-    - Software Development
----
- 
+
 # Aufbau der Website
 
 ## Mapping

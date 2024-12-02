@@ -1,3 +1,10 @@
+---
+tags:
+    - CORS
+    - Apache
+    - htaccess
+---
+
 # CORS Konfigurieren um Ressourcen auf separatem Webserver zu hosten
 
 Standardmäßig blocken Browsers Ressourcen die von anderen Domains als der Domain der aktuell besuchen Website kommen.
