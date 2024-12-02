@@ -6,17 +6,12 @@ on:
       - main
 permissions:
   contents: write
-env:
-  GH_TOKEN: ${{ secrets.REPO }}
+
 jobs:
   deploy:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - name: Configure auth for Insiders
-        run: |
-          echo "https://github:${{ secrets.REPO }}@github.com" >> $HOME/.git-credentials
-          git config --global credential.helper store
       - name: Configure Git Credentials
         run: |
           git config user.name github-actions[bot]
@@ -31,7 +26,10 @@ jobs:
           path: .cache
           restore-keys: |
             mkdocs-material-
+      
       - run: pip install git+https://$GH_TOKEN@github.com/squidfunk/mkdocs-material-insiders.git
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
       - run: pip install "mkdocs-material[imaging]"
       - run: pip install mkdocs-glightbox
       - run: pip install mkdocs-awesome-pages-plugin
