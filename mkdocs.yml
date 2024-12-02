@@ -92,7 +92,7 @@ plugins:
   - typeset
   - git-authors
   - meta:
-      enabled: false
+      enabled: true
   - mermaid2:
       arguments:
         securityLevel: 'loose'
