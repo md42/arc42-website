@@ -1,7 +1,7 @@
 ---
 tags:
   - Mermaid
-  - Material for MKDocs
+  - MaterialForMKDocs
 ---
 
 # Mermaid2 Plugin in mkdocs-Material einrichten

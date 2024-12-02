@@ -2,7 +2,7 @@
 tags:
   - Fonts
   - CSS
-  - Material for MKDocs
+  - MaterialForMKDocs
 ---
 
 # Webfont Hack als monospaced Font in Material for MKDocs nutzen

@@ -23,6 +23,7 @@ theme:
     logo: fontawesome/solid/dragon
     tag: 
       default: fontawesome/solid/tag
+      mfmkdocs: simple/materialformkdocs
   palette:
     # Palette toggle for automatic mode
     - media: "(prefers-color-scheme)"
@@ -88,6 +89,8 @@ plugins:
         securityLevel: 'loose'
 
 extra:
+  tags: 
+    MaterialForMKDocs: mfmkdocs
   generator: false
   social:
     - icon: fontawesome/brands/mastodon 
