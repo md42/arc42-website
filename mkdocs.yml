@@ -29,6 +29,7 @@ theme:
       css: simple/css3
       markdown: simple/markdown
       keys: material/key-chain
+      server: material/server
   palette:
     # Palette toggle for automatic mode
     - media: "(prefers-color-scheme)"
@@ -101,6 +102,7 @@ extra:
     CSS: css
     Markdown: markdown
     PublicKeys: keys
+    Server: server
   generator: false
   social:
     - icon: fontawesome/brands/mastodon 

@@ -1,8 +1,7 @@
 ---
 tags:
-    - CORS
     - Apache
-    - htaccess
+    - Server
 ---
 
 # CORS Konfigurieren um Ressourcen auf separatem Webserver zu hosten
