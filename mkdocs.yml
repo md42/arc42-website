@@ -27,6 +27,7 @@ theme:
       mermaid: simple/mermaid
       apache: simple/apache
       css: simple/css3
+      markdown: simple/markdown
   palette:
     # Palette toggle for automatic mode
     - media: "(prefers-color-scheme)"
@@ -97,6 +98,7 @@ extra:
     Mermaid: mermaid
     Apache: apache
     CSS: css
+    Markdown: markdown
   generator: false
   social:
     - icon: fontawesome/brands/mastodon 
