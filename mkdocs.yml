@@ -62,6 +62,9 @@ plugins:
   - tags:
       tags_file: glossar/schlagworte.md
   - privacy
+  - optimize:
+      enabled: true
+      cache: false
   - social
   - glightbox
   - awesome-pages
