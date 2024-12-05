@@ -2,12 +2,18 @@
 links:
   - kontext/referenzen.md
 tags:
-  - Lebenslauf
+- Lebenslauf
+- Der Software-Engineer
+- Der Podcaster
 ---
 
 # Lebenslauf
 
-<!-- ![aa](../assets/pixar-me.jpg){ align=right width="240" loading=lazy } -->
+---
+
+<div class="grid" markdown>
+
+<div class="" markdown>
 
 ## Florian Schuttkowski
 
@@ -16,11 +22,17 @@ floːriːaːn ʃʊtkoːfskɪ (de-DE)  <br />
 flɒɹiːɑːn ʃʊətkɒfskiː (en-UK)  <br />
 フロリアン シュウトコフスキー 
 </div>
+<strong>Software Lead Engineer, Mobile Application Expert</strong><br />
+Korntaler Straße 15/1  <br />
+71636 Ludwigsburg  <br />
+Bundesrepublik Deutschland<br />
 
-**Software Lead Engineer, Mobile Application Expert**  
-Korntaler Straße 15/1  
-71636 Ludwigsburg  
-Bundesrepublik Deutschland
+</div>
+
+<div align="center" markdown><br />
+![aa](../assets/pixar-me.jpg){ width="240" loading=lazy .lg .middle }
+</div>
+</div>
 
 ---
 
