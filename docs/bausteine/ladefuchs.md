@@ -18,6 +18,7 @@ tags:
 </figure>
 
 ---
+
 <div align="center">
     <img alt="appleios" src="https://img.shields.io/badge/-Apple iOS-000000?style=flat-square&logo=ios&logoColor=white" />
     <img alt="googleandroid" src="https://img.shields.io/badge/-Google Android-34A853?style=flat-square&logo=android&logoColor=white" />
@@ -32,6 +33,9 @@ tags:
     <img alt="googleplay" src="https://img.shields.io/badge/-Google Play-414141?style=flat-square&logo=googleplay&logoColor=white" />
     <img alt="appstore" src="https://img.shields.io/badge/-App Store-0D96F6?style=flat-square&logo=appstore&logoColor=white" />
 </div>
+
+---
+
 ## Übersicht
 
 !!! info "[ladefuchs.app](https://ladefuchs.app) | Was kostet der Strom für dein E-Auto?"
