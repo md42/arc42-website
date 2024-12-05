@@ -67,11 +67,11 @@ Es war und ist ein schönes Gedankenexperiment, ein Konzept, welches für Softwa
 
     Hier notiere ich Lösungen zu Problemen, die ich im Laufe der Zeit erarbeitet und / oder recherchiert habe. 
 
-- :material-apps: __5. Bausteinsicht__{: class="disabled" }
+- :material-apps: __5. Bausteinsicht__
   
     ---
 
-    <span class="disabled">Hier könnt ihr mein Projektportfolio und weitere Aktivitäten meinerseits einsehen.</span>
+    Hier könnt ihr mein Projektportfolio und weitere Aktivitäten meinerseits einsehen.
 
 - :material-account-reactivate-outline: __6. Laufzeitsicht__{: class="disabled" }
   
