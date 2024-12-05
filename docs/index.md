@@ -121,6 +121,11 @@ Es war und ist ein schönes Gedankenexperiment, ein Konzept, welches für Softwa
 
     Mir ist bewusst, dass bisher nicht alle Themenbereiche Inhalte aufweisen. Eine unerwartete Änderungen meiner Lebensumstände bewirkte, dass ich diese Webseite früher veröffentlichen musste als geplant. Ich arbeite kontinuierlich daran, diese Webseite auszubauen. 
 
+## GitHub Actions Status Badges
+
+[![pipeline](https://github.com/flowinho/arc42-website/actions/workflows/main.yml/badge.svg)](https://github.com/flowinho/arc42-website/actions/workflows/main.yml)
+[![pages-build-deployment](https://github.com/flowinho/arc42-website/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/flowinho/arc42-website/actions/workflows/pages/pages-build-deployment)
+
 ## Gebaut mit wundervollen Tools
 
 <p>
