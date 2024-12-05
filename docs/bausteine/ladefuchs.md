@@ -1,7 +1,7 @@
 ---
-hide:
-- toc
 tags:
+    - Der Software-Engineer
+    - Der Podcaster
     - Ladefuchs
     - UIKit
     - Swift
@@ -59,8 +59,8 @@ tags:
 
     _Ich bleibe weiterhin in meiner Rolle als Mitgründer ein Teil des Teams und bin in Entscheidungen einbezogen._
 
-Die Grundidee dazu kam von Malik Aziz[^1] und Bastian Wölfle[^2]. Die beiden suchten 2020 auf iOS Seite Unterstützung, um die App zügig auf den Markt zu bringen und als großer Befürworter von Elektromobilität ergriff ich diese Chance, in der Hoffnung Elektromobilität für die breite Masse zugänglicher zu machen.
-Zu dritt legten wir damals los. Bastian übernahm die Implementierung der Android-App und ich die Implementierung der iOS-App. In der Zwischenzeit ist das Team gewachsen und die Entwicklung der mobilen Anwendung wird für die Plattform iOS nicht mehr von mir durchgeführt. Um die zunehmenden Versionsunterschiede zwischen iOS und Android leichter ausmerzen zu können, wurde die damals noch von mir nativ entwickelte Version des Ladefuchs für iOS durch eine plattformunabhängige Implementierung in React Native ersetzt. 
+Die Grundidee dazu kam von Malik Aziz[^1] und Bastian Wölfle[^2]. Die beiden suchten 2020 Unterstützung zur Implementierung der iOS-App, um die App zügig auf den Markt zu bringen und als großer Befürworter von Elektromobilität ergriff ich diese Chance in der Hoffnung, Elektromobilität für die breite Masse zugänglicher zu machen.
+Zu dritt legten wir damals los. Bastian übernahm die Implementierung der Android-App und ich die Implementierung der iOS-App. In der Zwischenzeit ist das Team gewachsen und die Entwicklung der mobilen Anwendung wird für die Plattform iOS nicht mehr von mir durchgeführt. Um die zunehmenden Versionsunterschiede zwischen iOS und Android leichter angleichen zu können, wurde die damals noch von mir nativ entwickelte Version des Ladefuchs für iOS durch eine plattformunabhängige Implementierung in React Native ersetzt. 
 
 [^1]: [Malik Aziz, malik-aziz.de](https://www.malik-aziz.de/)
 [^2]: [Bastian Wölfle, schlingel.de](https://www.schlingel.de/)
@@ -69,10 +69,10 @@ Zu dritt legten wir damals los. Bastian übernahm die Implementierung der Androi
 
 ### Open-Source-Entwicklung dauerte länger als erwartet 
 
-Eine der Grundideen des Ladefuchs ist, Transparenz zu schaffen. Um der Gemeinschaft etwas zurückzugeben, sollte der Code in einem Open-Source Repository zur Verfügung gestellt werden. Allerdings mussten einige Hürden genommen werden, bevor das letztendlich mögliche wurde. 
+Eine der Grundideen des Ladefuchs ist, Transparenz zu schaffen. Um der Gemeinschaft etwas zurückzugeben, sollte der Code in einem Open-Source-Repository zur Verfügung gestellt werden. Allerdings mussten einige Hürden genommen werden, bevor das letztendlich möglich wurde. 
 
 - Die Ladekarten und die damit verbundenen Logos der Stromnetzbetreiber konnten wir nicht ohne Nachzudenken veröffentlichen, da die Rechte zur Distribution der Logos nicht bei uns lagen. Ein Backend zur Verwaltung der Grafiken musste geschaffen werden.
-- Das von uns geschaffene Backend musste abgesichert werden, um Missbrauch durch Dritten vorzubeugen.
+- Das von uns geschaffene Backend musste abgesichert werden, um Missbrauch durch Dritte vorzubeugen.
 
 ### Privacy First bedeutet Mehraufwand auf unserer Seite
 
