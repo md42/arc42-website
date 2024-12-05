@@ -1,6 +1,13 @@
 ---
+tags:
+- Der Software-Engineer
+- Der Papa
+- Der Datenschutz-Enthusiast
+- Der Podcaster
+- Der Nerd
 hide:
 - toc
+- tags
 ---
 
 # Startseite
@@ -24,11 +31,39 @@ Bundesrepublik Deutschland
 
 ## Über mich
 
-Ich bin ein Software Engineer mit über 10 Jahren Erfahrung in verschiedenen Branchen und Teams, spezialisiert auf Architektur, Qualität und effiziente Zusammenarbeit. Agile Werte lebe ich, indem ich Prozesse auf Teams zuschneide und stetig optimiere – denn guter Code entsteht nicht
-im Chaos. Meine vielseitige Erfahrung hilft mir, als Schnittstelle zwischen Stakeholdern und Entwicklungsteams Erwartungen klar zu kommunizieren und gemeinsam starke Lösungen zu schaffen. Nebenbei teile ich mein Wissen in Workshops und Gilden, immer mit dem Ziel, Qualität und
-Wiederverwendbarkeit auf ein neues Level zu heben. 
+<div class="grid cards" markdown>
+-   :fontawesome-solid-laptop-code:{ .lg .middle } __Der Software-Engineer__
 
-Software Engineering? Für mich mehr als ein Job – es ist Einstellungssache.
+    ---
+
+    Software Engineering? Für mich mehr als ein Job – es ist Einstellungssache. Vor allem aber ist es Teamarbeit.
+
+-   :material-account-child-outline:{ .lg .middle } __Der Papa__
+
+    ---
+
+    Kinder zu bekommen heißt das eigene Herz durch die Welt laufen zu sehen. Danke für alles, ihr seid mein größtes Geschenk.
+
+-   :material-data-matrix:{ .lg .middle } __Der Datenschutz-Enthusiast__
+
+    ---
+
+    Daten sind ein sehr wertvolles Gut, und doch wird meistens sorglos mit Ihnen umgegangen. Es ist mir wichtig,
+    mich mit Themen im Bereich Data-Privacy auseinanderzusetzen.
+
+-   :material-podcast:{ .lg .middle } __Der Podcaster__
+
+    ---
+
+    Seit sieben Jahren bin ich zusammen mit meinen Mit-Hosts Malik, Ben und Johnny im Podcast Audiodump, sowie in anderen Podcasts als Gast, zu hören.
+
+-   :fontawesome-brands-rebel:{ .lg .middle } __Der Nerd__
+
+    ---
+
+    Magic the Gathering, Lorcana, Star Wars - sucht euch was aus. Ich unterhalte mich gerne mit Euch über diese und viele weitere Themen!
+    
+</div>
 
 ## Über diese Webseite
 

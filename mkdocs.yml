@@ -40,6 +40,11 @@ theme:
       swift: material/language-swift
       ios: simple/ios
       uikit: fontawesome/brands/apple
+      dersoftwareengineer: fontawesome/solid/laptop-code
+      derpapa: material/account-child-outline
+      derdatenschutzenthusiast: material/data-matrix
+      derpodcaster: material/podcast
+      dernerd: fontawesome/brands/rebel
   palette:
     # Palette toggle for automatic mode
     - media: "(prefers-color-scheme)"
@@ -122,6 +127,11 @@ extra:
     Swift: swift
     UIKit: uikit
     iOS: ios
+    Der Software-Engineer: dersoftwareengineer
+    Der Papa: derpapa
+    Der Datenschutz-Enthusiast: derdatenschutzenthusiast
+    Der Podcaster: derpodcaster
+    Der Nerd: dernerd
   generator: false
   social:
     - icon: fontawesome/brands/mastodon 
