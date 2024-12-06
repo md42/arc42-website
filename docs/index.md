@@ -57,6 +57,12 @@ Bundesrepublik Deutschland
 
     Seit sieben Jahren bin ich zusammen mit meinen Mit-Hosts Malik, Ben und Johnny im Podcast Audiodump, sowie in anderen Podcasts als Gast, zu hören.
 
+- :material-fountain-pen:{ .lg .middle } __Der Blogger__
+
+    ---
+
+    Schreiben hilft die Gedanken konkreter zu formulieren und zu fokussieren. Doch Schreiben sollte nicht nur regelmäßig geübt werden, sondern macht mir auch großen Spaß.
+
 -   :fontawesome-brands-rebel:{ .lg .middle } __Der Nerd__
 
     ---
