@@ -108,8 +108,8 @@ Apples damals starker Fokus auf MVC im iOS-SDK erleichterte es, einfachere Apps 
 |:--|:--|
 |:simple-github: GitHub|[https://github.com/Team-Ladefuchs/ladefuchs-react-native](https://github.com/Team-Ladefuchs/ladefuchs-react-native)|
 |:simple-googleplay: Google Play|[https://play.google.com/store/apps/dev?id=9099114460681423830&hl=de](https://play.google.com/store/apps/dev?id=9099114460681423830&hl=de)|
-|:simple-appstore: Apple AppStore|[https://f-droid.org/packages/app.ladefuchs.android/](https://f-droid.org/packages/app.ladefuchs.android/)|
-|:simple-fdroid: F-Droid|[https://apps.apple.com/de/app/ladefuchs/id1522882164](https://apps.apple.com/de/app/ladefuchs/id1522882164)|
+|:simple-appstore: Apple AppStore|[https://apps.apple.com/de/app/ladefuchs/id1522882164](https://apps.apple.com/de/app/ladefuchs/id1522882164)|
+|:simple-fdroid: F-Droid|[https://f-droid.org/packages/app.ladefuchs.android/](https://f-droid.org/packages/app.ladefuchs.android/)|
 
 ## Pressestimmen
 
