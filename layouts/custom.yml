@@ -89,32 +89,32 @@ layers:
     offset: { x: 1100, y: 90 }
     icon:
       value: fontawesome/solid/laptop-code
-      color: "#FFFFFFB3"
+      color: "#ff1947B3"
   - size: { width: 56, height: 56 }
     offset: { x: 1100, y: 180 }
     icon:
       value: material/account-child-outline
-      color: "#FFFFFFB3"
+      color: "#df41fbB3"
   - size: { width: 56, height: 56 }
     offset: { x: 1100, y: 270 }
     icon:
       value: material/hand-heart
-      color: "#FFFFFFB3"
+      color: "#526cfeB3"
   - size: { width: 56, height: 56 }
     offset: { x: 1100, y: 360 }
     icon:
       value: material/data-matrix
-      color: "#FFFFFFB3"
+      color: "#4287ffB3"
   - size: { width: 56, height: 56 }
     offset: { x: 1100, y: 450 }
     icon:
       value: material/podcast
-      color: "#FFFFFFB3"
+      color: "#b0eb00B3"
   - size: { width: 56, height: 56 }
     offset: { x: 1100, y: 530 }
     icon:
       value: material/cards-outline
-      color: "#FFFFFFB3"
+      color: "#f2a409B3"
 
 
   - size: { width: 48, height: 48 }
