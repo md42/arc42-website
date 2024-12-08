@@ -1,10 +1,12 @@
 ---
+description: "Das hier ist ein Test. Ich finde das ist durchaus gelungen, oder?"
 tags:
 - Der Software-Engineer
 - Der Papa
 - Der Datenschutz-Enthusiast
 - Der Podcaster
 - Der Nerd
+- Der Partner
 hide:
 - toc
 - tags
@@ -44,6 +46,12 @@ Bundesrepublik Deutschland
 
     Kinder zu bekommen heißt das eigene Herz durch die Welt laufen zu sehen. Danke für alles, ihr seid mein größtes Geschenk.
 
+-   :material-hand-heart:{ .lg .middle } __Der Partner__
+
+    ---
+
+    Manche Menschen erhalten die Chance, einem ganz besonderen Menschen zu begegnen. Jemanden, der den Weg durchs Leben zwar nicht abkürzt, aber hell erleuchten lässt. Zu diesen Menschen gehöre ich.
+
 -   :material-data-matrix:{ .lg .middle } __Der Datenschutz-Enthusiast__
 
     ---
@@ -63,7 +71,7 @@ Bundesrepublik Deutschland
 
     Schreiben hilft die Gedanken konkreter zu formulieren und zu fokussieren. Doch Schreiben sollte nicht nur regelmäßig geübt werden, sondern macht mir auch großen Spaß.
 
--   :fontawesome-brands-rebel:{ .lg .middle } __Der Nerd__
+-   :material-cards-outline:{ .lg .middle } __Der Nerd__
 
     ---
 
