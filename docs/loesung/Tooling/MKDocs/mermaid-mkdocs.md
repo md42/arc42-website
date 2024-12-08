@@ -1,7 +1,9 @@
 ---
+description: "Mit diesem Plugin für Material for MKDocs lässt sich das Potential von Mermaid so richtig ausschöpfen."
 tags:
   - Mermaid
   - MaterialForMKDocs
+  - Der Software-Engineer
 ---
 
 # Mermaid2 Plugin in mkdocs-Material einrichten

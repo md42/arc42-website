@@ -1,8 +1,10 @@
 ---
+description: "Das Einbetten von third-party Fonts in Material for MKDocs am Beispiel von Hack."
 tags:
   - Fonts
   - CSS
   - MaterialForMKDocs
+  - Der Software-Engineer
 ---
 
 # Webfont Hack als monospaced Font in Material for MKDocs nutzen

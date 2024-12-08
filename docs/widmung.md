@@ -1,3 +1,10 @@
+---
+description: "Diese Seite, ihre Inhalte ubd die Zeit die in sie geflossen ist, möchte ich ein paar besonderen Menschen widmen."
+tags:
+- Der Papa
+- Der Software-Engineer
+---
+
 # Widmung
 
 ## Die Wichtigsten zuerst

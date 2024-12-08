@@ -8,8 +8,6 @@ tags:
     - iOS
 ---
 
-
-
 # Ladefuchs - Einfach schlau laden
 
 <figure markdown="span">

@@ -1,4 +1,5 @@
 ---
+desciption: "Kiwörds, Faustregeln, es gibt viele Namen für die Mechanik mit Wörtern die Navigation zu erleichtern."
 hide:
     - toc
 ---

@@ -1,4 +1,5 @@
 ---
+description: "Willkommen auf meiner Website! Schön dass du da bist."
 tags:
 - Der Software-Engineer
 - Der Papa
