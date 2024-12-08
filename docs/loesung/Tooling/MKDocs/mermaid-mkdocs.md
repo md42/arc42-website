@@ -6,7 +6,7 @@ tags:
   - Der Software-Engineer
 ---
 
-# Mermaid2 Plugin in mkdocs-Material einrichten
+# Mermaid2 Plugin in Material for MKDocs einrichten
 
 ## Dependencies
 
