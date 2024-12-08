@@ -1,5 +1,5 @@
 ---
-description: "Diese Seite, ihre Inhalte ubd die Zeit die in sie geflossen ist, möchte ich ein paar besonderen Menschen widmen."
+description: "Diese Seite, ihre Inhalte und Allgemein das Meiste was ich tue, möchte ich ein paar besonderen Menschen widmen."
 tags:
 - Der Papa
 - Der Software-Engineer
