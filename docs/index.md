@@ -1,5 +1,5 @@
 ---
-description: "Das hier ist ein Test. Ich finde das ist durchaus gelungen, oder?"
+description: "Willkommen auf meiner Website! Schön dass du da bist."
 tags:
 - Der Software-Engineer
 - Der Papa

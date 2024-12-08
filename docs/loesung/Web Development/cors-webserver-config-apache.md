@@ -1,7 +1,9 @@
 ---
+description: "Dateien die von einer anderen Domain ausgeliefert werden, erzeugen einen CORS-Fehler. Beheben wir ihn."
 tags:
-    - Apache
-    - Server
+   - Apache
+   - Server
+   - Der Software-Engineer
 ---
 
 # CORS Konfigurieren um Ressourcen auf separatem Webserver zu hosten

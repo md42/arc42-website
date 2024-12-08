@@ -1,4 +1,8 @@
 ---
+description: "Wie ich meine digitale Dokumenten-Ablage unter Kontrolle halte und für Backups sorge."
+tags:
+- Der Papa
+- Der Nerd
 hide:
     - toc
 ---

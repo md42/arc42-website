@@ -1,4 +1,5 @@
 ---
+description: "Meine Berufserfahrung, meine Kenntnisse und weiteren Aktivitäten. Noch Fragen?"
 links:
   - kontext/referenzen.md
 tags:

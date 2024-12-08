@@ -1,3 +1,8 @@
+---
+description: "Menschen schreiben darüber, wie sie die Zusammenarbeit mit mir empfunden haben. Prüfbar."
+tags:
+- Der Software-Engineer
+---
 # Referenzen
 
 ## Thorsten Giesecke 
