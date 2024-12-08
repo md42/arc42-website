@@ -48,7 +48,7 @@ layers:
       color: "#070713"
   - background:
       image: layouts/background.jpg
-      color: "#070713E0"
+      color: "#FFFFFFB3"
   # - size: { width: 2400, height: 2400 }
   #   offset: { x: -1024, y: 64 }
   #   icon:
@@ -62,13 +62,13 @@ layers:
   - size: { width: 1, height: 630 }
     offset: { x: 1050, y: 0 }
     background:
-      color: "#FFFFFFB3"
-  - size: { width: 1200, height: 60 }
+      color: "#000000B3"
+  - size: { width: 1200, height: 70 }
     offset: { x: 0, y: 0 }
     background:
       color: "#202060"
   - size: { width: 1200, height: 60 }
-    offset: { x: 96, y: 0 }
+    offset: { x: 130, y: 5 }
     typography:
       content: "florianschuttkowski.com" 
       align: start
@@ -80,7 +80,7 @@ layers:
         family: Roboto Mono
         style: Bold
   - size: { width: 1200, height: 1 }
-    offset: { x: 0, y: 60}
+    offset: { x: 0, y: 70}
     background:
       color: "#6D80ED70"
 
@@ -118,7 +118,7 @@ layers:
 
 
   - size: { width: 48, height: 48 }
-    offset: { x: 18, y: 8 }
+    offset: { x: 62, y: 8 }
     icon:
       value: fontawesome/solid/dragon
       color: white
@@ -128,7 +128,7 @@ layers:
       content: "{{ page.title }}" 
       overflow: shrink
       align: start center
-      color: white
+      color: black
       line:
         amount: 1
         height: 1.25
@@ -141,7 +141,8 @@ layers:
       content: *page_description 
       overflow: shrink
       align: start center
-      color: "#bfbfbf"
+      color: gray
+      # color: "#bfbfbf"
       line:
         amount: 3
         height: 1.25
