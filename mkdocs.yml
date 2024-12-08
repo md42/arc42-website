@@ -44,7 +44,8 @@ theme:
       derpapa: material/account-child-outline
       derdatenschutzenthusiast: material/data-matrix
       derpodcaster: material/podcast
-      dernerd: fontawesome/brands/rebel
+      dernerd: material/cards-outline
+      derpartner: material/hand-heart
   palette:
     # Palette toggle for automatic mode
     - media: "(prefers-color-scheme)"
@@ -98,7 +99,10 @@ plugins:
   - optimize:
       enabled: true
       cache: false
-  - social
+  - social:
+      cards_layout_dir: layouts
+      cards_layout: custom
+      debug: false
   - glightbox
   - awesome-pages
   - typeset
@@ -132,6 +136,7 @@ extra:
     Der Datenschutz-Enthusiast: derdatenschutzenthusiast
     Der Podcaster: derpodcaster
     Der Nerd: dernerd
+    Der Partner: derpartner
   generator: false
   social:
     - icon: fontawesome/brands/mastodon 

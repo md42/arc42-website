@@ -1,0 +1,150 @@
+# Definitions
+definitions:
+
+  # Background image
+  - &background_image >-
+    {{ layout.background_image }}
+
+  # Page title with site name
+  - &page_title_with_site_name >-
+    {%- if not page.is_homepage -%}
+      {{ page.meta.get("title", page.title) }} - {{ config.site_name }}
+    {%- else -%}
+      {{ page.meta.get("title", page.title) }}
+    {%- endif -%}
+
+  # Page description
+  - &page_description >-
+    {%- if layout.description -%}
+      {{ layout.description }}
+    {%- else -%}
+      {{ page.meta.get("description", config.site_description) | x }}
+    {%- endif -%}
+
+# Meta tags
+tags:
+
+  # Open Graph
+  og:type: website
+  og:title: *page_title_with_site_name
+  og:description: *page_description
+  og:image: "{{ image.url }}"
+  og:image:type: "{{ image.type }}"
+  og:image:width: "{{ image.width }}"
+  og:image:height: "{{ image.height }}"
+  og:url: "{{ page.canonical_url }}"
+
+  # Twitter
+  twitter:card: summary_large_image
+  twitter:title: *page_title_with_site_name
+  twitter:description: *page_description
+  twitter:image: "{{ image.url }}"
+
+size: { width: 1200, height: 630 }
+layers:
+  - size: { width: 1200, height: 630 }
+    offset: { x: 0, y: 0 }
+  - background:
+      color: "#070713"
+  - background:
+      image: layouts/background.jpg
+      color: "#070713E0"
+  # - size: { width: 2400, height: 2400 }
+  #   offset: { x: -1024, y: 64 }
+  #   icon:
+  #     value: material/circle
+  #     color: "#5c6bc01C"
+  # - size: { width: 1800, height: 1800 }
+  #   offset: { x: 512, y: -1024 }
+  #   icon:
+  #     value: material/circle
+  #     color: "#3949ab1C"
+  - size: { width: 1, height: 630 }
+    offset: { x: 1050, y: 0 }
+    background:
+      color: "#FFFFFFB3"
+  - size: { width: 1200, height: 60 }
+    offset: { x: 0, y: 0 }
+    background:
+      color: "#202060"
+  - size: { width: 1200, height: 60 }
+    offset: { x: 96, y: 0 }
+    typography:
+      content: "florianschuttkowski.com" 
+      align: start
+      color: white
+      line:
+        amount: 1
+        height: 1.25
+      font:
+        family: Roboto Mono
+        style: Bold
+  - size: { width: 1200, height: 1 }
+    offset: { x: 0, y: 60}
+    background:
+      color: "#6D80ED70"
+
+
+  - size: { width: 56, height: 56 }
+    offset: { x: 1100, y: 90 }
+    icon:
+      value: fontawesome/solid/laptop-code
+      color: "#FFFFFFB3"
+  - size: { width: 56, height: 56 }
+    offset: { x: 1100, y: 180 }
+    icon:
+      value: material/account-child-outline
+      color: "#FFFFFFB3"
+  - size: { width: 56, height: 56 }
+    offset: { x: 1100, y: 270 }
+    icon:
+      value: material/hand-heart
+      color: "#FFFFFFB3"
+  - size: { width: 56, height: 56 }
+    offset: { x: 1100, y: 360 }
+    icon:
+      value: material/data-matrix
+      color: "#FFFFFFB3"
+  - size: { width: 56, height: 56 }
+    offset: { x: 1100, y: 450 }
+    icon:
+      value: material/podcast
+      color: "#FFFFFFB3"
+  - size: { width: 56, height: 56 }
+    offset: { x: 1100, y: 530 }
+    icon:
+      value: material/cards-outline
+      color: "#FFFFFFB3"
+
+
+  - size: { width: 48, height: 48 }
+    offset: { x: 18, y: 8 }
+    icon:
+      value: fontawesome/solid/dragon
+      color: white
+  - size: { width: 940, height: 150 }
+    offset: { x: 62, y: 150 }
+    typography:
+      content: "{{ page.title }}" 
+      overflow: shrink
+      align: start center
+      color: white
+      line:
+        amount: 1
+        height: 1.25
+      font:
+        family: Roboto
+        style: Bold
+  - size: { width: 832, height: 260 }
+    offset: { x: 62, y: 320 }
+    typography:
+      content: *page_description 
+      overflow: shrink
+      align: start center
+      color: "#bfbfbf"
+      line:
+        amount: 3
+        height: 1.25
+      font:
+        family: Roboto
+        style: Regular
