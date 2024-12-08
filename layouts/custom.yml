@@ -135,7 +135,7 @@ layers:
       font:
         family: Roboto
         style: Bold
-  - size: { width: 832, height: 260 }
+  - size: { width: 832, height: 230 }
     offset: { x: 62, y: 320 }
     typography:
       content: *page_description 
