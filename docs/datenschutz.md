@@ -1,5 +1,5 @@
 ---
-description: "Das Impressum dieser Website."
+description: "Datenschutzerklärung / Data privacy policy"
 tags:
 - Der Blogger
 ---

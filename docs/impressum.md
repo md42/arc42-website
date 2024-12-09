@@ -1,5 +1,5 @@
 ---
-description: "Das Impressum dieser Website."
+description: "Impressum / Imprint"
 tags:
 - Der Blogger
 ---
