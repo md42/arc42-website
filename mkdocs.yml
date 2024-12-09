@@ -46,6 +46,7 @@ theme:
       derpodcaster: material/podcast
       dernerd: material/cards-outline
       derpartner: material/hand-heart
+      derblogger: material/keyboard
       git: material/git
       ssh: material/ssh
       github: material/github
@@ -143,6 +144,7 @@ extra:
     Der Podcaster: derpodcaster
     Der Nerd: dernerd
     Der Partner: derpartner
+    Der Blogger: derblogger
     GitHub: github
     SSH: ssh
     GIT: git
