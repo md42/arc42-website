@@ -46,6 +46,9 @@ theme:
       derpodcaster: material/podcast
       dernerd: material/cards-outline
       derpartner: material/hand-heart
+      git: material/git
+      ssh: material/ssh
+      github: material/github
   palette:
     # Palette toggle for automatic mode
     - media: "(prefers-color-scheme)"
@@ -137,8 +140,13 @@ extra:
     Der Podcaster: derpodcaster
     Der Nerd: dernerd
     Der Partner: derpartner
+    GitHub: github
+    SSH: ssh
+    GIT: git
   generator: false
   social:
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/florianschuttkowski/
     - icon: fontawesome/brands/mastodon 
       link: https://chaos.social/@flowinho
     - icon: fontawesome/brands/github
