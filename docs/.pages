@@ -6,7 +6,7 @@ nav:
     - 5. Bausteinsicht: bausteine
     - 7. Verteilungssicht: verteilung
     - 12. Glossar & Nützliches: glossar
-    - schlagworte.md
-    - datenschutz.md
-    - impressum.md
+    - Rechtliches / Legal documents:
+        - datenschutz.md
+        - impressum.md
     

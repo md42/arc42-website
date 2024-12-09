@@ -5,7 +5,7 @@ tags:
     - PublicKeys
 ---
 
-# Keys
+# Encryption Keys
 
 ## Age
 

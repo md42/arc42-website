@@ -1,668 +1,1005 @@
+---
+description: "Das Impressum dieser Website."
+tags:
+- Der Blogger
+---
+
+!!! info "English version after german version"
+
+    The english version of this legal document is located after the german version. Please scroll down or use the table-of-contents.
+
+# Datenschutzerklärung / Data Privacy Policy
+
+## Datenschutzerklärung
+
+### Präambel {#m716}
+
+Mit der folgenden Datenschutzerklärung möchten wir Sie darüber aufklären, welche Arten Ihrer personenbezogenen Daten (nachfolgend auch kurz als "Daten" bezeichnet) wir zu welchen Zwecken und in welchem Umfang verarbeiten. Die Datenschutzerklärung gilt für alle von uns durchgeführten Verarbeitungen personenbezogener Daten, sowohl im Rahmen der Erbringung unserer Leistungen als auch insbesondere auf unseren Webseiten, in mobilen Applikationen sowie innerhalb externer Onlinepräsenzen, wie z. B. unserer Social-Media-Profile (nachfolgend zusammenfassend bezeichnet als "Onlineangebot").
+
+Die verwendeten Begriffe sind nicht geschlechtsspezifisch.
+
+Stand: 9. Dezember 2024
+
+### Inhaltsübersicht
+
+*   [Präambel](#m716)
+*   [Verantwortlicher](#m3)
+*   [Übersicht der Verarbeitungen](#mOverview)
+*   [Maßgebliche Rechtsgrundlagen](#m2427)
+*   [Sicherheitsmaßnahmen](#m27)
+*   [Internationale Datentransfers](#m24)
+*   [Allgemeine Informationen zur Datenspeicherung und Löschung](#m12)
+*   [Rechte der betroffenen Personen](#m10)
+*   [Zahlungsverfahren](#m326)
+*   [Bereitstellung des Onlineangebots und Webhosting](#m225)
+*   [Einsatz von Cookies](#m134)
+*   [Besondere Hinweise zu Applikationen (Apps)](#m469)
+*   [Bezug von Applikationen über Appstores](#m1466)
+*   [Blogs und Publikationsmedien](#m104)
+*   [Kommunikation via Messenger](#m391)
+*   [Push-Nachrichten](#m1643)
+*   [Videokonferenzen, Onlinemeetings, Webinare und Bildschirm-Sharing](#m735)
+*   [Audioinhalte](#m296)
+*   [Cloud-Dienste](#m29)
+*   [Umfragen und Befragungen](#m408)
+*   [Präsenzen in sozialen Netzwerken (Social Media)](#m136)
+*   [Plug-ins und eingebettete Funktionen sowie Inhalte](#m328)
+*   [Management, Organisation und Hilfswerkzeuge](#m723)
+*   [Änderung und Aktualisierung](#m15)
+*   [Begriffsdefinitionen](#m42)
 
-# Datenschutzerklärung
-
-
-## Einleitung und Überblick
-
-<p>Wir haben diese Datenschutzerklärung (Fassung 11.12.2023-312685464) verfasst, um Ihnen gemäß der Vorgaben der <a class="adsimple-312685464" href="https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:32016R0679&amp;from=DE&amp;tid=312685464#d1e2269-1-1" target="_blank" rel="noopener">Datenschutz-Grundverordnung (EU) 2016/679</a> und anwendbaren nationalen Gesetzen zu erklären, welche personenbezogenen Daten (kurz Daten) wir als Verantwortliche &#8211; und die von uns beauftragten Auftragsverarbeiter (z. B. Provider) &#8211; verarbeiten, zukünftig verarbeiten werden und welche rechtmäßigen Möglichkeiten Sie haben. Die verwendeten Begriffe sind geschlechtsneutral zu verstehen.<br />
-<strong class="adsimple-312685464">Kurz gesagt:</strong> Wir informieren Sie umfassend über Daten, die wir über Sie verarbeiten.</p>
-<p>Datenschutzerklärungen klingen für gewöhnlich sehr technisch und verwenden juristische Fachbegriffe. Diese Datenschutzerklärung soll Ihnen hingegen die wichtigsten Dinge so einfach und transparent wie möglich beschreiben. Soweit es der Transparenz förderlich ist, werden technische <strong class="adsimple-312685464">Begriffe leserfreundlich erklärt</strong>, Links zu weiterführenden Informationen geboten und <strong class="adsimple-312685464">Grafiken</strong> zum Einsatz gebracht. Wir informieren damit in klarer und einfacher Sprache, dass wir im Rahmen unserer Geschäftstätigkeiten nur dann personenbezogene Daten verarbeiten, wenn eine entsprechende gesetzliche Grundlage gegeben ist. Das ist sicher nicht möglich, wenn man möglichst knappe, unklare und juristisch-technische Erklärungen abgibt, so wie sie im Internet oft Standard sind, wenn es um Datenschutz geht. Ich hoffe, Sie finden die folgenden Erläuterungen interessant und informativ und vielleicht ist die eine oder andere Information dabei, die Sie noch nicht kannten.<br />
-Wenn trotzdem Fragen bleiben, möchten wir Sie bitten, sich an die unten bzw. im Impressum genannte verantwortliche Stelle zu wenden, den vorhandenen Links zu folgen und sich weitere Informationen auf Drittseiten anzusehen. Unsere Kontaktdaten finden Sie selbstverständlich auch im Impressum.</p>
-
-## Anwendungsbereich
-
-<p>Diese Datenschutzerklärung gilt für alle von uns im Unternehmen verarbeiteten personenbezogenen Daten und für alle personenbezogenen Daten, die von uns beauftragte Firmen (Auftragsverarbeiter) verarbeiten. Mit personenbezogenen Daten meinen wir Informationen im Sinne des Art. 4 Nr. 1 DSGVO wie zum Beispiel Name, E-Mail-Adresse und postalische Anschrift einer Person. Die Verarbeitung personenbezogener Daten sorgt dafür, dass wir unsere Dienstleistungen und Produkte anbieten und abrechnen können, sei es online oder offline. Der Anwendungsbereich dieser Datenschutzerklärung umfasst:</p>
-<ul class="adsimple-312685464">
-<li class="adsimple-312685464">alle Onlineauftritte (Websites, Onlineshops), die wir betreiben</li>
-<li class="adsimple-312685464">Social Media Auftritte und E-Mail-Kommunikation</li>
-<li class="adsimple-312685464">mobile Apps für Smartphones und andere Geräte</li>
-</ul>
-<p>
-<strong class="adsimple-312685464">Kurz gesagt:</strong> Die Datenschutzerklärung gilt für alle Bereiche, in denen personenbezogene Daten im Unternehmen über die genannten Kanäle strukturiert verarbeitet werden. Sollten wir außerhalb dieser Kanäle mit Ihnen in Rechtsbeziehungen eintreten, werden wir Sie gegebenenfalls gesondert informieren.</p>
-
-## <h2 id="rechtsgrundlagen" class="adsimple-312685464">Rechtsgrundlagen
-
-<p>In der folgenden Datenschutzerklärung geben wir Ihnen transparente Informationen zu den rechtlichen Grundsätzen und Vorschriften, also den Rechtsgrundlagen der Datenschutz-Grundverordnung, die uns ermöglichen, personenbezogene Daten zu verarbeiten.<br />
-Was das EU-Recht betrifft, beziehen wir uns auf die VERORDNUNG (EU) 2016/679 DES EUROPÄISCHEN PARLAMENTS UND DES RATES vom 27. April 2016. Diese Datenschutz-Grundverordnung der EU können Sie selbstverständlich online auf EUR-Lex, dem Zugang zum EU-Recht, unter <a class="adsimple-312685464" href="https://eur-lex.europa.eu/legal-content/DE/ALL/?uri=celex%3A32016R0679">https://eur-lex.europa.eu/legal-content/DE/ALL/?uri=celex%3A32016R0679</a> nachlesen.</p>
-<p>Wir verarbeiten Ihre Daten nur, wenn mindestens eine der folgenden Bedingungen zutrifft:</p>
-<ol>
-<li class="adsimple-312685464">
-<strong class="adsimple-312685464">Einwilligung</strong> (Artikel 6 Absatz 1 lit. a DSGVO): Sie haben uns Ihre Einwilligung gegeben, Daten zu einem bestimmten Zweck zu verarbeiten. Ein Beispiel wäre die Speicherung Ihrer eingegebenen Daten eines Kontaktformulars.</li>
-<li class="adsimple-312685464">
-<strong class="adsimple-312685464">Vertrag</strong> (Artikel 6 Absatz 1 lit. b DSGVO): Um einen Vertrag oder vorvertragliche Verpflichtungen mit Ihnen zu erfüllen, verarbeiten wir Ihre Daten. Wenn wir zum Beispiel einen Kaufvertrag mit Ihnen abschließen, benötigen wir vorab personenbezogene Informationen.</li>
-<li class="adsimple-312685464">
-<strong class="adsimple-312685464">Rechtliche Verpflichtung</strong> (Artikel 6 Absatz 1 lit. c DSGVO): Wenn wir einer rechtlichen Verpflichtung unterliegen, verarbeiten wir Ihre Daten. Zum Beispiel sind wir gesetzlich verpflichtet Rechnungen für die Buchhaltung aufzuheben. Diese enthalten in der Regel personenbezogene Daten.</li>
-<li class="adsimple-312685464">
-<strong class="adsimple-312685464">Berechtigte Interessen</strong> (Artikel 6 Absatz 1 lit. f DSGVO): Im Falle berechtigter Interessen, die Ihre Grundrechte nicht einschränken, behalten wir uns die Verarbeitung personenbezogener Daten vor. Wir müssen zum Beispiel gewisse Daten verarbeiten, um unsere Website sicher und wirtschaftlich effizient betreiben zu können. Diese Verarbeitung ist somit ein berechtigtes Interesse.</li>
-</ol>
-<p>Weitere Bedingungen wie die Wahrnehmung von Aufnahmen im öffentlichen Interesse und Ausübung öffentlicher Gewalt sowie dem Schutz lebenswichtiger Interessen treten bei uns in der Regel nicht auf. Soweit eine solche Rechtsgrundlage doch einschlägig sein sollte, wird diese an der entsprechenden Stelle ausgewiesen.</p>
-<p>Zusätzlich zu der EU-Verordnung gelten auch noch nationale Gesetze:</p>
-<ul class="adsimple-312685464">
-<li class="adsimple-312685464">In <strong class="adsimple-312685464">Österreich</strong> ist dies das Bundesgesetz zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten (<strong class="adsimple-312685464">Datenschutzgesetz</strong>), kurz <strong class="adsimple-312685464">DSG</strong>.</li>
-<li class="adsimple-312685464">In <strong class="adsimple-312685464">Deutschland</strong> gilt das <strong class="adsimple-312685464">Bundesdatenschutzgesetz</strong>, kurz<strong class="adsimple-312685464"> BDSG</strong>.</li>
-</ul>
-<p>Sofern weitere regionale oder nationale Gesetze zur Anwendung kommen, informieren wir Sie in den folgenden Abschnitten darüber.</p>
-
-## <h2 id="kontaktdaten-verantwortliche" class="adsimple-312685464">Kontaktdaten des Verantwortlichen
-
-<p>Sollten Sie Fragen zum Datenschutz oder zur Verarbeitung personenbezogener Daten haben, finden Sie nachfolgend die Kontaktdaten der verantwortlichen Person bzw. Stelle:<br />
-<span class="adsimple-312685464" style="font-weight: 400">Florian Schuttkowski<br />
-Korntaler Straße 15/1<br />
-71636 Ludwigsburg</span>
-<br />
-<span style="font-weight: 400">Vertretungsberechtigt: Florian Schuttkowski</span>
-<br />
-E-Mail: mail at flowinho dot com
-</p>
-<p>Impressum: <a href="https://florianschuttkowski.com/impressum/">https://florianschuttkowski.com/impressum/</a>
-</p>
-
-## <h2 id="speicherdauer" class="adsimple-312685464">Speicherdauer
-
-<p>Dass wir personenbezogene Daten nur so lange speichern, wie es für die Bereitstellung unserer Dienstleistungen und Produkte unbedingt notwendig ist, gilt als generelles Kriterium bei uns. Das bedeutet, dass wir personenbezogene Daten löschen, sobald der Grund für die Datenverarbeitung nicht mehr vorhanden ist. In einigen Fällen sind wir gesetzlich dazu verpflichtet, bestimmte Daten auch nach Wegfall des ursprüngliches Zwecks zu speichern, zum Beispiel zu Zwecken der Buchführung.</p>
-<p>Sollten Sie die Löschung Ihrer Daten wünschen oder die Einwilligung zur Datenverarbeitung widerrufen, werden die Daten so rasch wie möglich und soweit keine Pflicht zur Speicherung besteht, gelöscht.</p>
-<p>Über die konkrete Dauer der jeweiligen Datenverarbeitung informieren wir Sie weiter unten, sofern wir weitere Informationen dazu haben.</p>
-
-## <h2 id="rechte-dsgvo" class="adsimple-312685464">Rechte laut Datenschutz-Grundverordnung
-
-<p>Gemäß Artikel 13, 14 DSGVO informieren wir Sie über die folgenden Rechte, die Ihnen zustehen, damit es zu einer fairen und transparenten Verarbeitung von Daten kommt:</p>
-<ul class="adsimple-312685464">
-<li class="adsimple-312685464">Sie haben laut Artikel 15 DSGVO ein Auskunftsrecht darüber, ob wir Daten von Ihnen verarbeiten. Sollte das zutreffen, haben Sie Recht darauf eine Kopie der Daten zu erhalten und die folgenden Informationen zu erfahren:
-<ul class="adsimple-312685464">
-<li class="adsimple-312685464">zu welchem Zweck wir die Verarbeitung durchführen;</li>
-<li class="adsimple-312685464">die Kategorien, also die Arten von Daten, die verarbeitet werden;</li>
-<li class="adsimple-312685464">wer diese Daten erhält und wenn die Daten an Drittländer übermittelt werden, wie die Sicherheit garantiert werden kann;</li>
-<li class="adsimple-312685464">wie lange die Daten gespeichert werden;</li>
-<li class="adsimple-312685464">das Bestehen des Rechts auf Berichtigung, Löschung oder Einschränkung der Verarbeitung und dem Widerspruchsrecht gegen die Verarbeitung;</li>
-<li class="adsimple-312685464">dass Sie sich bei einer Aufsichtsbehörde beschweren können (Links zu diesen Behörden finden Sie weiter unten);</li>
-<li class="adsimple-312685464">die Herkunft der Daten, wenn wir sie nicht bei Ihnen erhoben haben;</li>
-<li class="adsimple-312685464">ob Profiling durchgeführt wird, ob also Daten automatisch ausgewertet werden, um zu einem persönlichen Profil von Ihnen zu gelangen.</li>
-</ul>
-</li>
-<li class="adsimple-312685464">Sie haben laut Artikel 16 DSGVO ein Recht auf Berichtigung der Daten, was bedeutet, dass wir Daten richtig stellen müssen, falls Sie Fehler finden.</li>
-<li class="adsimple-312685464">Sie haben laut Artikel 17 DSGVO das Recht auf Löschung („Recht auf Vergessenwerden“), was konkret bedeutet, dass Sie die Löschung Ihrer Daten verlangen dürfen.</li>
-<li class="adsimple-312685464">Sie haben laut Artikel 18 DSGVO das Recht auf Einschränkung der Verarbeitung, was bedeutet, dass wir die Daten nur mehr speichern dürfen aber nicht weiter verwenden.</li>
-<li class="adsimple-312685464">Sie haben laut Artikel 20 DSGVO das Recht auf Datenübertragbarkeit, was bedeutet, dass wir Ihnen auf Anfrage Ihre Daten in einem gängigen Format zur Verfügung stellen.</li>
-<li class="adsimple-312685464">Sie haben laut Artikel 21 DSGVO ein Widerspruchsrecht, welches nach Durchsetzung eine Änderung der Verarbeitung mit sich bringt.
-<ul class="adsimple-312685464">
-<li class="adsimple-312685464">Wenn die Verarbeitung Ihrer Daten auf Artikel 6 Abs. 1 lit. e (öffentliches Interesse, Ausübung öffentlicher Gewalt) oder Artikel 6 Abs. 1 lit. f (berechtigtes Interesse) basiert, können Sie gegen die Verarbeitung Widerspruch einlegen. Wir prüfen danach so rasch wie möglich, ob wir diesem Widerspruch rechtlich nachkommen können.</li>
-<li class="adsimple-312685464">Werden Daten verwendet, um Direktwerbung zu betreiben, können Sie jederzeit gegen diese Art der Datenverarbeitung widersprechen. Wir dürfen Ihre Daten danach nicht mehr für Direktmarketing verwenden.</li>
-<li class="adsimple-312685464">Werden Daten verwendet, um Profiling zu betreiben, können Sie jederzeit gegen diese Art der Datenverarbeitung widersprechen. Wir dürfen Ihre Daten danach nicht mehr für Profiling verwenden.</li>
-</ul>
-</li>
-<li class="adsimple-312685464">Sie haben laut Artikel 22 DSGVO unter Umständen das Recht, nicht einer ausschließlich auf einer automatisierten Verarbeitung (zum Beispiel Profiling) beruhenden Entscheidung unterworfen zu werden.</li>
-<li class="adsimple-312685464">Sie haben laut Artikel 77 DSGVO das Recht auf Beschwerde. Das heißt, Sie können sich jederzeit bei der Datenschutzbehörde beschweren, wenn Sie der Meinung sind, dass die Datenverarbeitung von personenbezogenen Daten gegen die DSGVO verstößt.</li>
-</ul>
-<p>
-<strong class="adsimple-312685464">Kurz gesagt:</strong> Sie haben Rechte &#8211; zögern Sie nicht, die oben gelistete verantwortliche Stelle bei uns zu kontaktieren!</p>
-<p>Wenn Sie glauben, dass die Verarbeitung Ihrer Daten gegen das Datenschutzrecht verstößt oder Ihre datenschutzrechtlichen Ansprüche in sonst einer Weise verletzt worden sind, können Sie sich bei der Aufsichtsbehörde beschweren. Diese ist für Österreich die Datenschutzbehörde, deren Website Sie unter <a class="adsimple-312685464" href="https://www.dsb.gv.at/?tid=312685464" target="_blank" rel="noopener">https://www.dsb.gv.at/</a> finden. In Deutschland gibt es für jedes Bundesland einen Datenschutzbeauftragten. Für nähere Informationen können Sie sich an die <a class="adsimple-312685464" href="https://www.bfdi.bund.de/DE/Home/home_node.html" target="_blank" rel="noopener">Bundesbeauftragte für den Datenschutz und die Informationsfreiheit (BfDI)</a> wenden. Für unser Unternehmen ist die folgende lokale Datenschutzbehörde zuständig:</p>
-
-## <h2 id="baden-wuerttemberg-datenschutzbehoerde" class="adsimple-312685464">Baden-Württemberg Datenschutzbehörde
-
-<p>
-<strong class="adsimple-312685464">Landesbeauftragter für Datenschutz:</strong> Prof. Dr. Tobias Keber<br />
-<strong class="adsimple-312685464">Adresse:</strong> Lautenschlagerstraße 20, 70173 Stuttgart<br />
-<strong class="adsimple-312685464">Telefonnr.:</strong> 07 11/61 55 41-0<br />
-<strong class="adsimple-312685464">E-Mail-Adresse:</strong> <a class="adsimple-312685464" href="mailto:poststelle@lfdi.bwl.de">poststelle@lfdi.bwl.de</a>
-<br />
-<strong class="adsimple-312685464">Website:</strong> <a class="adsimple-312685464" href="https://www.baden-wuerttemberg.datenschutz.de/?tid=312685464" target="_blank" rel="noopener">https://www.baden-wuerttemberg.datenschutz.de/</a>
-</p>
-
-## <h2 id="datenuebertragung-drittlaender" class="adsimple-312685464">Datenübertragung in Drittländer
-
-<p>Wir übertragen oder verarbeiten Daten nur dann in Länder außerhalb des Geltungsbereichs der DSGVO (Drittländer), wenn Sie in diese Verarbeitung einwilligen oder eine sonstige gesetzliche Erlaubnis besteht. Dies trifft insbesondere zu, wenn die Verarbeitung gesetzlich vorgeschrieben oder zur Erfüllung eines Vertragsverhältnisses notwendig und in jedem Fall nur soweit dies generell erlaubt ist. Ihre Zustimmung ist in den meisten Fällen der wichtigste Grund, dass wir Daten in Drittländern verarbeiten lassen. Die Verarbeitung personenbezogener Daten in Drittländern wie den USA, wo viele Softwarehersteller Dienstleistungen anbieten und Ihre Serverstandorte haben, kann bedeuten, dass personenbezogene Daten auf unerwartete Weise verarbeitet und gespeichert werden.</p>
-<p>Wir weisen ausdrücklich darauf hin, dass nach Meinung des Europäischen Gerichtshofs derzeit nur dann ein angemessenes Schutzniveau für den Datentransfer in die USA besteht, wenn ein US-Unternehmen, das personenbezogene Daten von EU-Bürgern in den USA verarbeitet, aktiver Teilnehmer des EU-US Data Privacy Frameworks ist. Mehr Informationen dazu finden Sie unter: <a class="adsimple-312685464" href="https://commission.europa.eu/document/fa09cbad-dd7d-4684-ae60-be03fcb0fddf_en" target="_blank" rel="follow noopener">https://commission.europa.eu/document/fa09cbad-dd7d-4684-ae60-be03fcb0fddf_en</a>
-</p>
-<p>Die Datenverarbeitung durch US-Dienste, die nicht aktive Teilnehmer des EU-US Data Privacy Frameworks sind, kann dazu führen, dass gegebenenfalls Daten nicht anonymisiert verarbeitet und gespeichert werden. Ferner können gegebenenfalls US-amerikanische staatliche Behörden Zugriff auf einzelne Daten nehmen. Zudem kann es vorkommen, dass erhobene Daten mit Daten aus anderen Diensten desselben Anbieters, sofern Sie ein entsprechendes Nutzerkonto haben, verknüpft werden. Nach Möglichkeit versuchen wir Serverstandorte innerhalb der EU zu nutzen, sofern das angeboten wird.<br />
-Wir informieren Sie an den passenden Stellen dieser Datenschutzerklärung genauer über Datenübertragung in Drittländer, sofern diese zutrifft.</p>
-
-## <h2 id="sicherheit-datenverarbeitung" class="adsimple-312685464">Sicherheit der Datenverarbeitung
-
-<p>Um personenbezogene Daten zu schützen, haben wir sowohl technische als auch organisatorische Maßnahmen umgesetzt. Wo es uns möglich ist, verschlüsseln oder pseudonymisieren wir personenbezogene Daten. Dadurch machen wir es im Rahmen unserer Möglichkeiten so schwer wie möglich, dass Dritte aus unseren Daten auf persönliche Informationen schließen können.</p>
-<p>Art. 25 DSGVO spricht hier von &#8220;Datenschutz durch Technikgestaltung und durch datenschutzfreundliche Voreinstellungen&#8221; und meint damit, dass man sowohl bei Software (z. B. Formularen) also auch Hardware (z. B. Zugang zum Serverraum) immer an Sicherheit denkt und entsprechende Maßnahmen setzt. Im Folgenden gehen wir, falls erforderlich, noch auf konkrete Maßnahmen ein.</p>
-
-## <h2 id="tls-verschluesselung-https" class="adsimple-312685464">TLS-Verschlüsselung mit https
-
-<p>TLS, Verschlüsselung und https klingen sehr technisch und sind es auch. Wir verwenden HTTPS (das Hypertext Transfer Protocol Secure steht für „sicheres Hypertext-Übertragungsprotokoll“), um Daten abhörsicher im Internet zu übertragen.<br />
-Das bedeutet, dass die komplette Übertragung aller Daten von Ihrem Browser zu unserem Webserver abgesichert ist &#8211; niemand kann &#8220;mithören&#8221;.</p>
-<p>Damit haben wir eine zusätzliche Sicherheitsschicht eingeführt und erfüllen den Datenschutz durch Technikgestaltung (<a class="adsimple-312685464" href="https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:32016R0679&amp;from=DE&amp;tid=312685464" target="_blank" rel="noopener">Artikel 25 Absatz 1 DSGVO</a>). Durch den Einsatz von TLS (Transport Layer Security), einem Verschlüsselungsprotokoll zur sicheren Datenübertragung im Internet, können wir den Schutz vertraulicher Daten sicherstellen.<br />
-Sie erkennen die Benutzung dieser Absicherung der Datenübertragung am kleinen Schlosssymbol <img role="img" src="https://www.adsimple.at/wp-content/uploads/2018/03/schlosssymbol-https.svg" width="17" height="18" /> links oben im Browser, links von der Internetadresse (z. B. beispielseite.de) und der Verwendung des Schemas https (anstatt http) als Teil unserer Internetadresse.<br />
-Wenn Sie mehr zum Thema Verschlüsselung wissen möchten, empfehlen wir die Google Suche nach &#8220;Hypertext Transfer Protocol Secure wiki&#8221; um gute Links zu weiterführenden Informationen zu erhalten.</p>
-
-## <h2 id="webhosting-einleitung" class="adsimple-312685464">Webhosting Einleitung
-
-<table border="1" cellpadding="15">
-<tbody>
-<tr>
-<td>
-<strong class="adsimple-312685464">Webhosting Zusammenfassung</strong>
-<br />
-&#x1f465; Betroffene: Besucher der Website<br />
-&#x1f91d; Zweck: professionelles Hosting der Website und Absicherung des Betriebs<br />
-&#x1f4d3; Verarbeitete Daten: IP-Adresse, Zeitpunkt des Websitebesuchs, verwendeter Browser und weitere Daten. Mehr Details dazu finden Sie weiter unten bzw. beim jeweils eingesetzten Webhosting Provider.<br />
-&#x1f4c5; Speicherdauer: abhängig vom jeweiligen Provider, aber in der Regel 2 Wochen<br />
-&#x2696;&#xfe0f; Rechtsgrundlagen: Art. 6 Abs. 1 lit.f DSGVO (Berechtigte Interessen)</td>
-</tr>
-</tbody>
-</table>
-<h3 class="adsimple-312685464">Was ist Webhosting?</h3>
-<p>Wenn Sie heutzutage Websites besuchen, werden gewisse Informationen &#8211; auch personenbezogene Daten &#8211; automatisch erstellt und gespeichert, so auch auf dieser Website. Diese Daten sollten möglichst sparsam und nur mit Begründung verarbeitet werden. Mit Website meinen wir übrigens die Gesamtheit aller Webseiten auf einer Domain, d.h. alles von der Startseite (Homepage) bis hin zur aller letzten Unterseite (wie dieser hier). Mit Domain meinen wir zum Beispiel beispiel.de oder musterbeispiel.com.</p>
-<p>Wenn Sie eine Website auf einem Computer, Tablet oder Smartphone ansehen möchten, verwenden Sie dafür ein Programm, das sich Webbrowser nennt. Sie kennen vermutlich einige Webbrowser beim Namen: Google Chrome, Microsoft Edge, Mozilla Firefox und Apple Safari. Wir sagen kurz Browser oder Webbrowser dazu.</p>
-<p>Um die Website anzuzeigen, muss sich der Browser zu einem anderen Computer verbinden, wo der Code der Website gespeichert ist: dem Webserver. Der Betrieb eines Webservers ist eine komplizierte und aufwendige Aufgabe, weswegen dies in der Regel von professionellen Anbietern, den Providern, übernommen wird. Diese bieten Webhosting an und sorgen damit für eine verlässliche und fehlerfreie Speicherung der Daten von Websites. Eine ganze Menge Fachbegriffe, aber bitte bleiben Sie dran, es wird noch besser!</p>
-<p>Bei der Verbindungsaufnahme des Browsers auf Ihrem Computer (Desktop, Laptop, Tablet oder Smartphone) und während der Datenübertragung zu und vom Webserver kann es zu einer Verarbeitung personenbezogener Daten kommen. Einerseits speichert Ihr Computer Daten, andererseits muss auch der Webserver Daten eine Zeit lang speichern, um einen ordentlichen Betrieb zu gewährleisten.</p>
-<p>Ein Bild sagt mehr als tausend Worte, daher zeigt folgende Grafik zur Veranschaulichung das Zusammenspiel zwischen Browser, dem Internet und dem Hosting-Provider.</p>
-<p>
-<img role="img" src="https://www.adsimple.at/wp-content/uploads/2018/03/browser-und-webserver.svg" alt="Browser und Webserver" width="100%" />
-</p>
-<h3 class="adsimple-312685464">Warum verarbeiten wir personenbezogene Daten?</h3>
-<p>Die Zwecke der Datenverarbeitung sind:</p>
-<ol>
-<li class="adsimple-312685464">Professionelles Hosting der Website und Absicherung des Betriebs</li>
-<li class="adsimple-312685464">zur Aufrechterhaltung der Betriebs- und IT-Sicherheit</li>
-<li class="adsimple-312685464">Anonyme Auswertung des Zugriffsverhaltens zur Verbesserung unseres Angebots und ggf. zur Strafverfolgung bzw. Verfolgung von Ansprüchen</li>
-</ol>
-<h3 class="adsimple-312685464">Welche Daten werden verarbeitet?</h3>
-<p>Auch während Sie unsere Website jetzt gerade besuchen, speichert unser Webserver, das ist der Computer auf dem diese Webseite gespeichert ist, in der Regel automatisch Daten wie</p>
-<ul class="adsimple-312685464">
-<li class="adsimple-312685464">die komplette Internetadresse (URL) der aufgerufenen Webseite</li>
-<li class="adsimple-312685464">Browser und Browserversion (z. B. Chrome 87)</li>
-<li class="adsimple-312685464">das verwendete Betriebssystem (z. B. Windows 10)</li>
-<li class="adsimple-312685464">die Adresse (URL) der zuvor besuchten Seite (Referrer URL) (z. B. <a class="adsimple-312685464" href="https://www.beispielquellsite.de/vondabinichgekommen/" target="_blank" rel="follow noopener">https://www.beispielquellsite.de/vondabinichgekommen/</a>)</li>
-<li class="adsimple-312685464">den Hostnamen und die IP-Adresse des Geräts von welchem aus zugegriffen wird (z. B. COMPUTERNAME und 194.23.43.121)</li>
-<li class="adsimple-312685464">Datum und Uhrzeit</li>
-<li class="adsimple-312685464">in Dateien, den sogenannten Webserver-Logfiles</li>
-</ul>
-<h3 class="adsimple-312685464">Wie lange werden Daten gespeichert?</h3>
-<p>In der Regel werden die oben genannten Daten zwei Wochen gespeichert und danach automatisch gelöscht. Wir geben diese Daten nicht weiter, können jedoch nicht ausschließen, dass diese Daten beim Vorliegen von rechtswidrigem Verhalten von Behörden eingesehen werden.</p>
-<p>
-<strong class="adsimple-312685464">Kurz gesagt:</strong> Ihr Besuch wird durch unseren Provider (Firma, die unsere Website auf speziellen Computern (Servern) laufen lässt), protokolliert, aber wir geben Ihre Daten nicht ohne Zustimmung weiter!</p>
-<h3 class="adsimple-312685464">Rechtsgrundlage</h3>
-<p>Die Rechtmäßigkeit der Verarbeitung personenbezogener Daten im Rahmen des Webhosting ergibt sich aus Art. 6 Abs. 1 lit. f DSGVO (Wahrung der berechtigten Interessen), denn die Nutzung von professionellem Hosting bei einem Provider ist notwendig, um das Unternehmen im Internet sicher und nutzerfreundlich präsentieren und Angriffe und Forderungen hieraus gegebenenfalls verfolgen zu können.</p>
-<p>Zwischen uns und dem Hosting-Provider besteht in der Regel ein Vertrag über die Auftragsverarbeitung gemäß Art. 28 f. DSGVO, der die Einhaltung von Datenschutz gewährleistet und Datensicherheit garantiert.</p>
-
-## <h2 id="github-pages-datenschutzerklaerung" class="adsimple-312685464">GitHub Pages Datenschutzerklärung
-
-<p>Wir verwenden für unsere Website den Webhosting-Dienst GitHub Pages. Dienstanbieter ist das amerikanische Unternehmen GitHub Inc., 88 Colin P. Kelly Jr. St.,San Francisco, CA 94107, USA.</p>
-<p>GitHub verarbeitet Daten von Ihnen u.a. auch in den USA. Wir weisen darauf hin, dass nach Meinung des Europäischen Gerichtshofs derzeit kein angemessenes Schutzniveau für den Datentransfer in die USA besteht. Dies kann mit verschiedenen Risiken für die Rechtmäßigkeit und Sicherheit der Datenverarbeitung einhergehen.</p>
-<p>Als Grundlage der Datenverarbeitung bei Empfängern mit Sitz in Drittstaaten (außerhalb der Europäischen Union, Island, Liechtenstein, Norwegen, also insbesondere in den USA) oder einer Datenweitergabe dorthin verwendet GitHub sogenannte Standardvertragsklauseln (= Art. 46. Abs. 2 und 3 DSGVO). Standardvertragsklauseln (Standard Contractual Clauses – SCC) sind von der EU-Kommission bereitgestellte Mustervorlagen und sollen sicherstellen, dass Ihre Daten auch dann den europäischen Datenschutzstandards entsprechen, wenn diese in Drittländer (wie beispielsweise in die USA) überliefert und dort gespeichert werden. Durch diese Klauseln verpflichtet sich GitHub, bei der Verarbeitung Ihrer relevanten Daten, das europäische Datenschutzniveau einzuhalten, selbst wenn die Daten in den USA gespeichert, verarbeitet und verwaltet werden. Diese Klauseln basieren auf einem Durchführungsbeschluss der EU-Kommission. Sie finden den Beschluss und die entsprechenden Standardvertragsklauseln u.a. hier: <a class="adsimple-312685464" href="https://eur-lex.europa.eu/eli/dec_impl/2021/914/oj?locale=de">https://eur-lex.europa.eu/eli/dec_impl/2021/914/oj?locale=de</a>
-</p>
-<p>Die GitHub Datenverarbeitungsbedingungen (Processing Terms), welche den Standardvertragsklauseln entsprechen, finden Sie unter <a class="adsimple-312685464" href="https://docs.github.com/en/site-policy/privacy-policies/github-data-protection-agreement" target="_blank" rel="follow noopener">https://docs.github.com/en/site-policy/privacy-policies/github-data-protection-agreement</a>.</p>
-<p>Mehr über die Daten, die durch die Verwendung von GitHub verarbeitet werden, erfahren Sie in der Privacy Policy auf <a class="adsimple-312685464" href="https://docs.github.com/en/site-policy/privacy-policies/github-privacy-statement?tid=312685464">https://docs.github.com/en/site-policy/privacy-policies/github-privacy-statement</a>.</p>
-
-## <h2 id="erklaerung-verwendeter-begriffe" class="adsimple-312685464">Erklärung verwendeter Begriffe
-
-<p>Wir sind stets bemüht unsere Datenschutzerklärung so klar und verständlich wie möglich zu verfassen. Besonders bei technischen und rechtlichen Themen ist das allerdings nicht immer ganz einfach. Es macht oft Sinn juristische Begriffe (wie z. B. personenbezogene Daten) oder bestimmte technische Ausdrücke (wie z. B. Cookies, IP-Adresse) zu verwenden. Wir möchte diese aber nicht ohne Erklärung verwenden. Nachfolgend finden Sie nun eine alphabetische Liste von wichtigen verwendeten Begriffen, auf die wir in der bisherigen Datenschutzerklärung vielleicht noch nicht ausreichend eingegangen sind. Falls diese Begriffe der DSGVO entnommen wurden und es sich um Begriffsbestimmungen handelt, werden wir hier auch die DSGVO-Texte anführen und gegebenenfalls noch eigene Erläuterungen hinzufügen.</p>
-
-## <h2 id="aufsichtsbehoerde" class="adsimple-312685464">Aufsichtsbehörde
-
-<p>
-<strong class="adsimple-312685464">Begriffsbestimmung nach Artikel 4 der DSGVO</strong>
-</p>
-<p>Im Sinne dieser Verordnung bezeichnet der Ausdruck:</p>
-<blockquote>
-<p>
-<em>
-<strong class="adsimple-312685464">„Aufsichtsbehörde“</strong> eine von einem Mitgliedstaat gemäß Artikel 51 eingerichtete unabhängige staatliche Stelle;</em>
-</p>
-</blockquote>
-<p>
-<strong class="adsimple-312685464">Erläuterung:</strong> &#8220;Aufsichtsbehörden&#8221; sind immer staatliche, unabhängige Einrichtungen, die auch in bestimmten Fällen weisungsbefugt sind. Sie dienen der Durchführung der sogenannten Staatsaufsicht und sind in Ministerien, speziellen Abteilungen oder anderen Behörden angesiedelt. Für den Datenschutz in Österreich gibt es eine österreichische <a class="adsimple-312685464" href="https://www.dsb.gv.at/">Datenschutzbehörde</a>, für Deutschland gibt es für jedes Bundesland eine eigene Datenschutzbehörde.</p>
-
-## <h2 id="auftragsverarbeiter" class="adsimple-312685464">Auftragsverarbeiter
-
-<p>
-<strong class="adsimple-312685464">Begriffsbestimmung nach Artikel 4 der DSGVO</strong>
-</p>
-<p>Im Sinne dieser Verordnung bezeichnet der Ausdruck:</p>
-<blockquote>
-<p>
-<em>
-<strong class="adsimple-312685464">„Auftragsverarbeiter“</strong> eine natürliche oder juristische Person, Behörde, Einrichtung oder andere Stelle, die personenbezogene Daten im Auftrag des Verantwortlichen verarbeitet;</em>
-</p>
-</blockquote>
-<p>
-<strong class="adsimple-312685464">Erläuterung:</strong> Wir sind als Unternehmen und Websiteinhaber für alle Daten, die wir von Ihnen verarbeiten verantwortlich. Neben den Verantwortlichen kann es auch sogenannte Auftragsverarbeiter geben. Dazu zählt jedes Unternehmen bzw. jede Person, die in unserem Auftrag personenbezogene Daten verarbeitet. Auftragsverarbeiter können folglich, neben Dienstleistern wie Steuerberater, etwa auch Hosting- oder Cloudanbieter, Bezahlungs- oder Newsletter-Anbieter oder große Unternehmen wie beispielsweise Google oder Microsoft sein.</p>
-
-## <h2 id="betroffene-aufsichtsbehoerde" class="adsimple-312685464">Betroffene Aufsichtsbehörde
-
-<p>
-<strong class="adsimple-312685464">Begriffsbestimmung nach Artikel 4 der DSGVO</strong>
-</p>
-<p>Im Sinne dieser Verordnung bezeichnet der Ausdruck:</p>
-<blockquote>
-<p>
-<em>
-<strong class="adsimple-312685464">„betroffene Aufsichtsbehörde“</strong> eine Aufsichtsbehörde, die von der Verarbeitung personenbezogener Daten betroffen ist, weil</em>
-</p>
-<p>
-<em>a)</em>
-</p>
-<p>
-<em>der Verantwortliche oder der Auftragsverarbeiter im Hoheitsgebiet des Mitgliedstaats dieser Aufsichtsbehörde niedergelassen ist,</em>
-</p>
-<p>
-<em>b)</em>
-</p>
-<p>
-<em>diese Verarbeitung erhebliche Auswirkungen auf betroffene Personen mit Wohnsitz im Mitgliedstaat dieser Aufsichtsbehörde hat oder haben kann oder</em>
-</p>
-<p>
-<em>c)</em>
-</p>
-<p>
-<em>eine Beschwerde bei dieser Aufsichtsbehörde eingereicht wurde;</em>
-</p>
-</blockquote>
-<p>
-<strong class="adsimple-312685464">Erläuterung:</strong> In Deutschland hat jedes Bundesland eine eigene Aufsichtsbehörde für Datenschutz. Wenn Ihr Firmensitz (Hauptniederlassung) also in Deutschland ist, ist grundsätzlich die jeweilige Aufsichtsbehörde des Bundeslandes Ihr Ansprechpartner. In Österreich gibt es für das ganze Land nur eine <a class="adsimple-312685464" href="https://www.dsb.gv.at/">Aufsichtsbehörde für Datenschutz</a>.</p>
-<p>&nbsp;</p>
-
-## <h2 id="biometrische-daten" class="adsimple-312685464">Biometrische Daten
-
-<p>
-<strong class="adsimple-312685464">Begriffsbestimmung nach Artikel 4 der DSGVO</strong>
-</p>
-<p>Im Sinne dieser Verordnung bezeichnet der Ausdruck:</p>
-<blockquote>
-<p>
-<em>
-<strong class="adsimple-312685464">„biometrische Daten“</strong> mit speziellen technischen Verfahren gewonnene personenbezogene Daten zu den physischen, physiologischen oder verhaltenstypischen Merkmalen einer natürlichen Person, die die eindeutige Identifizierung dieser natürlichen Person ermöglichen oder bestätigen, wie Gesichtsbilder oder daktyloskopische Daten;</em>
-</p>
-</blockquote>
-<p>
-<strong class="adsimple-312685464">Erläuterung:</strong> Es sind biologische Eigenschaften, die von biometrischen Daten beschrieben werden und aus denen mit Hilfe technischer Verfahren personenbezogene Daten gewonnen werden können. Dazu zählen etwa DNA, Fingerabdrücke, die Geometrie verschiedener Körperteile, Körpergröße, aber auch Handschriften oder der Klang einer Stimme.</p>
-
-## <h2 id="dateisystem" class="adsimple-312685464">Dateisystem
-
-<p>
-<strong class="adsimple-312685464">Begriffsbestimmung nach Artikel 4 der DSGVO</strong>
-</p>
-<p>Im Sinne dieser Verordnung bezeichnet der Ausdruck:</p>
-<blockquote>
-<p>
-<em>
-<strong class="adsimple-312685464">„Dateisystem“</strong> jede strukturierte Sammlung personenbezogener Daten, die nach bestimmten Kriterien zugänglich sind, unabhängig davon, ob diese Sammlung zentral, dezentral oder nach funktionalen oder geografischen Gesichtspunkten geordnet geführt wird;</em>
-</p>
-</blockquote>
-<p>
-<strong class="adsimple-312685464">Erläuterung:</strong> Jede organisierte Ablage von Daten auf einem Datenträger eines Computers wird als &#8220;Dateisystem&#8221; bezeichnet. Wenn wir etwa für unseren Newsletter Ihren Namen und Ihre E-Mail-Adresse auf einem Server speichern, dann befinden sich diese Daten in einem sogenannten &#8220;Dateisystem&#8221;. Zu den wichtigsten Aufgaben eines &#8220;Dateisystems&#8221; zählen das schnelle Suchen und Finden von spezifischen Daten und natürlich die sichere Speicherung der Daten.</p>
-
-## <h2 id="dienst-der-informationsgesellschaft" class="adsimple-312685464">Dienst der Informationsgesellschaft
-
-<p>
-<strong class="adsimple-312685464">Begriffsbestimmung nach Artikel 4 der DSGVO</strong>
-</p>
-<p>Im Sinne dieser Verordnung bezeichnet der Ausdruck:</p>
-<blockquote>
-<p>
-<em>
-<strong class="adsimple-312685464">„Dienst der Informationsgesellschaft“</strong> eine Dienstleistung im Sinne des Artikels 1 Nummer 1 Buchstabe b der Richtlinie (EU) 2015/1535 des Europäischen Parlaments und des Rates (19);</em>
-</p>
-</blockquote>
-<p>
-<strong class="adsimple-312685464">Erläuterung:</strong> Grundsätzlich bezeichnet der Begriff &#8220;Informationsgesellschaft&#8221; eine Gesellschaft, die sich auf Informations- und Kommunikationstechnologien stützt. Speziell als Websitebesucher sind Sie mit den verschiedensten Arten von Online-Diensten vertraut und die meisten Online-Dienste zählen zu &#8220;Diensten der Informationsgesellschaft&#8221;. Ein klassisches Beispiel dafür ist eine Online-Transaktionen, wie etwa der Kauf von Waren über das Internet.</p>
-
-## <h2 id="dritter" class="adsimple-312685464">Dritter
-
-<p>
-<strong class="adsimple-312685464">Begriffsbestimmung nach Artikel 4 der DSGVO</strong>
-</p>
-<p>Im Sinne dieser Verordnung bezeichnet der Ausdruck:</p>
-<blockquote>
-<p>
-<em>
-<strong class="adsimple-312685464">„Dritter“</strong> eine natürliche oder juristische Person, Behörde, Einrichtung oder andere Stelle, außer der betroffenen Person, dem Verantwortlichen, dem Auftragsverarbeiter und den Personen, die unter der unmittelbaren Verantwortung des Verantwortlichen oder des Auftragsverarbeiters befugt sind, die personenbezogenen Daten zu verarbeiten;</em>
-</p>
-</blockquote>
-<p>
-<strong class="adsimple-312685464">Erläuterung: </strong>Die DSGVO erklärt hier im Grunde nur was ein „Dritter&#8221; nicht ist. In der Praxis ist jeder „Dritter&#8221;, der auch Interesse an den personenbezogenen Daten hat, aber nicht zu den oben genannten Personen, Behörden oder Einrichtungen gehört. Zum Beispiel kann ein Mutterkonzern als „Dritter&#8221; auftreten. In diesem Fall ist der Tochterkonzern Verantwortlicher und der Mutterkonzern „Dritter&#8221;. Das bedeutet aber nicht, dass der Mutterkonzern automatisch die personenbezogenen Daten des Tochterkonzerns einsehen, erheben oder speichern darf.</p>
-
-## <h2 id="einschraenkung-der-verarbeitung" class="adsimple-312685464">Einschränkung der Verarbeitung
-
-<p>
-<strong class="adsimple-312685464">Begriffsbestimmung nach Artikel 4 der DSGVO</strong>
-</p>
-<p>Im Sinne dieser Verordnung bezeichnet der Ausdruck:</p>
-<blockquote>
-<p>
-<strong class="adsimple-312685464">
-<em>„Einschränkung der Verarbeitung“</em>
-</strong>
-<em> die Markierung gespeicherter personenbezogener Daten mit dem Ziel, ihre künftige Verarbeitung einzuschränken;</em>
-</p>
-</blockquote>
-<p>
-<strong class="adsimple-312685464">Erläuterung:</strong> Es gehört zu Ihren Rechten, dass Sie von Verarbeitern jederzeit verlangen können, Ihre personenbezogenen Daten für weitere Verarbeitungsvorgänge einzuschränken. Dafür werden spezielle personenbezogenen Daten wie etwa Ihre Name, Ihre Geburtsdatum oder Ihre Adresse so markiert, dass eine vollständige weitere Verarbeitung nicht mehr möglich ist. Zum Beispiel könnten Sie die Verarbeitung dahingehend einschränken, dass Ihre Daten nicht mehr für personalisierte Werbung verwendet werden darf.</p>
-
-## <h2 id="einwilligung" class="adsimple-312685464">Einwilligung
-
-<p>
-<strong class="adsimple-312685464">Begriffsbestimmung nach Artikel 4 der DSGVO</strong>
-</p>
-<p>Im Sinne dieser Verordnung bezeichnet der Ausdruck:</p>
-<blockquote>
-<p>
-<em>
-<strong class="adsimple-312685464">„Einwilligung“</strong> der betroffenen Person jede freiwillig für den bestimmten Fall, in informierter Weise und unmissverständlich abgegebene Willensbekundung in Form einer Erklärung oder einer sonstigen eindeutigen bestätigenden Handlung, mit der die betroffene Person zu verstehen gibt, dass sie mit der Verarbeitung der sie betreffenden personenbezogenen Daten einverstanden ist;</em>
-</p>
-</blockquote>
-<p>
-<strong class="adsimple-312685464">Erläuterung: </strong>In der Regel erfolgt bei Websites eine solche Einwilligung über ein Cookie-Consent-Tool. Sie kennen das bestimmt. Immer wenn Sie erstmals eine Website besuchen, werden Sie meist über einen Banner gefragt, ob Sie der Datenverarbeitung zustimmen bzw. einwilligen. Meist können Sie auch individuelle Einstellungen treffen und so selbst entscheiden, welche Datenverarbeitung Sie erlauben und welche nicht. Wenn Sie nicht einwilligen, dürfen auch keine personenbezogene Daten von Ihnen verarbeitet werden. Grundsätzlich kann eine Einwilligung natürlich auch schriftlich, also nicht über ein Tool, erfolgen.</p>
-
-## <h2 id="empfaenger" class="adsimple-312685464">Empfänger
-
-<p>
-<strong class="adsimple-312685464">Begriffsbestimmung nach Artikel 4 der DSGVO</strong>
-</p>
-<p>Im Sinne dieser Verordnung bezeichnet der Ausdruck:</p>
-<blockquote>
-<p>
-<em>
-<strong class="adsimple-312685464">„Empfänger“</strong> eine natürliche oder juristische Person, Behörde, Einrichtung oder andere Stelle, der personenbezogene Daten offengelegt werden, unabhängig davon, ob es sich bei ihr um einen Dritten handelt oder nicht. Behörden, die im Rahmen eines bestimmten Untersuchungsauftrags nach dem Unionsrecht oder dem Recht der Mitgliedstaaten möglicherweise personenbezogene Daten erhalten, gelten jedoch nicht als Empfänger; die Verarbeitung dieser Daten durch die genannten Behörden erfolgt im Einklang mit den geltenden Datenschutzvorschriften gemäß den Zwecken der Verarbeitung;</em>
-</p>
-</blockquote>
-<p>
-<strong class="adsimple-312685464">Erläuterung:</strong> Jeder Person und jede Firma, die personenbezogene Daten erhält gilt als Empfänger. Somit sind auch wir und unsere Auftragsverarbeiter sogenannte Empfänger. Nur Behörden, die einen Untersuchungsauftrag haben, gelten nicht als Empfänger.</p>
-
-## <h2 id="genetische-daten" class="adsimple-312685464">Genetische Daten
-
-<p>
-<strong class="adsimple-312685464">Begriffsbestimmung nach Artikel 4 der DSGVO</strong>
-</p>
-<p>Im Sinne dieser Verordnung bezeichnet der Ausdruck:</p>
-<blockquote>
-<p>
-<em>
-<strong class="adsimple-312685464">„genetische Daten“</strong> personenbezogene Daten zu den ererbten oder erworbenen genetischen Eigenschaften einer natürlichen Person, die eindeutige Informationen über die Physiologie oder die Gesundheit dieser natürlichen Person liefern und insbesondere aus der Analyse einer biologischen Probe der betreffenden natürlichen Person gewonnen wurden;</em>
-</p>
-</blockquote>
-<p>
-<strong class="adsimple-312685464">Erläuterung:</strong> Mit gewissem Aufwand kann man Personen über genetische Daten identifizieren. Darum zählen genetische Daten auch in die Kategorie der personenbezogenen Daten. Genetische Daten werden beispielsweise über Blut- oder Speichelproben gewonnen.</p>
-
-## <h2 id="gesundheitsdaten" class="adsimple-312685464">Gesundheitsdaten
-
-<p>
-<strong class="adsimple-312685464">Begriffsbestimmung nach Artikel 4 der DSGVO</strong>
-</p>
-<p>Im Sinne dieser Verordnung bezeichnet der Ausdruck:</p>
-<blockquote>
-<p>
-<em>
-<strong class="adsimple-312685464">„Gesundheitsdaten“</strong> personenbezogene Daten, die sich auf die körperliche oder geistige Gesundheit einer natürlichen Person, einschließlich der Erbringung von Gesundheitsdienstleistungen, beziehen und aus denen Informationen über deren Gesundheitszustand hervorgehen;</em>
-</p>
-</blockquote>
-<p>
-<strong class="adsimple-312685464">Erläuterung:</strong> Unter Gesundheitsdaten fallen also alle gespeicherten Informationen, die Ihre eigene Gesundheit betreffen. Oft sind es Daten, die auch in einer Patientenakte vermerkt sind. Dazu zählen beispielsweise welche Medikamente Sie nutzen, Röntgenbilder, die gesamte Krankengeschichte oder in der Regel auch der Impfstatus.</p>
-
-## <h2 id="grenzueberschreitende-verarbeitung" class="adsimple-312685464">Grenzüberschreitende Verarbeitung
-
-<p>
-<strong class="adsimple-312685464">Begriffsbestimmung nach Artikel 4 der DSGVO</strong>
-</p>
-<p>Im Sinne dieser Verordnung bezeichnet der Ausdruck:</p>
-<blockquote>
-<p>
-<em>
-<strong class="adsimple-312685464">„grenzüberschreitende Verarbeitung“</strong> entweder</em>
-</p>
-<p>
-<em>a)</em>
-</p>
-<p>
-<em>eine Verarbeitung personenbezogener Daten, die im Rahmen der Tätigkeiten von Niederlassungen eines Verantwortlichen oder eines Auftragsverarbeiters in der Union in mehr als einem Mitgliedstaat erfolgt, wenn der Verantwortliche oder Auftragsverarbeiter in mehr als einem Mitgliedstaat niedergelassen ist, oder</em>
-</p>
-<p>
-<em>b)</em>
-</p>
-<p>
-<em>eine Verarbeitung personenbezogener Daten, die im Rahmen der Tätigkeiten einer einzelnen Niederlassung eines Verantwortlichen oder eines Auftragsverarbeiters in der Union erfolgt, die jedoch erhebliche Auswirkungen auf betroffene Personen in mehr als einem Mitgliedstaat hat oder haben kann;</em>
-</p>
-</blockquote>
-<p>
-<strong class="adsimple-312685464">Erläuterung: </strong>Wenn zum Beispiel ein Unternehmen oder eine andere Organisation Niederlassungen in Spanien und in Kroatien hat und personenbezogene Daten im Zusammenhang mit den Tätigkeiten der Niederlassungen verarbeitet werden, handelt es sich dabei um eine „grenzüberschreitende Verarbeitung“ personenbezogener Daten. Auch wenn die Daten nur in einem Land (wie in diesem Beispiel in Spanien) verarbeitet werden, die Auswirkungen für die betroffene Person aber auch in einem anderen Land erkennbar sind, spricht man ebenfalls von „grenzüberschreitender Verarbeitung“.</p>
-
-## <h2 id="hauptniederlassung" class="adsimple-312685464">Hauptniederlassung
-
-<p>
-<strong class="adsimple-312685464">Begriffsbestimmung nach Artikel 4 der DSGVO</strong>
-</p>
-<p>Im Sinne dieser Verordnung bezeichnet der Ausdruck:</p>
-<blockquote>
-<p>
-<em>
-<strong class="adsimple-312685464">„Hauptniederlassung“</strong>
-</em>
-</p>
-<p>
-<em>a)</em>
-</p>
-<p>
-<em>im Falle eines Verantwortlichen mit Niederlassungen in mehr als einem Mitgliedstaat den Ort seiner Hauptverwaltung in der Union, es sei denn, die Entscheidungen hinsichtlich der Zwecke und Mittel der Verarbeitung personenbezogener Daten werden in einer anderen Niederlassung des Verantwortlichen in der Union getroffen und diese Niederlassung ist befugt, diese Entscheidungen umsetzen zu lassen; in diesem Fall gilt die Niederlassung, die derartige Entscheidungen trifft, als Hauptniederlassung;</em>
-</p>
-<p>
-<em>b)</em>
-</p>
-<p>
-<em>im Falle eines Auftragsverarbeiters mit Niederlassungen in mehr als einem Mitgliedstaat den Ort seiner Hauptverwaltung in der Union oder, sofern der Auftragsverarbeiter keine Hauptverwaltung in der Union hat, die Niederlassung des Auftragsverarbeiters in der Union, in der die Verarbeitungstätigkeiten im Rahmen der Tätigkeiten einer Niederlassung eines Auftragsverarbeiters hauptsächlich stattfinden, soweit der Auftragsverarbeiter spezifischen Pflichten aus dieser Verordnung unterliegt;</em>
-</p>
-</blockquote>
-<p>
-<strong class="adsimple-312685464">Erläuterung:</strong> Das Unternehmen Google beispielsweise ist zwar ein amerikanisches Unternehmen, das auch Daten in den USA verarbeitet, aber die europäische Hauptniederlassung befindet sich in Irland (Google Ireland Limited, Gordon House, Barrow Street Dublin 4, Irland). Somit ist Google Ireland Limited rechtlich betrachtet eine eigenständiges Unternehmen und für alle Google-Produkte, die im Europäischen Wirtschaftsraum angeboten werden, verantwortlich. Im Gegensatz zu einer Hauptniederlassung gibt es auch Zweigniederlassungen, diese fungieren allerdings nicht als rechtlich eigenständige Niederlassungen und sind daher auch von Tochtergesellschaften zu unterscheiden. Eine Hauptniederlassung ist also grundsätzlich stets jener Ort, an dem ein Unternehmen (Handelsgesellschaft) ihren Betriebsmittelpunkt hat.</p>
-
-## <h2 id="internationale-organisation" class="adsimple-312685464">Internationale Organisation
-
-<p>
-<strong class="adsimple-312685464">Begriffsbestimmung nach Artikel 4 der DSGVO</strong>
-</p>
-<p>Im Sinne dieser Verordnung bezeichnet der Ausdruck:</p>
-<blockquote>
-<p>
-<em>
-<strong class="adsimple-312685464">„internationale Organisation</strong>“ eine völkerrechtliche Organisation und ihre nachgeordneten Stellen oder jede sonstige Einrichtung, die durch eine zwischen zwei oder mehr Ländern geschlossene Übereinkunft oder auf der Grundlage einer solchen Übereinkunft geschaffen wurde.</em>
-</p>
-</blockquote>
-<p>
-<strong class="adsimple-312685464">Erläuterung:</strong> Die bekanntesten Beispiele für internationale Organisationen sind wohl die Europäische Union oder die Vereinten Nationen. In der DSGVO wird in Zusammenhang mit dem Datentransfer zwischen Drittländern und internationalen Organisationen unterschieden. Innerhalb der EU stellt der Datenverkehr von personenbezogenen Daten kein Problem dar, weil alle EU-Länder an die Vorgaben der DSGVO gebunden sind. Hingegen unterliegt der Datentransfer mit Drittländern oder internationalen Organisationen bestimmten Voraussetzungen.</p>
-
-## <h2 id="massgeblicher-und-begruendeter-einspruch" class="adsimple-312685464">Maßgeblicher und begründeter Einspruch
-
-<p>
-<strong class="adsimple-312685464">Begriffsbestimmung nach Artikel 4 der DSGVO</strong>
-</p>
-<p>Im Sinne dieser Verordnung bezeichnet der Ausdruck:</p>
-<blockquote>
-<p>
-<em>
-<strong class="adsimple-312685464">„maßgeblicher und begründeter Einspruch“</strong> einen Einspruch gegen einen Beschlussentwurf im Hinblick darauf, ob ein Verstoß gegen diese Verordnung vorliegt oder ob beabsichtigte Maßnahmen gegen den Verantwortlichen oder den Auftragsverarbeiter im Einklang mit dieser Verordnung steht, wobei aus diesem Einspruch die Tragweite der Risiken klar hervorgeht, die von dem Beschlussentwurf in Bezug auf die Grundrechte und Grundfreiheiten der betroffenen Personen und gegebenenfalls den freien Verkehr personenbezogener Daten in der Union ausgehen;</em>
-</p>
-</blockquote>
-<p>
-<strong class="adsimple-312685464">Erläuterung:</strong> Wenn gewisse Maßnahmen, die wir als Verantwortliche oder unsere Auftragsverarbeiter treffen, nicht im Einklang mit der DSGVO stehen, können Sie einen sogenannten „maßgeblichen und begründeten Einspruch“ erheben. Dabei müssen Sie die Tragweite der Risiken, in Bezug auf Ihre Grund- und Freiheitsrechte und eventuell des freien Verkehrs Ihrer personenbezogenen Daten in der EU, erläutern.</p>
-
-## <h2 id="personenbezogene-daten" class="adsimple-312685464">Personenbezogene Daten
-
-<p>
-<strong class="adsimple-312685464">Begriffsbestimmung nach Artikel 4 der DSGVO</strong>
-</p>
-<p>Im Sinne dieser Verordnung bezeichnet der Ausdruck:</p>
-<blockquote>
-<p>
-<strong class="adsimple-312685464">
-<em>„personenbezogene Daten“</em>
-</strong>
-<em> alle Informationen, die sich auf eine identifizierte oder identifizierbare natürliche Person (im Folgenden „betroffene Person“) beziehen; als identifizierbar wird eine natürliche Person angesehen, die direkt oder indirekt, insbesondere mittels Zuordnung zu einer Kennung wie einem Namen, zu einer Kennnummer, zu Standortdaten, zu einer Online-Kennung oder zu einem oder mehreren besonderen Merkmalen, die Ausdruck der physischen, physiologischen, genetischen, psychischen, wirtschaftlichen, kulturellen oder sozialen Identität dieser natürlichen Person sind, identifiziert werden kann;</em>
-</p>
-</blockquote>
-<p>
-<strong class="adsimple-312685464">Erläuterung:</strong> Personenbezogene Daten sind also all jene Daten, die Sie als Person identifizieren können. Das sind in der Regel Daten wie etwa:</p>
-<ul class="adsimple-312685464">
-<li class="adsimple-312685464">Name</li>
-<li class="adsimple-312685464">Adresse</li>
-<li class="adsimple-312685464">E-Mail-Adresse</li>
-<li class="adsimple-312685464">Post-Anschrift</li>
-<li class="adsimple-312685464">Telefonnummer</li>
-<li class="adsimple-312685464">Geburtsdatum</li>
-<li class="adsimple-312685464">Kennnummern wie Sozialversicherungsnummer, Steueridentifikationsnummer, Personalausweisnummer oder Matrikelnummer</li>
-<li class="adsimple-312685464">Bankdaten wie Kontonummer, Kreditinformationen, Kontostände uvm.</li>
-</ul>
-<p>Laut Europäischem Gerichtshof (EuGH) zählt auch Ihre <strong class="adsimple-312685464">IP-Adresse zu den personenbezogenen Daten</strong>. IT-Experten können anhand Ihrer IP-Adresse zumindest den ungefähren Standort Ihres Geräts und in weiterer Folge Sie als Anschlussinhabers feststellen. Daher benötigt auch das Speichern einer IP-Adresse eine Rechtsgrundlage im Sinne der DSGVO. Es gibt auch noch sogenannte <strong class="adsimple-312685464">„besondere Kategorien“</strong> der personenbezogenen Daten, die auch besonders schützenswert sind. Dazu zählen:</p>
-<ul class="adsimple-312685464">
-<li class="adsimple-312685464">rassische und ethnische Herkunft</li>
-<li class="adsimple-312685464">politische Meinungen</li>
-<li class="adsimple-312685464">religiöse bzw. weltanschauliche Überzeugungen</li>
-<li class="adsimple-312685464">die Gewerkschaftszugehörigkeit</li>
-<li class="adsimple-312685464">genetische Daten wie beispielsweise Daten, die aus Blut- oder Speichelproben entnommen werden</li>
-<li class="adsimple-312685464">biometrische Daten (das sind Informationen zu psychischen, körperlichen oder verhaltenstypischen Merkmalen, die eine Person identifizieren können).<br />
-Gesundheitsdaten</li>
-<li class="adsimple-312685464">Daten zur sexuellen Orientierung oder zum Sexualleben</li>
-</ul>
-
-## <h2 id="profiling" class="adsimple-312685464">Profiling
-
-<p>
-<strong class="adsimple-312685464">Begriffsbestimmung nach Artikel 4 der DSGVO</strong>
-</p>
-<p>Im Sinne dieser Verordnung bezeichnet der Ausdruck:</p>
-<blockquote>
-<p>
-<em>
-<strong class="adsimple-312685464">„Profiling“</strong> jede Art der automatisierten Verarbeitung personenbezogener Daten, die darin besteht, dass diese personenbezogenen Daten verwendet werden, um bestimmte persönliche Aspekte, die sich auf eine natürliche Person beziehen, zu bewerten, insbesondere um Aspekte bezüglich Arbeitsleistung, wirtschaftliche Lage, Gesundheit, persönliche Vorlieben, Interessen, Zuverlässigkeit, Verhalten, Aufenthaltsort oder Ortswechsel dieser natürlichen Person zu analysieren oder vorherzusagen;</em>
-</p>
-</blockquote>
-<p>
-<strong class="adsimple-312685464">Erläuterung:</strong> Beim Profiling werden verschiedene Informationen über eine Person zusammengetragen, um daraus mehr über diese Person zu erfahren. Im Webbereich wird Profiling häufig für Werbezwecke oder auch für Bonitätsprüfungen angewandt. Web- bzw. Werbeanalyseprogramme sammeln zum Beispiel Daten über Ihre Verhalten und Ihre Interessen auf einer Website. Daraus ergibt sich ein spezielles Userprofil, mit dessen Hilfe Werbung gezielt an eine Zielgruppe ausgespielt werden kann.</p>
-<p>&nbsp;</p>
-
-## <h2 id="pseudonymisierung" class="adsimple-312685464">Pseudonymisierung
-
-<p>
-<strong class="adsimple-312685464">Begriffsbestimmung nach Artikel 4 der DSGVO</strong>
-</p>
-<p>Im Sinne dieser Verordnung bezeichnet der Ausdruck:</p>
-<blockquote>
-<p>
-<em>
-<strong class="adsimple-312685464">„Pseudonymisierung“</strong> die Verarbeitung personenbezogener Daten in einer Weise, dass die personenbezogenen Daten ohne Hinzuziehung zusätzlicher Informationen nicht mehr einer spezifischen betroffenen Person zugeordnet werden können, sofern diese zusätzlichen Informationen gesondert aufbewahrt werden und technischen und organisatorischen Maßnahmen unterliegen, die gewährleisten, dass die personenbezogenen Daten nicht einer identifizierten oder identifizierbaren natürlichen Person zugewiesen werden;</em>
-</p>
-</blockquote>
-<p>
-<strong class="adsimple-312685464">Erläuterung:</strong> In unserer Datenschutzerklärung ist des Öfteren von pseudonymisierten Daten die Rede. Durch pseudonymisierte Daten können Sie als Person nicht mehr identifiziert werden, außer andere Informationen werden noch hinzugefügt. Eine Pseudonymisierung sollten Sie allerdings nicht mit einer Anonymisierung verwechseln. Bei der Anonymisierung fällt jeglicher Personenbezug weg, sodass dieser wirklich nur noch durch einen unverhältnismäßig großen technischen Aufwand rekonstruiert werden kann.</p>
-<p>&nbsp;</p>
-
-## <h2 id="unternehmen" class="adsimple-312685464">Unternehmen
-
-<p>
-<strong class="adsimple-312685464">Begriffsbestimmung nach Artikel 4 der DSGVO</strong>
-</p>
-<p>Im Sinne dieser Verordnung bezeichnet der Ausdruck:</p>
-<blockquote>
-<p>
-<em>
-<strong class="adsimple-312685464">„Unternehmen“</strong> eine natürliche und juristische Person, die eine wirtschaftliche Tätigkeit ausübt, unabhängig von ihrer Rechtsform, einschließlich Personengesellschaften oder Vereinigungen, die regelmäßig einer wirtschaftlichen Tätigkeit nachgehen;</em>
-</p>
-</blockquote>
-<p>
-<strong class="adsimple-312685464">Erläuterung:</strong> Wir sind beispielsweise ein Unternehmen und üben auch über unsere Website eine wirtschaftliche Tätigkeit aus, indem wir Dienstleistungen und/oder Produkte anbieten und verkaufen. Für jedes Unternehmen gibt es als formales Merkmal die Rechtsträgerschaft wie zum Beispiel die GmbH oder die AG.</p>
-
-## <h2 id="unternehmensgruppe" class="adsimple-312685464">Unternehmensgruppe
-
-<p>
-<strong class="adsimple-312685464">Begriffsbestimmung nach Artikel 4 der DSGVO</strong>
-</p>
-<p>Im Sinne dieser Verordnung bezeichnet der Ausdruck:</p>
-<blockquote>
-<p>
-<em>
-<strong class="adsimple-312685464">„Unternehmensgruppe“</strong> eine Gruppe, die aus einem herrschenden Unternehmen und den von diesem abhängigen Unternehmen besteht;</em>
-</p>
-</blockquote>
-<p>
-<strong class="adsimple-312685464">Erläuterung:</strong> Man spricht also von einer &#8220;Unternehmensgruppe&#8221;, wenn sich mehrere Unternehmen vereinigen, in rechtlicher und finanzieller Verbindung miteinander stehen, aber es dennoch ein zentrales, darüberstehendes Unternehmen gibt. Beispielsweise sind Instagram, WhatsApp, Oculus VR oder Facebook zwar größtenteils eigenständige Unternehmen, unterliegen aber alle der Muttergesellschaft Meta Platforms, Inc.</p>
-
-## <h2 id="verantwortlicher" class="adsimple-312685464">Verantwortlicher
-
-<p>
-<strong class="adsimple-312685464">Begriffsbestimmung nach Artikel 4 der DSGVO</strong>
-</p>
-<p>Im Sinne dieser Verordnung bezeichnet der Ausdruck:</p>
-<blockquote>
-<p>
-<em>
-<strong class="adsimple-312685464">„Verantwortlicher“</strong> die natürliche oder juristische Person, Behörde, Einrichtung oder andere Stelle, die allein oder gemeinsam mit anderen über die Zwecke und Mittel der Verarbeitung von personenbezogenen Daten entscheidet; sind die Zwecke und Mittel dieser Verarbeitung durch das Unionsrecht oder das Recht der Mitgliedstaaten vorgegeben, so kann der Verantwortliche beziehungsweise können die bestimmten Kriterien seiner Benennung nach dem Unionsrecht oder dem Recht der Mitgliedstaaten vorgesehen werden;</em>
-</p>
-</blockquote>
-<p>
-<strong class="adsimple-312685464">Erläuterung:</strong> In unserem Fall sind wir für die Verarbeitung Ihrer personenbezogenen Daten verantwortlich und folglich der &#8220;Verantwortliche&#8221;. Wenn wir erhobene Daten zur Verarbeitung an andere Dienstleister weitergeben, sind diese &#8220;Auftragsverarbeiter&#8221;. Dafür muss ein &#8220;Auftragsverarbeitungsvertrag (AVV)&#8221; unterzeichnet werden.</p>
-<p>&nbsp;</p>
-
-## <h2 id="verarbeitung" class="adsimple-312685464">Verarbeitung
-
-<p>
-<strong class="adsimple-312685464">Begriffsbestimmung nach Artikel 4 der DSGVO</strong>
-</p>
-<p>Im Sinne dieser Verordnung bezeichnet der Ausdruck:</p>
-<blockquote>
-<p>
-<strong class="adsimple-312685464">
-<em>„Verarbeitung“</em>
-</strong>
-<em> jeden mit oder ohne Hilfe automatisierter Verfahren ausgeführten Vorgang oder jede solche Vorgangsreihe im Zusammenhang mit personenbezogenen Daten wie das Erheben, das Erfassen, die Organisation, das Ordnen, die Speicherung, die Anpassung oder Veränderung, das Auslesen, das Abfragen, die Verwendung, die Offenlegung durch Übermittlung, Verbreitung oder eine andere Form der Bereitstellung, den Abgleich oder die Verknüpfung, die Einschränkung, das Löschen oder die Vernichtung;</em>
-</p>
-</blockquote>
-<p>
-<strong class="adsimple-312685464">Anmerkung: </strong>Wenn wir in unserer Datenschutzerklärung von Verarbeitung sprechen, meinen wir damit jegliche Art von Datenverarbeitung. Dazu zählt, wie oben in der originalen DSGVO-Erklärung erwähnt, nicht nur das Erheben sondern auch das Speichern und Verarbeiten von Daten.</p>
-
-## <h2 id="verbindliche-interne-datenschutzvorschriften" class="adsimple-312685464">Verbindliche interne Datenschutzvorschriften
-
-<p>
-<strong class="adsimple-312685464">Begriffsbestimmung nach Artikel 4 der DSGVO</strong>
-</p>
-<p>Im Sinne dieser Verordnung bezeichnet der Ausdruck:</p>
-<blockquote>
-<p>
-<em>
-<strong class="adsimple-312685464">„verbindliche interne Datenschutzvorschriften“</strong> Maßnahmen zum Schutz personenbezogener Daten, zu deren Einhaltung sich ein im Hoheitsgebiet eines Mitgliedstaats niedergelassener Verantwortlicher oder Auftragsverarbeiter verpflichtet im Hinblick auf Datenübermittlungen oder eine Kategorie von Datenübermittlungen personenbezogener Daten an einen Verantwortlichen oder Auftragsverarbeiter derselben Unternehmensgruppe oder derselben Gruppe von Unternehmen, die eine gemeinsame Wirtschaftstätigkeit ausüben, in einem oder mehreren Drittländern;</em>
-</p>
-</blockquote>
-<p>
-<strong class="adsimple-312685464">Erläuterung:</strong> Vielleicht haben Sie schon öfters den Begriff &#8220;Binding Corporate Rules&#8221; gehört oder gelesen. Denn das ist der Begriff, der meistens in Erscheinung tritt, wenn es um verbindliche interne Datenschutzvorschriften geht. Besonders für Unternehmen (wie beispielsweise Google), die Daten in Drittländern verarbeiten, empfiehlt sich eine solche interne Vorschrift, durch die sich ein Unternehmen sozusagen selbst zur Einhaltung von Datenschutzregelungen verpflichtet. Diese Vorschrift regelt den Umgang mit personenbezogenen Daten, die in Drittländer transferiert und dort auch verarbeitet werden.</p>
-<h3 class="adsimple-312685464">
-</h3>
-
-## <h2 id="verletzung-des-schutzes-personenbezogener-daten" class="adsimple-312685464">Verletzung des Schutzes personenbezogener Daten
-
-<p>
-<strong class="adsimple-312685464">Begriffsbestimmung nach Artikel 4 der DSGVO</strong>
-</p>
-<p>Im Sinne dieser Verordnung bezeichnet der Ausdruck:</p>
-<blockquote>
-<p>
-<em>
-<strong class="adsimple-312685464">„Verletzung des Schutzes personenbezogener Daten“</strong> eine Verletzung der Sicherheit, die, ob unbeabsichtigt oder unrechtmäßig, zur Vernichtung, zum Verlust, zur Veränderung, oder zur unbefugten Offenlegung von beziehungsweise zum unbefugten Zugang zu personenbezogenen Daten führt, die übermittelt, gespeichert oder auf sonstige Weise verarbeitet wurden;</em>
-</p>
-</blockquote>
-<p>
-<strong class="adsimple-312685464">Erläuterung:</strong> Zum Beispiel kann eine „Verletzung des Schutzes personenbezogener Daten&#8221; bei einem Datenleck, also einem technischen Problem oder einem Cyberangriff, auftreten. Wenn die Verletzung zu einem Risiko für die Rechte und Freiheiten natürlicher Personen führt, muss der Verantwortliche den Vorfall sofort der zuständigen Aufsichtsbehörde melden. Zudem müssen auch die betroffenen Personen informiert werden, sofern die Verletzung ein hohes Risiko für die Rechte und Freiheiten natürlicher Personen darstellt.</p>
-
-## <h2 id="vertreter" class="adsimple-312685464">Vertreter
-
-<p>
-<strong class="adsimple-312685464">Begriffsbestimmung nach Artikel 4 der DSGVO</strong>
-</p>
-<p>Im Sinne dieser Verordnung bezeichnet der Ausdruck:</p>
-<blockquote>
-<p>
-<em>
-<strong class="adsimple-312685464">„Vertreter“</strong> eine in der Union niedergelassene natürliche oder juristische Person, die von dem Verantwortlichen oder Auftragsverarbeiter schriftlich gemäß Artikel 27 bestellt wurde und den Verantwortlichen oder Auftragsverarbeiter in Bezug auf die ihnen jeweils nach dieser Verordnung obliegenden Pflichten vertritt;</em>
-</p>
-</blockquote>
-<p>
-<strong class="adsimple-312685464">Erläuterung:</strong> Ein &#8220;Vertreter&#8221; kann also jeder Person sein, die schriftlich von uns (Verantwortlicher) oder einem unserer Dienstleister (Auftragsverarbeiter) bestellt wurde. Unternehmen außerhalb der EU, die Daten von EU-Bürgern verarbeiten, müssen einen Vertreter innerhalb der EU angeben. Wenn zum Beispiel ein Web-Analyse-Anbieter die Hauptniederlassung in den USA habt, muss dieser einen &#8220;Vertreter&#8221; innerhalb der Europäischen Union bestellen, der die Pflichten in Bezug auf die Datenverarbeitung vertritt.</p>
-
-## <h2 id="schlusswort" class="adsimple-312685464">Schlusswort
-
-<p>Herzlichen Glückwunsch! Wenn Sie diese Zeilen lesen, haben Sie sich wirklich durch unsere gesamte Datenschutzerklärung „gekämpft“ oder zumindest bis hier hin gescrollt. Wie Sie am Umfang unserer Datenschutzerklärung sehen, nehmen wir den Schutz Ihrer persönlichen Daten, alles andere als auf die leichte Schulter.<br />
-Uns ist es wichtig, Sie nach bestem Wissen und Gewissen über die Verarbeitung personenbezogener Daten zu informieren. Dabei wollen wir Ihnen aber nicht nur mitteilen, welche Daten verarbeitet werden, sondern auch die Beweggründe für die Verwendung diverser Softwareprogramme näherbringen. In der Regel klingen Datenschutzerklärung sehr technisch und juristisch. Da die meisten von Ihnen aber keine Webentwickler oder Juristen sind, wollten wir auch sprachlich einen anderen Weg gehen und den Sachverhalt in einfacher und klarer Sprache erklären. Immer ist dies natürlich aufgrund der Thematik nicht möglich. Daher werden die wichtigsten Begriffe am Ende der Datenschutzerklärung näher erläutert.<br />
-Bei Fragen zum Thema Datenschutz auf unserer Website zögern Sie bitte nicht, uns oder die verantwortliche Stelle zu kontaktieren. Wir wünschen Ihnen noch eine schöne Zeit und hoffen, Sie auf unserer Website bald wieder begrüßen zu dürfen.</p>
-<p>Alle Texte sind urheberrechtlich geschützt.</p>
-<p style="margin-top:15px">Quelle: Erstellt mit dem <a href="https://www.adsimple.de/datenschutz-generator/" title="Datenschutz Generator von AdSimple für Deutschland">Datenschutz Generator</a> von AdSimple</p>
+### Verantwortlicher {#m3}
+
+Florian Schuttkowski  
+Korntaler Straße 15/1  
+71636 Ludwigsburg  
+Deutschland
+
+E-Mail-Adresse: [mail@florianschuttkowski.com](mailto:mail@florianschuttkowski.com)
+
+Impressum: [https://florianschuttkowski.com/impressum/](https://florianschuttkowski.com/impressum/)
+
+### Übersicht der Verarbeitungen {#mOverview}
+
+Die nachfolgende Übersicht fasst die Arten der verarbeiteten Daten und die Zwecke ihrer Verarbeitung zusammen und verweist auf die betroffenen Personen.
+
+#### Arten der verarbeiteten Daten
+
+*   Bestandsdaten.
+*   Zahlungsdaten.
+*   Standortdaten.
+*   Kontaktdaten.
+*   Inhaltsdaten.
+*   Vertragsdaten.
+*   Nutzungsdaten.
+*   Meta-, Kommunikations- und Verfahrensdaten.
+*   Bild- und/ oder Videoaufnahmen.
+*   Tonaufnahmen.
+*   Protokolldaten.
+
+#### Kategorien betroffener Personen
+
+*   Leistungsempfänger und Auftraggeber.
+*   Beschäftigte.
+*   Interessenten.
+*   Kommunikationspartner.
+*   Nutzer.
+*   Geschäfts- und Vertragspartner.
+*   Teilnehmer.
+*   Abgebildete Personen.
+
+#### Zwecke der Verarbeitung
+
+*   Erbringung vertraglicher Leistungen und Erfüllung vertraglicher Pflichten.
+*   Kommunikation.
+*   Sicherheitsmaßnahmen.
+*   Direktmarketing.
+*   Reichweitenmessung.
+*   Tracking.
+*   Büro- und Organisationsverfahren.
+*   Konversionsmessung.
+*   Zielgruppenbildung.
+*   Feedback.
+*   Umfragen und Fragebögen.
+*   Marketing.
+*   Profile mit nutzerbezogenen Informationen.
+*   Bereitstellung unseres Onlineangebotes und Nutzerfreundlichkeit.
+*   Informationstechnische Infrastruktur.
+*   Öffentlichkeitsarbeit und Informationszwecke.
+*   Öffentlichkeitsarbeit.
+*   Geschäftsprozesse und betriebswirtschaftliche Verfahren.
+
+### Maßgebliche Rechtsgrundlagen {#m2427}
+
+**Maßgebliche Rechtsgrundlagen nach der DSGVO:** Im Folgenden erhalten Sie eine Übersicht der Rechtsgrundlagen der DSGVO, auf deren Basis wir personenbezogene Daten verarbeiten. Bitte nehmen Sie zur Kenntnis, dass neben den Regelungen der DSGVO nationale Datenschutzvorgaben in Ihrem bzw. unserem Wohn- oder Sitzland gelten können. Sollten ferner im Einzelfall speziellere Rechtsgrundlagen maßgeblich sein, teilen wir Ihnen diese in der Datenschutzerklärung mit.
+
+*   **Einwilligung (Art. 6 Abs. 1 S. 1 lit. a) DSGVO)** - Die betroffene Person hat ihre Einwilligung in die Verarbeitung der sie betreffenden personenbezogenen Daten für einen spezifischen Zweck oder mehrere bestimmte Zwecke gegeben.
+*   **Vertragserfüllung und vorvertragliche Anfragen (Art. 6 Abs. 1 S. 1 lit. b) DSGVO)** - Die Verarbeitung ist für die Erfüllung eines Vertrags, dessen Vertragspartei die betroffene Person ist, oder zur Durchführung vorvertraglicher Maßnahmen erforderlich, die auf Anfrage der betroffenen Person erfolgen.
+*   **Berechtigte Interessen (Art. 6 Abs. 1 S. 1 lit. f) DSGVO)** - die Verarbeitung ist zur Wahrung der berechtigten Interessen des Verantwortlichen oder eines Dritten notwendig, vorausgesetzt, dass die Interessen, Grundrechte und Grundfreiheiten der betroffenen Person, die den Schutz personenbezogener Daten verlangen, nicht überwiegen.
+
+**Nationale Datenschutzregelungen in Deutschland:** Zusätzlich zu den Datenschutzregelungen der DSGVO gelten nationale Regelungen zum Datenschutz in Deutschland. Hierzu gehört insbesondere das Gesetz zum Schutz vor Missbrauch personenbezogener Daten bei der Datenverarbeitung (Bundesdatenschutzgesetz – BDSG). Das BDSG enthält insbesondere Spezialregelungen zum Recht auf Auskunft, zum Recht auf Löschung, zum Widerspruchsrecht, zur Verarbeitung besonderer Kategorien personenbezogener Daten, zur Verarbeitung für andere Zwecke und zur Übermittlung sowie automatisierten Entscheidungsfindung im Einzelfall einschließlich Profiling. Ferner können Landesdatenschutzgesetze der einzelnen Bundesländer zur Anwendung gelangen.
+
+**Hinweis auf Geltung DSGVO und Schweizer DSG:** Diese Datenschutzhinweise dienen sowohl der Informationserteilung nach dem Schweizer DSG als auch nach der Datenschutzgrundverordnung (DSGVO). Aus diesem Grund bitten wir Sie zu beachten, dass aufgrund der breiteren räumlichen Anwendung und Verständlichkeit die Begriffe der DSGVO verwendet werden. Insbesondere statt der im Schweizer DSG verwendeten Begriffe „Bearbeitung" von „Personendaten", "überwiegendes Interesse" und "besonders schützenswerte Personendaten" werden die in der DSGVO verwendeten Begriffe „Verarbeitung" von „personenbezogenen Daten" sowie "berechtigtes Interesse" und "besondere Kategorien von Daten" verwendet. Die gesetzliche Bedeutung der Begriffe wird jedoch im Rahmen der Geltung des Schweizer DSG weiterhin nach dem Schweizer DSG bestimmt.
+
+### Sicherheitsmaßnahmen {#m27}
+
+Wir treffen nach Maßgabe der gesetzlichen Vorgaben unter Berücksichtigung des Stands der Technik, der Implementierungskosten und der Art, des Umfangs, der Umstände und der Zwecke der Verarbeitung sowie der unterschiedlichen Eintrittswahrscheinlichkeiten und des Ausmaßes der Bedrohung der Rechte und Freiheiten natürlicher Personen geeignete technische und organisatorische Maßnahmen, um ein dem Risiko angemessenes Schutzniveau zu gewährleisten.
+
+Zu den Maßnahmen gehören insbesondere die Sicherung der Vertraulichkeit, Integrität und Verfügbarkeit von Daten durch Kontrolle des physischen und elektronischen Zugangs zu den Daten als auch des sie betreffenden Zugriffs, der Eingabe, der Weitergabe, der Sicherung der Verfügbarkeit und ihrer Trennung. Des Weiteren haben wir Verfahren eingerichtet, die eine Wahrnehmung von Betroffenenrechten, die Löschung von Daten und Reaktionen auf die Gefährdung der Daten gewährleisten. Ferner berücksichtigen wir den Schutz personenbezogener Daten bereits bei der Entwicklung bzw. Auswahl von Hardware, Software sowie Verfahren entsprechend dem Prinzip des Datenschutzes, durch Technikgestaltung und durch datenschutzfreundliche Voreinstellungen.
+
+Sicherung von Online-Verbindungen durch TLS-/SSL-Verschlüsselungstechnologie (HTTPS): Um die Daten der Nutzer, die über unsere Online-Dienste übertragen werden, vor unerlaubten Zugriffen zu schützen, setzen wir auf die TLS-/SSL-Verschlüsselungstechnologie. Secure Sockets Layer (SSL) und Transport Layer Security (TLS) sind die Eckpfeiler der sicheren Datenübertragung im Internet. Diese Technologien verschlüsseln die Informationen, die zwischen der Website oder App und dem Browser des Nutzers (oder zwischen zwei Servern) übertragen werden, wodurch die Daten vor unbefugtem Zugriff geschützt sind. TLS, als die weiterentwickelte und sicherere Version von SSL, gewährleistet, dass alle Datenübertragungen den höchsten Sicherheitsstandards entsprechen. Wenn eine Website durch ein SSL-/TLS-Zertifikat gesichert ist, wird dies durch die Anzeige von HTTPS in der URL signalisiert. Dies dient als ein Indikator für die Nutzer, dass ihre Daten sicher und verschlüsselt übertragen werden.
+
+### Internationale Datentransfers {#m24}
+
+Datenverarbeitung in Drittländern: Sofern wir Daten in einem Drittland (d. h., außerhalb der Europäischen Union (EU), des Europäischen Wirtschaftsraums (EWR)) verarbeiten oder die Verarbeitung im Rahmen der Inanspruchnahme von Diensten Dritter oder der Offenlegung bzw. Übermittlung von Daten an andere Personen, Stellen oder Unternehmen stattfindet, erfolgt dies nur im Einklang mit den gesetzlichen Vorgaben. Sofern das Datenschutzniveau in dem Drittland mittels eines Angemessenheitsbeschlusses anerkannt wurde (Art. 45 DSGVO), dient dieser als Grundlage des Datentransfers. Im Übrigen erfolgen Datentransfers nur dann, wenn das Datenschutzniveau anderweitig gesichert ist, insbesondere durch Standardvertragsklauseln (Art. 46 Abs. 2 lit. c) DSGVO), ausdrückliche Einwilligung oder im Fall vertraglicher oder gesetzlich erforderlicher Übermittlung (Art. 49 Abs. 1 DSGVO). Im Übrigen teilen wir Ihnen die Grundlagen der Drittlandübermittlung bei den einzelnen Anbietern aus dem Drittland mit, wobei die Angemessenheitsbeschlüsse als Grundlagen vorrangig gelten. Informationen zu Drittlandtransfers und vorliegenden Angemessenheitsbeschlüssen können dem Informationsangebot der EU-Kommission entnommen werden: [https://commission.europa.eu/law/law-topic/data-protection/international-dimension-data-protection\_en?prefLang=de.](https://commission.europa.eu/law/law-topic/data-protection/international-dimension-data-protection_en?prefLang=de) Im Rahmen des sogenannten „Data Privacy Framework" (DPF) hat die EU-Kommission das Datenschutzniveau ebenfalls für bestimmte Unternehmen aus den USA im Rahmen der Angemessenheitsbeschlusses vom 10.07.2023 als sicher anerkannt. Die Liste der zertifizierten Unternehmen als auch weitere Informationen zu dem DPF können Sie der Website des Handelsministeriums der USA unter [https://www.dataprivacyframework.gov/](https://www.dataprivacyframework.gov/) (in Englisch) entnehmen. Wir informieren Sie im Rahmen der Datenschutzhinweise, welche von uns eingesetzten Diensteanbieter unter dem Data Privacy Framework zertifiziert sind.
+
+### Allgemeine Informationen zur Datenspeicherung und Löschung {#m12}
+
+Wir löschen personenbezogene Daten, die wir verarbeiten, gemäß den gesetzlichen Bestimmungen, sobald die zugrundeliegenden Einwilligungen widerrufen werden oder keine weiteren rechtlichen Grundlagen für die Verarbeitung bestehen. Dies betrifft Fälle, in denen der ursprüngliche Verarbeitungszweck entfällt oder die Daten nicht mehr benötigt werden. Ausnahmen von dieser Regelung bestehen, wenn gesetzliche Pflichten oder besondere Interessen eine längere Aufbewahrung oder Archivierung der Daten erfordern.
+
+Insbesondere müssen Daten, die aus handels- oder steuerrechtlichen Gründen aufbewahrt werden müssen oder deren Speicherung notwendig ist zur Rechtsverfolgung oder zum Schutz der Rechte anderer natürlicher oder juristischer Personen, entsprechend archiviert werden.
+
+Unsere Datenschutzhinweise enthalten zusätzliche Informationen zur Aufbewahrung und Löschung von Daten, die speziell für bestimmte Verarbeitungsprozesse gelten.
+
+Bei mehreren Angaben zur Aufbewahrungsdauer oder Löschungsfristen eines Datums, ist stets die längste Frist maßgeblich.
+
+Beginnt eine Frist nicht ausdrücklich zu einem bestimmten Datum und beträgt sie mindestens ein Jahr, so startet sie automatisch am Ende des Kalenderjahres, in dem das fristauslösende Ereignis eingetreten ist. Im Fall laufender Vertragsverhältnisse, in deren Rahmen Daten gespeichert werden, ist das fristauslösende Ereignis der Zeitpunkt des Wirksamwerdens der Kündigung oder sonstige Beendigung des Rechtsverhältnisses.
+
+Daten, die nicht mehr für den ursprünglich vorgesehenen Zweck, sondern aufgrund gesetzlicher Vorgaben oder anderer Gründe aufbewahrt werden, verarbeiten wir ausschließlich zu den Gründen, die ihre Aufbewahrung rechtfertigen.
+
+**Weitere Hinweise zu Verarbeitungsprozessen, Verfahren und Diensten:**
+
+*   **Aufbewahrung und Löschung von Daten:** Die folgenden allgemeinen Fristen gelten für die Aufbewahrung und Archivierung nach deutschem Recht:
+    *   10 Jahre - Aufbewahrungsfrist für Bücher und Aufzeichnungen, Jahresabschlüsse, Inventare, Lageberichte, Eröffnungsbilanz sowie die zu ihrem Verständnis erforderlichen Arbeitsanweisungen und sonstigen Organisationsunterlagen, Buchungsbelege und Rechnungen (§ 147 Abs. 3 i. V. m. Abs. 1 Nr. 1, 4 und 4a AO, § 14b Abs. 1 UStG, § 257 Abs. 1 Nr. 1 u. 4, Abs. 4 HGB).
+    *   6 Jahre - Übrige Geschäftsunterlagen: empfangene Handels- oder Geschäftsbriefe, Wiedergaben der abgesandten Handels- oder Geschäftsbriefe, sonstige Unterlagen, soweit sie für die Besteuerung von Bedeutung sind, z. B. Stundenlohnzettel, Betriebsabrechnungsbögen, Kalkulationsunterlagen, Preisauszeichnungen, aber auch Lohnabrechnungsunterlagen, soweit sie nicht bereits Buchungsbelege sind und Kassenstreifen (§ 147 Abs. 3 i. V. m. Abs. 1 Nr. 2, 3, 5 AO, § 257 Abs. 1 Nr. 2 u. 3, Abs. 4 HGB).
+    *   3 Jahre - Daten, die erforderlich sind, um potenzielle Gewährleistungs- und Schadensersatzansprüche oder ähnliche vertragliche Ansprüche und Rechte zu berücksichtigen sowie damit verbundene Anfragen zu bearbeiten, basierend auf früheren Geschäftserfahrungen und üblichen Branchenpraktiken, werden für die Dauer der regulären gesetzlichen Verjährungsfrist von drei Jahren gespeichert (§§ 195, 199 BGB).
+
+### Rechte der betroffenen Personen {#m10}
+
+Rechte der betroffenen Personen aus der DSGVO: Ihnen stehen als Betroffene nach der DSGVO verschiedene Rechte zu, die sich insbesondere aus Art. 15 bis 21 DSGVO ergeben:
+
+*   **Widerspruchsrecht: Sie haben das Recht, aus Gründen, die sich aus Ihrer besonderen Situation ergeben, jederzeit gegen die Verarbeitung der Sie betreffenden personenbezogenen Daten, die aufgrund von Art. 6 Abs. 1 lit. e oder f DSGVO erfolgt, Widerspruch einzulegen; dies gilt auch für ein auf diese Bestimmungen gestütztes Profiling. Werden die Sie betreffenden personenbezogenen Daten verarbeitet, um Direktwerbung zu betreiben, haben Sie das Recht, jederzeit Widerspruch gegen die Verarbeitung der Sie betreffenden personenbezogenen Daten zum Zwecke derartiger Werbung einzulegen; dies gilt auch für das Profiling, soweit es mit solcher Direktwerbung in Verbindung steht.**
+*   **Widerrufsrecht bei Einwilligungen:** Sie haben das Recht, erteilte Einwilligungen jederzeit zu widerrufen.
+*   **Auskunftsrecht:** Sie haben das Recht, eine Bestätigung darüber zu verlangen, ob betreffende Daten verarbeitet werden und auf Auskunft über diese Daten sowie auf weitere Informationen und Kopie der Daten entsprechend den gesetzlichen Vorgaben.
+*   **Recht auf Berichtigung:** Sie haben entsprechend den gesetzlichen Vorgaben das Recht, die Vervollständigung der Sie betreffenden Daten oder die Berichtigung der Sie betreffenden unrichtigen Daten zu verlangen.
+*   **Recht auf Löschung und Einschränkung der Verarbeitung:** Sie haben nach Maßgabe der gesetzlichen Vorgaben das Recht, zu verlangen, dass Sie betreffende Daten unverzüglich gelöscht werden, bzw. alternativ nach Maßgabe der gesetzlichen Vorgaben eine Einschränkung der Verarbeitung der Daten zu verlangen.
+*   **Recht auf Datenübertragbarkeit:** Sie haben das Recht, Sie betreffende Daten, die Sie uns bereitgestellt haben, nach Maßgabe der gesetzlichen Vorgaben in einem strukturierten, gängigen und maschinenlesbaren Format zu erhalten oder deren Übermittlung an einen anderen Verantwortlichen zu fordern.
+*   **Beschwerde bei Aufsichtsbehörde:** Entsprechend den gesetzlichen Vorgaben und unbeschadet eines anderweitigen verwaltungsrechtlichen oder gerichtlichen Rechtsbehelfs, haben Sie ferner das Recht, bei einer Datenschutzaufsichtsbehörde, insbesondere einer Aufsichtsbehörde im Mitgliedstaat, in dem Sie sich gewöhnlich aufhalten, der Aufsichtsbehörde Ihres Arbeitsplatzes oder des Ortes des mutmaßlichen Verstoßes, eine Beschwerde einzulegen, wenn Sie der Ansicht sei sollten, dass die Verarbeitung der Ihre Person betreffenden personenbezogenen Daten gegen die DSGVO verstößt.
+
+### Zahlungsverfahren {#m326}
+
+Im Rahmen von Vertrags- und sonstigen Rechtsbeziehungen, aufgrund gesetzlicher Pflichten oder sonst auf Grundlage unserer berechtigten Interessen bieten wir den betroffenen Personen effiziente und sichere Zahlungsmöglichkeiten an und setzen hierzu neben Banken und Kreditinstituten weitere Dienstleister ein (zusammenfassend "Zahlungsdienstleister").
+
+Zu den durch die Zahlungsdienstleister verarbeiteten Daten gehören Bestandsdaten, wie z. B. der Name und die Adresse, Bankdaten, wie z. B. Kontonummern oder Kreditkartennummern, Passwörter, TANs und Prüfsummen sowie die Vertrags-, Summen- und empfängerbezogenen Angaben. Die Angaben sind erforderlich, um die Transaktionen durchzuführen. Die eingegebenen Daten werden jedoch nur durch die Zahlungsdienstleister verarbeitet und bei diesen gespeichert. D. h., wir erhalten keine konto- oder kreditkartenbezogenen Informationen, sondern lediglich Informationen mit Bestätigung oder Negativbeauskunftung der Zahlung. Unter Umständen werden die Daten seitens der Zahlungsdienstleister an Wirtschaftsauskunfteien übermittelt. Diese Übermittlung bezweckt die Identitäts- und Bonitätsprüfung. Hierzu verweisen wir auf die AGB und die Datenschutzhinweise der Zahlungsdienstleister.
+
+Für die Zahlungsgeschäfte gelten die Geschäftsbedingungen und die Datenschutzhinweise der jeweiligen Zahlungsdienstleister, welche innerhalb der jeweiligen Webseiten bzw. Transaktionsapplikationen abrufbar sind. Wir verweisen auf diese ebenfalls zwecks weiterer Informationen und Geltendmachung von Widerrufs-, Auskunfts- und anderen Betroffenenrechten.
+
+*   **Verarbeitete Datenarten:** Bestandsdaten (z. B. der vollständige Name, Wohnadresse, Kontaktinformationen, Kundennummer, etc.); Zahlungsdaten (z. B. Bankverbindungen, Rechnungen, Zahlungshistorie); Vertragsdaten (z. B. Vertragsgegenstand, Laufzeit, Kundenkategorie); Nutzungsdaten (z. B. Seitenaufrufe und Verweildauer, Klickpfade, Nutzungsintensität und -frequenz, verwendete Gerätetypen und Betriebssysteme, Interaktionen mit Inhalten und Funktionen); Meta-, Kommunikations- und Verfahrensdaten (z. B. IP-Adressen, Zeitangaben, Identifikationsnummern, beteiligte Personen). Kontaktdaten (z. B. Post- und E-Mail-Adressen oder Telefonnummern).
+*   **Betroffene Personen:** Leistungsempfänger und Auftraggeber; Geschäfts- und Vertragspartner; Interessenten. Nutzer (z. B. Webseitenbesucher, Nutzer von Onlinediensten).
+*   **Zwecke der Verarbeitung:** Erbringung vertraglicher Leistungen und Erfüllung vertraglicher Pflichten; Geschäftsprozesse und betriebswirtschaftliche Verfahren; Kommunikation; Reichweitenmessung (z. B. Zugriffsstatistiken, Erkennung wiederkehrender Besucher); Büro- und Organisationsverfahren; Konversionsmessung (Messung der Effektivität von Marketingmaßnahmen); Marketing. Bereitstellung unseres Onlineangebotes und Nutzerfreundlichkeit.
+*   **Aufbewahrung und Löschung:** Löschung entsprechend Angaben im Abschnitt "Allgemeine Informationen zur Datenspeicherung und Löschung".
+*   **Rechtsgrundlagen:** Vertragserfüllung und vorvertragliche Anfragen (Art. 6 Abs. 1 S. 1 lit. b) DSGVO). Berechtigte Interessen (Art. 6 Abs. 1 S. 1 lit. f) DSGVO).
+
+**Weitere Hinweise zu Verarbeitungsprozessen, Verfahren und Diensten:**
+
+*   **Ko-Fi:** Internetplattform zur Projektfinanzierung über Crowdfunding sowie den Verkauf von Abonnements und Mitgliedschaften, die Abrechnung sowie die Bereitstellung von Zugangs- und Bezahlverfahren, zu deren Durchführung Cookies eingesetzt und die IP-Adresse, Datum, Uhrzeit und weitere technische Daten über den verwendeten Internetbrowser, das Betriebssystem sowie Bestands-, Vertrags- und Zahlungsdaten der Nutzer verarbeitet werden; Rechtsgrundlagen: Berechtigte Interessen (Art. 6 Abs. 1 S. 1 lit. f) DSGVO); **Dienstanbieter:** Ko-fi Labs Limited, The Station House, 15 Station Road, St Ives PE27 5BH, Vereinigtes Königreich; **Rechtsgrundlagen:** Berechtigte Interessen (Art. 6 Abs. 1 S. 1 lit. f) DSGVO); **Website:** [https://ko-fi.com/](https://ko-fi.com/). **Datenschutzerklärung:** [https://more.ko-fi.com/privacy](https://more.ko-fi.com/privacy).
+
+### Bereitstellung des Onlineangebots und Webhosting {#m225}
+
+Wir verarbeiten die Daten der Nutzer, um ihnen unsere Online-Dienste zur Verfügung stellen zu können. Zu diesem Zweck verarbeiten wir die IP-Adresse des Nutzers, die notwendig ist, um die Inhalte und Funktionen unserer Online-Dienste an den Browser oder das Endgerät der Nutzer zu übermitteln.
+
+*   **Verarbeitete Datenarten:** Nutzungsdaten (z. B. Seitenaufrufe und Verweildauer, Klickpfade, Nutzungsintensität und -frequenz, verwendete Gerätetypen und Betriebssysteme, Interaktionen mit Inhalten und Funktionen); Meta-, Kommunikations- und Verfahrensdaten (z. B. IP-Adressen, Zeitangaben, Identifikationsnummern, beteiligte Personen); Protokolldaten (z. B. Logfiles betreffend Logins oder den Abruf von Daten oder Zugriffszeiten.). Inhaltsdaten (z. B. textliche oder bildliche Nachrichten und Beiträge sowie die sie betreffenden Informationen, wie z. B. Angaben zur Autorenschaft oder Zeitpunkt der Erstellung).
+*   **Betroffene Personen:** Nutzer (z. B. Webseitenbesucher, Nutzer von Onlinediensten). Geschäfts- und Vertragspartner.
+*   **Zwecke der Verarbeitung:** Bereitstellung unseres Onlineangebotes und Nutzerfreundlichkeit; Informationstechnische Infrastruktur (Betrieb und Bereitstellung von Informationssystemen und technischen Geräten (Computer, Server etc.).). Sicherheitsmaßnahmen.
+*   **Aufbewahrung und Löschung:** Löschung entsprechend Angaben im Abschnitt "Allgemeine Informationen zur Datenspeicherung und Löschung".
+*   **Rechtsgrundlagen:** Berechtigte Interessen (Art. 6 Abs. 1 S. 1 lit. f) DSGVO).
+
+**Weitere Hinweise zu Verarbeitungsprozessen, Verfahren und Diensten:**
+
+*   **Bereitstellung Onlineangebot auf gemietetem Speicherplatz:** Für die Bereitstellung unseres Onlineangebotes nutzen wir Speicherplatz, Rechenkapazität und Software, die wir von einem entsprechenden Serveranbieter (auch "Webhoster" genannt) mieten oder anderweitig beziehen; **Rechtsgrundlagen:** Berechtigte Interessen (Art. 6 Abs. 1 S. 1 lit. f) DSGVO).
+*   **Erhebung von Zugriffsdaten und Logfiles:** Der Zugriff auf unser Onlineangebot wird in Form von sogenannten "Server-Logfiles" protokolliert. Zu den Serverlogfiles können die Adresse und der Name der abgerufenen Webseiten und Dateien, Datum und Uhrzeit des Abrufs, übertragene Datenmengen, Meldung über erfolgreichen Abruf, Browsertyp nebst Version, das Betriebssystem des Nutzers, Referrer URL (die zuvor besuchte Seite) und im Regelfall IP-Adressen und der anfragende Provider gehören. Die Serverlogfiles können zum einen zu Sicherheitszwecken eingesetzt werden, z. B. um eine Überlastung der Server zu vermeiden (insbesondere im Fall von missbräuchlichen Angriffen, sogenannten DDoS-Attacken), und zum anderen, um die Auslastung der Server und ihre Stabilität sicherzustellen; **Rechtsgrundlagen:** Berechtigte Interessen (Art. 6 Abs. 1 S. 1 lit. f) DSGVO). **Löschung von Daten:** Logfile-Informationen werden für die Dauer von maximal 30 Tagen gespeichert und danach gelöscht oder anonymisiert. Daten, deren weitere Aufbewahrung zu Beweiszwecken erforderlich ist, sind bis zur endgültigen Klärung des jeweiligen Vorfalls von der Löschung ausgenommen.
+*   **Content-Delivery-Network:** Wir setzen ein "Content-Delivery-Network" (CDN) ein. Ein CDN ist ein Dienst, mit dessen Hilfe Inhalte eines Onlineangebotes, insbesondere große Mediendateien, wie Grafiken oder Programm-Skripte, mit Hilfe regional verteilter und über das Internet verbundener Server schneller und sicherer ausgeliefert werden können; **Rechtsgrundlagen:** Berechtigte Interessen (Art. 6 Abs. 1 S. 1 lit. f) DSGVO).
+*   **Gandi:** Leistungen auf dem Gebiet der Bereitstellung von informationstechnischer Infrastruktur und verbundenen Dienstleistungen (z. B. Speicherplatz und/oder Rechenkapazitäten); **Dienstanbieter:** Gandi SAS, 63-65 Boulevard Masséna, 75013 Paris, Frankreich; **Rechtsgrundlagen:** Berechtigte Interessen (Art. 6 Abs. 1 S. 1 lit. f) DSGVO); **Website:** [https://www.gandi.net](https://www.gandi.net). **Datenschutzerklärung:** [https://www.gandi.net/en/contracts/privacy-policy](https://www.gandi.net/en/contracts/privacy-policy).
+*   **GitHub:** Plattform für die Versionskontrolle von Softwareprojekten. Entwickler können ihren Code in Repositories hochladen und Änderungen verfolgen sowie Tools zur Projektverwaltung in der Softwareentwicklung nutzen; **Dienstanbieter:** GitHub B.V., Niederlande, [https://support.github.com/contact/privacy](https://support.github.com/contact/privacy); **Rechtsgrundlagen:** Berechtigte Interessen (Art. 6 Abs. 1 S. 1 lit. f) DSGVO); **Website:** [https://github.com](https://github.com). **Datenschutzerklärung:** [https://docs.github.com/de/site-policy/privacy-policies/github-general-privacy-statement](https://docs.github.com/de/site-policy/privacy-policies/github-general-privacy-statement).
+
+### Einsatz von Cookies {#m134}
+
+Unter dem Begriff „Cookies" werden Funktionen, die Informationen auf Endgeräten der Nutzer speichern und aus ihnen auslesen, verstanden. Cookies können ferner in Bezug auf unterschiedliche Anliegen Einsatz finden, etwa zu Zwecken der Funktionsfähigkeit, der Sicherheit und des Komforts von Onlineangeboten sowie der Erstellung von Analysen der Besucherströme. Wir verwenden Cookies gemäß den gesetzlichen Vorschriften. Dazu holen wir, wenn erforderlich, vorab die Zustimmung der Nutzer ein. Ist eine Zustimmung nicht notwendig, setzen wir auf unsere berechtigten Interessen. Dies gilt, wenn das Speichern und Auslesen von Informationen unerlässlich ist, um ausdrücklich angeforderte Inhalte und Funktionen bereitstellen zu können. Dazu zählen etwa die Speicherung von Einstellungen sowie die Sicherstellung der Funktionalität und Sicherheit unseres Onlineangebots. Die Einwilligung kann jederzeit widerrufen werden. Wir informieren klar über deren Umfang und welche Cookies genutzt werden.
+
+**Hinweise zu datenschutzrechtlichen Rechtsgrundlagen:** Ob wir personenbezogene Daten mithilfe von Cookies verarbeiten, hängt von einer Einwilligung ab. Liegt eine Einwilligung vor, dient sie als Rechtsgrundlage. Ohne Einwilligung stützen wir uns auf unsere berechtigten Interessen, die vorstehend in diesem Abschnitt und im Kontext der jeweiligen Dienste und Verfahren erläutert sind.
+
+**Speicherdauer:** Im Hinblick auf die Speicherdauer werden die folgenden Arten von Cookies unterschieden:
+
+*   **Temporäre Cookies (auch: Session- oder Sitzungscookies):** Temporäre Cookies werden spätestens gelöscht, nachdem ein Nutzer ein Onlineangebot verlassen und sein Endgerät (z. B. Browser oder mobile Applikation) geschlossen hat.
+*   **Permanente Cookies:** Permanente Cookies bleiben auch nach dem Schließen des Endgeräts gespeichert. So können beispielsweise der Log-in-Status gespeichert und bevorzugte Inhalte direkt angezeigt werden, wenn der Nutzer eine Website erneut besucht. Ebenso können die mithilfe von Cookies erhobenen Nutzerdaten zur Reichweitenmessung Verwendung finden. Sofern wir Nutzern keine expliziten Angaben zur Art und Speicherdauer von Cookies mitteilen (z. B. im Rahmen der Einholung der Einwilligung), sollten sie davon ausgehen, dass diese permanent sind und die Speicherdauer bis zu zwei Jahre betragen kann.
+
+**Allgemeine Hinweise zum Widerruf und Widerspruch (Opt-out):** Nutzer können die von ihnen abgegebenen Einwilligungen jederzeit widerrufen und zudem einen Widerspruch gegen die Verarbeitung entsprechend den gesetzlichen Vorgaben, auch mittels der Privatsphäre-Einstellungen ihres Browsers, erklären.
+
+*   **Verarbeitete Datenarten:** Meta-, Kommunikations- und Verfahrensdaten (z. B. IP-Adressen, Zeitangaben, Identifikationsnummern, beteiligte Personen).
+*   **Betroffene Personen:** Nutzer (z. B. Webseitenbesucher, Nutzer von Onlinediensten).
+*   **Rechtsgrundlagen:** Berechtigte Interessen (Art. 6 Abs. 1 S. 1 lit. f) DSGVO).
+
+### Besondere Hinweise zu Applikationen (Apps) {#m469}
+
+Wir verarbeiten die Daten der Nutzer unserer Applikation, soweit diese erforderlich sind, um den Nutzern die Applikation sowie deren Funktionalitäten bereitstellen, deren Sicherheit überwachen und sie weiterentwickeln zu können. Wir können ferner Nutzer unter Beachtung der gesetzlichen Vorgaben kontaktieren, sofern die Kommunikation zu Zwecken der Administration oder Nutzung der Applikation erforderlich ist. Im Übrigen verweisen wir im Hinblick auf die Verarbeitung der Daten der Nutzer auf die Datenschutzhinweise in dieser Datenschutzerklärung.
+
+**Rechtsgrundlagen:** Die Verarbeitung von Daten, die für die Bereitstellung der Funktionalitäten der Applikation erforderlich ist, dient der Erfüllung von vertraglichen Pflichten. Dies gilt auch, wenn die Bereitstellung der Funktionen eine Berechtigung der Nutzer (z. B. Freigaben von Gerätefunktionen) voraussetzt. Sofern die Verarbeitung von Daten für die Bereitstellung der Funktionalitäten der Applikation nicht erforderlich ist, aber der Sicherheit der Applikation oder unseren betriebswirtschaftlichen Interessen dient (z. B. Erhebung von Daten zu Zwecken der Optimierung der Applikation oder Sicherheitszwecken), erfolgt sie auf Grundlage unserer berechtigten Interessen. Sofern Nutzer ausdrücklich deren Einwilligung in die Verarbeitung ihrer Daten gebeten werden, erfolgt die Verarbeitung der von der Einwilligung umfassten Daten auf Grundlage der Einwilligung.
+
+*   **Verarbeitete Datenarten:** Bestandsdaten (z. B. der vollständige Name, Wohnadresse, Kontaktinformationen, Kundennummer, etc.); Nutzungsdaten (z. B. Seitenaufrufe und Verweildauer, Klickpfade, Nutzungsintensität und -frequenz, verwendete Gerätetypen und Betriebssysteme, Interaktionen mit Inhalten und Funktionen); Meta-, Kommunikations- und Verfahrensdaten (z. B. IP-Adressen, Zeitangaben, Identifikationsnummern, beteiligte Personen); Zahlungsdaten (z. B. Bankverbindungen, Rechnungen, Zahlungshistorie); Vertragsdaten (z. B. Vertragsgegenstand, Laufzeit, Kundenkategorie); Bild- und/ oder Videoaufnahmen (z. B. Fotografien oder Videoaufnahmen einer Person); Tonaufnahmen. Standortdaten (Angaben zur geografischen Position eines Gerätes oder einer Person).
+*   **Betroffene Personen:** Nutzer (z. B. Webseitenbesucher, Nutzer von Onlinediensten).
+*   **Zwecke der Verarbeitung:** Erbringung vertraglicher Leistungen und Erfüllung vertraglicher Pflichten; Sicherheitsmaßnahmen. Bereitstellung unseres Onlineangebotes und Nutzerfreundlichkeit.
+*   **Aufbewahrung und Löschung:** Löschung entsprechend Angaben im Abschnitt "Allgemeine Informationen zur Datenspeicherung und Löschung".
+*   **Rechtsgrundlagen:** Vertragserfüllung und vorvertragliche Anfragen (Art. 6 Abs. 1 S. 1 lit. b) DSGVO). Berechtigte Interessen (Art. 6 Abs. 1 S. 1 lit. f) DSGVO).
+
+**Weitere Hinweise zu Verarbeitungsprozessen, Verfahren und Diensten:**
+
+*   **Kommerzielle Nutzung:** Wir verarbeiten die Daten der Nutzer unserer Applikation, angemeldeter und etwaiger Testnutzer (nachfolgend einheitlich als "Nutzer" bezeichnet), um ihnen gegenüber unsere vertraglichen Leistungen erbringen zu können sowie auf Grundlage berechtigter Interessen, um die Sicherheit unserer Applikation gewährleisten und sie weiterzuentwickeln zu können. Die erforderlichen Angaben sind als solche im Rahmen des Nutzungs-, Auftrags-, Bestell- bzw. vergleichbaren Vertragsschlusses gekennzeichnet und können die zur Leistungserbringung und zur etwaigen Abrechnung benötigten Angaben sowie Kontaktinformationen, um etwaige Rücksprachen halten zu können, umfassen; **Rechtsgrundlagen:** Vertragserfüllung und vorvertragliche Anfragen (Art. 6 Abs. 1 S. 1 lit. b) DSGVO).
+*   **Speicherung eines universellen und eindeutigen Identifikators (UUID):** Die Applikation speichert für Zwecke der Analyse der Nutzung und Funktionsfähigkeit der Applikation sowie der Speicherung der Einstellungen der Nutzer einen so genannten universellen und eindeutigen Identifikator (englisch "Universally Unique Identifier", UUID). Dieser Identifikator wird bei der Installation dieser Anwendung generiert (ist jedoch nicht mit dem Gerät verbunden, also keine Gerätekennung in diesem Sinne), bleibt zwischen dem Start der Applikation sowie ihrer Aktualisierungen gespeichert und wird gelöscht wenn Nutzer die Applikation von ihrem Gerät entfernen.
+*   **Speicherung eines pseudonymen Identifikators:** Damit wir die Applikation bereitstellen und ihre Funktionsfähigkeit sicherstellen können, verwenden wir einen pseudonymen Identifikator. Der die Identifikation ist ein mathematischer Wert (d. .h. es werden keine Klardaten, wie z. B. Namen verwendet), der einem Gerät und/ oder der auf ihm installierten Installation der Applikation zugeordnet ist. Dieser Identifikator wird bei der Installation dieser Anwendung generiert, bleibt zwischen dem Start der Applikation sowie ihrer Aktualisierungen gespeichert und wird gelöscht wenn Nutzer die Applikation von dem Gerät entfernen.
+*   **Geräteberechtigungen für den Zugriff auf Funktionen und Daten:** Die Nutzung unserer Applikation oder ihrer Funktionalitäten kann Berechtigungen der Nutzer für Zugriff auf bestimmten Funktionen der verwendeten Geräte oder auf die, auf den Geräten gespeicherten oder mit Hilfe der Geräte zugänglichen Daten voraussetzen. Standardmäßig müssen diese Berechtigungen von den Nutzern erteilt werden und können jederzeit in den Einstellungen der jeweiligen Geräte widerrufen werden. Das genaue Verfahren zur Kontrolle der App-Berechtigungen kann vom Gerät und der Software der Nutzern abhängig sein. Bei Erläuterungsbedarf können sich Nutzer an uns wenden. Wir weisen darauf hin, dass die Versagung oder Widerruf der jeweiligen Berechtigungen die Funktionsfähigkeit unsere Applikation beeinflussen kann.
+*   **Zugriff auf die Kamera sowie gespeicherten Aufnahmen:** Im Rahmen der Nutzung unserer Applikation werden Bild- und/ oder Videoaufnahmen (wobei auch Audioaufnahmen umfasst sind) der Nutzer (und von anderen, von den Aufnahmen erfassten Personen) durch den Zugriff auf die Kamerafunktionen oder auf gespeicherte Aufnahmen verarbeitet. Der Zugriff auf die Kamerafunktionen oder gespeicherte Aufnahmen setzt eine jederzeit widerrufbare Berechtigung durch die Nutzer voraus. Die Verarbeitung der Bild- und/ oder Videoaufnahmen dient jeweils nur der Bereitstellung der jeweiligen Funktionalität unserer Applikation, entsprechend ihrer Beschreibung gegenüber den Nutzern, bzw. ihrer typischen und erwartbaren Funktionsweise.
+*   **Nutzung von Mikrofonfunktionen:** Im Rahmen der Nutzung unserer Applikation werden die Mikrofonfunktionen und mit dessen Hilfe erfasste Audioaufnahmen verarbeitet. Die Nutzung der Mikrofonfunktionen setzt eine Berechtigung der Nutzer, die jederzeit widerrufen werden kann, voraus. Die Nutzung der Mikrofonfunktionen und Audiodaten dient jeweils nur der Bereitstellung der jeweiligen Funktionalität unserer Applikation, entsprechend ihrer Beschreibung gegenüber den Nutzern, bzw. ihrer typischen und erwartbaren Funktionsweise.
+*   **Verarbeitung von gespeicherten Kontakten:** Im Rahmen der Nutzung unserer Applikation werden die in dem Kontaktverzeichnis des Gerätes gespeicherten Kontaktinformationen von Personen (Name, E-Mail-Adresse, Telefonnummer) verarbeitet. Die Nutzung der Kontaktinformationen setzt eine Berechtigung der Nutzer, die jederzeit widerrufen werden kann, voraus. Die Nutzung der Kontaktinformationen dient jeweils nur der Bereitstellung der jeweiligen Funktionalität unserer Applikation, entsprechend ihrer Beschreibung gegenüber den Nutzern, bzw. ihrer typischen und erwartbaren Funktionsweise. Die Nutzer werden darauf hingewiesen, dass die Erlaubnis der Verarbeitung der Kontaktinformationen erlaubt sein muss und insbesondere bei natürlichen Personen deren Einverständnisses oder einer gesetzlichen Erlaubnis bedarf.
+*   **Verarbeitung von Standortdaten:** Im Rahmen der Nutzung unserer Applikation werden die von dem verwendeten Gerät erhobenen oder sonst durch die Nutzer eingegebenen Standortdaten verarbeitet. Die Nutzung der Standortdaten setzt eine Berechtigung der Nutzer, die jederzeit widerrufen werden kann, voraus. Die Nutzung der Standortdaten dient jeweils nur der Bereitstellung der jeweiligen Funktionalität unserer Applikation, entsprechend ihrer Beschreibung gegenüber den Nutzern, bzw. ihrer typischen und erwartbaren Funktionsweise.
+*   **Kein Standortverlauf und keine Bewegungsprofile:** Die Standortdaten werden lediglich punktuell eingesetzt und nicht zur Bildung eines Standortverlaufs oder eines Bewegungsprofils der verwendeten Geräte, bzw. ihrer Nutzer verarbeitet.
+
+### Bezug von Applikationen über Appstores {#m1466}
+
+Der Bezug unserer Applikation erfolgt über über spezielle Online-Plattformen, die von anderen Dienstanbietern betrieben werden, an (so genannte "Appstores"). In diesem Zusammenhang gelten zusätzlich zu unseren Datenschutzhinweisen die Datenschutzhinweise der jeweiligen Appstores. Dies gilt insbesondere im Hinblick auf die auf den Plattformen eingesetzten Verfahren zur Reichweitemessung und zum interessensbezogenen Marketing sowie etwaige Kostenpflicht.
+
+*   **Verarbeitete Datenarten:** Bestandsdaten (z. B. der vollständige Name, Wohnadresse, Kontaktinformationen, Kundennummer, etc.); Zahlungsdaten (z. B. Bankverbindungen, Rechnungen, Zahlungshistorie); Kontaktdaten (z. B. Post- und E-Mail-Adressen oder Telefonnummern); Vertragsdaten (z. B. Vertragsgegenstand, Laufzeit, Kundenkategorie); Nutzungsdaten (z. B. Seitenaufrufe und Verweildauer, Klickpfade, Nutzungsintensität und -frequenz, verwendete Gerätetypen und Betriebssysteme, Interaktionen mit Inhalten und Funktionen). Meta-, Kommunikations- und Verfahrensdaten (z. B. IP-Adressen, Zeitangaben, Identifikationsnummern, beteiligte Personen).
+*   **Betroffene Personen:** Leistungsempfänger und Auftraggeber. Nutzer (z. B. Webseitenbesucher, Nutzer von Onlinediensten).
+*   **Zwecke der Verarbeitung:** Erbringung vertraglicher Leistungen und Erfüllung vertraglicher Pflichten; Marketing. Bereitstellung unseres Onlineangebotes und Nutzerfreundlichkeit.
+*   **Aufbewahrung und Löschung:** Löschung entsprechend Angaben im Abschnitt "Allgemeine Informationen zur Datenspeicherung und Löschung".
+*   **Rechtsgrundlagen:** Berechtigte Interessen (Art. 6 Abs. 1 S. 1 lit. f) DSGVO).
+
+**Weitere Hinweise zu Verarbeitungsprozessen, Verfahren und Diensten:**
+
+*   **Apple App Store:** App- und Softwareverkaufsplattform; **Dienstanbieter:** Apple Inc., Infinite Loop, Cupertino, CA 95014, USA; **Rechtsgrundlagen:** Berechtigte Interessen (Art. 6 Abs. 1 S. 1 lit. f) DSGVO); **Website:** [https://www.apple.com/de/app-store/](https://www.apple.com/de/app-store/). **Datenschutzerklärung:** [https://www.apple.com/legal/privacy/de-ww/](https://www.apple.com/legal/privacy/de-ww/).
+*   **Google Play:** App- und Softwareverkaufsplattform; **Dienstanbieter:** Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Irland; **Rechtsgrundlagen:** Berechtigte Interessen (Art. 6 Abs. 1 S. 1 lit. f) DSGVO); **Website:** [https://play.google.com/store/apps?hl=de](https://play.google.com/store/apps?hl=de). **Datenschutzerklärung:** [https://policies.google.com/privacy](https://policies.google.com/privacy).
+
+### Blogs und Publikationsmedien {#m104}
+
+Wir nutzen Blogs oder vergleichbare Mittel der Onlinekommunikation und Publikation (nachfolgend "Publikationsmedium"). Die Daten der Leser werden für die Zwecke des Publikationsmediums nur insoweit verarbeitet, als es für dessen Darstellung und die Kommunikation zwischen Autoren und Lesern oder aus Gründen der Sicherheit erforderlich ist. Im Übrigen verweisen wir auf die Informationen zur Verarbeitung der Besucher unseres Publikationsmediums im Rahmen dieser Datenschutzhinweise.
+
+*   **Verarbeitete Datenarten:** Bestandsdaten (z. B. der vollständige Name, Wohnadresse, Kontaktinformationen, Kundennummer, etc.); Kontaktdaten (z. B. Post- und E-Mail-Adressen oder Telefonnummern); Inhaltsdaten (z. B. textliche oder bildliche Nachrichten und Beiträge sowie die sie betreffenden Informationen, wie z. B. Angaben zur Autorenschaft oder Zeitpunkt der Erstellung); Nutzungsdaten (z. B. Seitenaufrufe und Verweildauer, Klickpfade, Nutzungsintensität und -frequenz, verwendete Gerätetypen und Betriebssysteme, Interaktionen mit Inhalten und Funktionen). Meta-, Kommunikations- und Verfahrensdaten (z. B. IP-Adressen, Zeitangaben, Identifikationsnummern, beteiligte Personen).
+*   **Betroffene Personen:** Nutzer (z. B. Webseitenbesucher, Nutzer von Onlinediensten). Geschäfts- und Vertragspartner.
+*   **Zwecke der Verarbeitung:** Feedback (z. B. Sammeln von Feedback via Online-Formular); Bereitstellung unseres Onlineangebotes und Nutzerfreundlichkeit. Informationstechnische Infrastruktur (Betrieb und Bereitstellung von Informationssystemen und technischen Geräten (Computer, Server etc.).).
+*   **Aufbewahrung und Löschung:** Löschung entsprechend Angaben im Abschnitt "Allgemeine Informationen zur Datenspeicherung und Löschung".
+*   **Rechtsgrundlagen:** Berechtigte Interessen (Art. 6 Abs. 1 S. 1 lit. f) DSGVO).
+
+**Weitere Hinweise zu Verarbeitungsprozessen, Verfahren und Diensten:**
+
+*   **GitHub:** Plattform für die Versionskontrolle von Softwareprojekten. Entwickler können ihren Code in Repositories hochladen und Änderungen verfolgen sowie Tools zur Projektverwaltung in der Softwareentwicklung nutzen; **Dienstanbieter:** GitHub B.V., Niederlande, [https://support.github.com/contact/privacy](https://support.github.com/contact/privacy); **Rechtsgrundlagen:** Berechtigte Interessen (Art. 6 Abs. 1 S. 1 lit. f) DSGVO); **Website:** [https://github.com](https://github.com). **Datenschutzerklärung:** [https://docs.github.com/de/site-policy/privacy-policies/github-general-privacy-statement](https://docs.github.com/de/site-policy/privacy-policies/github-general-privacy-statement).
+
+### Kommunikation via Messenger {#m391}
+
+Wir setzen zu Zwecken der Kommunikation Messenger ein und bitten daher darum, die nachfolgenden Hinweise zur Funktionsfähigkeit der Messenger, zur Verschlüsselung, zur Nutzung der Metadaten der Kommunikation und zu Ihren Widerspruchsmöglichkeiten zu beachten.
+
+Sie können uns auch auf alternativen Wegen, z. B. via Telefon oder E-Mail, kontaktieren. Bitte nutzen Sie die Ihnen mitgeteilten Kontaktmöglichkeiten oder die innerhalb unseres Onlineangebotes angegebenen Kontaktmöglichkeiten.
+
+Im Fall einer Ende-zu-Ende-Verschlüsselung von Inhalten (d. h., der Inhalt Ihrer Nachricht und Anhänge) weisen wir darauf hin, dass die Kommunikationsinhalte (d. h., der Inhalt der Nachricht und angehängte Bilder) von Ende zu Ende verschlüsselt werden. Das bedeutet, dass der Inhalt der Nachrichten nicht einsehbar ist, nicht einmal durch die Messenger-Anbieter selbst. Sie sollten immer eine aktuelle Version der Messenger mit aktivierter Verschlüsselung nutzen, damit die Verschlüsselung der Nachrichteninhalte sichergestellt ist.
+
+Wir weisen unsere Kommunikationspartner jedoch zusätzlich darauf hin, dass die Anbieter der Messenger zwar nicht den Inhalt einsehen, aber in Erfahrung bringen können, dass und wann Kommunikationspartner mit uns kommunizieren sowie technische Informationen zum verwendeten Gerät der Kommunikationspartner und je nach Einstellungen ihres Gerätes auch Standortinformationen (sogenannte Metadaten) verarbeitet werden.
+
+**Hinweise zu Rechtsgrundlagen:** Sofern wir Kommunikationspartner vor der Kommunikation mit ihnen via Messenger um eine Erlaubnis bitten, ist die Rechtsgrundlage unserer Verarbeitung ihrer Daten deren Einwilligung. Im Übrigen, falls wir nicht um eine Einwilligung bitten und sie z. B. von sich aus Kontakt mit uns aufnehmen, nutzen wir Messenger im Verhältnis zu unseren Vertragspartnern sowie im Rahmen der Vertragsanbahnung als eine vertragliche Maßnahme und im Fall anderer Interessenten und Kommunikationspartner auf Grundlage unserer berechtigten Interessen an einer schnellen und effizienten Kommunikation und Erfüllung der Bedürfnisse unser Kommunikationspartner an der Kommunikation via Messenger. Ferner weisen wir Sie darauf hin, dass wir die uns mitgeteilten Kontaktdaten ohne Ihre Einwilligung nicht erstmalig an die Messenger übermitteln.
+
+**Widerruf, Widerspruch und Löschung:** Sie können jederzeit eine erteilte Einwilligung widerrufen und der Kommunikation mit uns via Messenger jederzeit widersprechen. Im Fall der Kommunikation via Messenger löschen wir die Nachrichten entsprechend unseren generellen Löschrichtlinien (d. h. z. B., wie oben beschrieben, nach Ende vertraglicher Beziehungen, im Kontext von Archivierungsvorgaben etc.) und sonst, sobald wir davon ausgehen können, etwaige Auskünfte der Kommunikationspartner beantwortet zu haben, wenn kein Rückbezug auf eine vorhergehende Konversation zu erwarten ist und der Löschung keine gesetzlichen Aufbewahrungspflichten entgegenstehen.
+
+**Vorbehalt des Verweises auf andere Kommunikationswege:** Um Ihre Sicherheit zu gewährleisten, bitten wir um Verständnis, dass wir aus bestimmten Gründen Anfragen über Messenger möglicherweise nicht beantworten können. Dies betrifft Situationen, in denen etwa Vertragsdetails besonders vertraulich behandelt werden müssen oder eine Antwort über Messenger den formellen Anforderungen nicht entspricht. In diesen Fällen empfehlen wir Ihnen, auf geeignetere Kommunikationskanäle zurückzugreifen.
+
+*   **Verarbeitete Datenarten:** Kontaktdaten (z. B. Post- und E-Mail-Adressen oder Telefonnummern); Inhaltsdaten (z. B. textliche oder bildliche Nachrichten und Beiträge sowie die sie betreffenden Informationen, wie z. B. Angaben zur Autorenschaft oder Zeitpunkt der Erstellung); Nutzungsdaten (z. B. Seitenaufrufe und Verweildauer, Klickpfade, Nutzungsintensität und -frequenz, verwendete Gerätetypen und Betriebssysteme, Interaktionen mit Inhalten und Funktionen). Meta-, Kommunikations- und Verfahrensdaten (z. B. IP-Adressen, Zeitangaben, Identifikationsnummern, beteiligte Personen).
+*   **Betroffene Personen:** Kommunikationspartner.
+*   **Zwecke der Verarbeitung:** Kommunikation. Direktmarketing (z. B. per E-Mail oder postalisch).
+*   **Aufbewahrung und Löschung:** Löschung entsprechend Angaben im Abschnitt "Allgemeine Informationen zur Datenspeicherung und Löschung".
+*   **Rechtsgrundlagen:** Einwilligung (Art. 6 Abs. 1 S. 1 lit. a) DSGVO); Vertragserfüllung und vorvertragliche Anfragen (Art. 6 Abs. 1 S. 1 lit. b) DSGVO). Berechtigte Interessen (Art. 6 Abs. 1 S. 1 lit. f) DSGVO).
+
+**Weitere Hinweise zu Verarbeitungsprozessen, Verfahren und Diensten:**
+
+*   **Apple iMessage:** Textnachrichten, Sprachnachrichten und Videoanrufe senden und empfangen. Gruppenunterhaltungen führen. Dateien, Fotos, Videos und Standorte teilen. Sicherung der Kommunikation durch Ende-zu-Ende-Verschlüsselung. Synchronisierung von Nachrichten über mehrere Geräte hinweg; **Dienstanbieter:** Apple Inc., Infinite Loop, Cupertino, CA 95014, USA; **Rechtsgrundlagen:** Berechtigte Interessen (Art. 6 Abs. 1 S. 1 lit. f) DSGVO); **Website:** [https://www.apple.com/de/](https://www.apple.com/de/). **Datenschutzerklärung:** [https://www.apple.com/legal/privacy/de-ww/](https://www.apple.com/legal/privacy/de-ww/).
+*   **Signal:** Signal Messenger mit Ende-zu-Ende-Verschlüsselung; **Dienstanbieter:** Privacy Signal Messenger, LLC 650 Castro Street, Suite 120-223 Mountain View, CA 94041, USA; **Rechtsgrundlagen:** Berechtigte Interessen (Art. 6 Abs. 1 S. 1 lit. f) DSGVO); **Website:** [https://signal.org/de/](https://signal.org/de/). **Datenschutzerklärung:** [https://signal.org/legal/](https://signal.org/legal/).
+*   **Slack:** Team-Kommunikation und -Zusammenarbeit, Echtzeit-Messaging, Datei- und Dokumentenfreigabe, Integration mit Drittanbieter-Tools, Video- und Sprachanrufe, Kanäle für themenspezifische Diskussionen, Suchfunktion für Nachrichten und Dateien; **Dienstanbieter:** Slack Technologies, Inc., 500 Howard Street, San Francisco, CA 94105, USA; **Rechtsgrundlagen:** Berechtigte Interessen (Art. 6 Abs. 1 S. 1 lit. f) DSGVO); **Website:** [https://slack.com/intl/de-de/](https://slack.com/intl/de-de/); **Datenschutzerklärung:** [https://slack.com/intl/de-de/legal](https://slack.com/intl/de-de/legal); **Auftragsverarbeitungsvertrag:** [https://slack.com/intl/de-de/terms-of-service/data-processing](https://slack.com/intl/de-de/terms-of-service/data-processing); **Grundlage Drittlandtransfers:** Data Privacy Framework (DPF). **Weitere Informationen:** Sicherheitsmaßnahmen: [https://slack.com/intl/de-de/security-practices](https://slack.com/intl/de-de/security-practices).
+*   **Threema:** Verschlüsselte Nachrichtenübermittlung, Sprach- und Videoanrufe, Datei- und Medienaustausch, Umfragen und Abstimmungen, Gruppenchat-Funktionalität, Kontaktverifizierung durch QR-Codes, keine Telefonnummern- oder E-Mail-Adressen-Pflicht; **Dienstanbieter:** Threema GmbH, Churerstrasse 82, 8808 Pfäffikon SZ, Schweiz; **Rechtsgrundlagen:** Berechtigte Interessen (Art. 6 Abs. 1 S. 1 lit. f) DSGVO); **Website:** [https://threema.ch/en](https://threema.ch/en); **Datenschutzerklärung:** [https://threema.ch/de/privacy](https://threema.ch/de/privacy). **Grundlage Drittlandtransfers:** Angemessenheitsbeschluss (Schweiz).
+*   **Discord:** Chat, Audio- und Videoübertragungen, Instant Messaging und Community-Management; **Dienstanbieter:** Discord, Inc., 444 De Haro St, Suite 200, San Francisco, California 94107, USA; **Rechtsgrundlagen:** Berechtigte Interessen (Art. 6 Abs. 1 S. 1 lit. f) DSGVO); **Website:** [https://discord.com/](https://discord.com/); **Datenschutzerklärung:** [https://discord.com/privacy](https://discord.com/privacy). **Grundlage Drittlandtransfers:** Data Privacy Framework (DPF).
+
+### Push-Nachrichten {#m1643}
+
+Mit der Zustimmung der Nutzer, können wir den Nutzern so genannte "Push-Benachrichtigungen" zusenden. Dabei handelt es sich um Nachrichten, die auf den Bildschirmen, Endgeräten oder in Browsern der Nutzer angezeigt werden, auch wenn unser Onlinedienst gerade nicht aktiv genutzt wird.
+
+Um sich für die Push-Nachrichten anzumelden, müssen Nutzer die Abfrage ihres Browsers bzw. Endgerätes zum Erhalt der Push-Nachrichten bestätigen. Dieser Zustimmungsprozess wird dokumentiert und gespeichert. Die Speicherung ist erforderlich, um zu erkennen, ob Nutzer dem Empfang der Push-Nachrichten zugestimmt haben sowie um die Zustimmung nachweisen zu können. Zu diesen Zwecken wird ein pseudonymer Identifikator des Browsers (sog. "Push-Token") oder die Geräte-ID eines Endgerätes gespeichert.
+
+Die Push-Nachrichten können zum einen für die Erfüllung von vertraglichen Pflichten erforderlich sein (z. B. für die Nutzung unseres Onlineangebotes relevante technische und organisatorische Informationen) und werden ansonsten, sofern nicht nachfolgend speziell genannt, auf Grundlage einer Einwilligung der Nutzer versendet. Nutzer können den Empfang der Push-Nachrichten jederzeit mit Hilfe der Benachrichtigungseinstellungen ihrer jeweiligen Browser, bzw. Endgeräte ändern.
+
+*   **Verarbeitete Datenarten:** Nutzungsdaten (z. B. Seitenaufrufe und Verweildauer, Klickpfade, Nutzungsintensität und -frequenz, verwendete Gerätetypen und Betriebssysteme, Interaktionen mit Inhalten und Funktionen); Meta-, Kommunikations- und Verfahrensdaten (z. B. IP-Adressen, Zeitangaben, Identifikationsnummern, beteiligte Personen). Standortdaten (Angaben zur geografischen Position eines Gerätes oder einer Person).
+*   **Betroffene Personen:** Kommunikationspartner.
+*   **Zwecke der Verarbeitung:** Kommunikation; Bereitstellung unseres Onlineangebotes und Nutzerfreundlichkeit. Direktmarketing (z. B. per E-Mail oder postalisch).
+*   **Aufbewahrung und Löschung:** Löschung entsprechend Angaben im Abschnitt "Allgemeine Informationen zur Datenspeicherung und Löschung". Löschung nach Kündigung.
+*   **Rechtsgrundlagen:** Einwilligung (Art. 6 Abs. 1 S. 1 lit. a) DSGVO). Berechtigte Interessen (Art. 6 Abs. 1 S. 1 lit. f) DSGVO).
+
+**Weitere Hinweise zu Verarbeitungsprozessen, Verfahren und Diensten:**
+
+*   **Push-Nachrichten mit werblichem Inhalt:** Die von uns gesendeten Push-Benachrichtigungen können werbliche Informationen beinhalten. Die werblichen Push-Nachrichten werden auf Grundlage einer Einwilligung der Nutzer verarbeitet. Sofern im Rahmen einer Zustimmung zum Empfang der werblichen Push-Nachrichten deren Inhalte konkret beschrieben werden, sind die Beschreibungen für die Einwilligung der Nutzer maßgeblich. Im Übrigen enthalten unsere Newsletter Informationen zu unseren Leistungen und uns; **Rechtsgrundlagen:** Einwilligung (Art. 6 Abs. 1 S. 1 lit. a) DSGVO).
+*   **Standortabhängige Zusendung von Push-Nachrichten:** Die von uns gesendeten Push-Benachrichtigungen können abhängig vom Aufenthaltsort der Nutzer unter Zugrundelegung der vom verwendeten Endgerät übermittelten Standortdaten angezeigt werden; **Rechtsgrundlagen:** Einwilligung (Art. 6 Abs. 1 S. 1 lit. a) DSGVO).
+
+### Videokonferenzen, Onlinemeetings, Webinare und Bildschirm-Sharing {#m735}
+
+Wir setzen Plattformen und Anwendungen anderer Anbieter (nachfolgend bezeichnet als "Konferenzplattformen") zu Zwecken der Durchführung von Video- und Audio-Konferenzen, Webinaren und sonstigen Arten von Video und Audio-Meetings (nachfolgend zusammenfassend bezeichnet als "Konferenz") ein. Bei der Auswahl der Konferenzplattformen und ihrer Leistungen beachten wir die gesetzlichen Vorgaben.
+
+**Durch Konferenzplattformen verarbeitete Daten:** Im Rahmen der Teilnahme an einer Konferenz verarbeiten die Konferenzplattformen die im Folgenden genannten personenbezogene Daten der Teilnehmer. Der Umfang der Verarbeitung hängt zum einen davon ab, welche Daten im Rahmen einer konkreten Konferenz gefordert werden (z. B. Angabe von Zugangsdaten oder Klarnamen) und welche optionalen Angaben durch die Teilnehmer getätigt werden. Neben der Verarbeitung zur Durchführung der Konferenz, können die Daten der Teilnehmer durch die Konferenzplattformen ebenfalls zu Sicherheitszwecken oder Serviceoptimierung verarbeitet werden. Zu den verarbeiteten Daten gehören Daten zur Person (Vorname, Nachname), Kontaktinformationen (E-Mail-Adresse, Telefonnummer), Zugangsdaten (Zugangscodes oder Passwörter), Profilbilder, Angaben zur beruflichen Stellung/Funktion, die IP-Adresse des Internetzugangs, Angaben zu den Endgeräten der Teilnehmer, deren Betriebssystem, dem Browser und dessen technischen und sprachlichen Einstellungen, Informationen zu den inhaltlichen Kommunikationsvorgängen, d. h. Eingaben in Chats sowie Audio- und Videodaten, als auch die Nutzung anderer zur Verfügung stehender Funktionen (z. B. Umfragen). Inhalte der Kommunikationen werden in dem durch die Konferenzanbieter technisch bereitgestellten Umfang verschlüsselt. Wenn die Teilnehmer bei den Konferenzplattformen als Benutzer registriert sind, dann können weitere Daten entsprechend der Vereinbarung mit dem jeweiligen Konferenzanbieter verarbeitet werden.
+
+**Protokollierung und Aufnahmen:** Falls Texteingaben, Teilnahmeergebnisse (z. B. von Umfragen) sowie Video- oder Audioaufnahmen protokolliert werden, wird dies den Teilnehmern im Vorwege transparent mitgeteilt und sie werden – soweit erforderlich – um eine Zustimmung gebeten.
+
+**Datenschutzmaßnahmen der Teilnehmer:** Bitte beachten Sie zu den Details der Verarbeitung Ihrer Daten durch die Konferenzplattformen deren Datenschutzhinweise und wählen im Rahmen der Einstellungen der Konferenzplattformen, die für Sie optimalen Sicherheits- und Datenschutzeinstellungen. Bitte sorgen Sie ferner für die Dauer einer Videokonferenz für den Daten- und Persönlichkeitsschutz im Hintergrund Ihrer Aufnahme (z. B. durch Hinweise an Mitbewohner, Abschließen von Türen und Nutzung, soweit technisch möglich, der Funktion zur Unkenntlichmachung des Hintergrunds). Links zu den Konferenzräumen sowie Zugangsdaten, dürfen nicht an unberechtigte Dritte weitergegeben werden.
+
+**Hinweise zu Rechtsgrundlagen:** Sofern neben den Konferenzplattformen auch wir die Daten der Nutzer verarbeiten und die Nutzer um deren Einwilligung in den Einsatz der Konferenzplattformen oder bestimmter Funktionen bitten (z. B. Einverständnis mit einer Aufzeichnung von Konferenzen), ist die Rechtsgrundlage der Verarbeitung diese Einwilligung. Ferner kann unsere Verarbeitung zur Erfüllung unserer vertraglichen Pflichten erforderlich sein (z. B. in Teilnehmerlisten, im Fall von Aufarbeitung von Gesprächsergebnissen, etc.). Im Übrigen werden die Daten der Nutzer auf Grundlage unserer berechtigten Interessen an einer effizienten und sicheren Kommunikation mit unseren Kommunikationspartnern verarbeitet.
+
+*   **Verarbeitete Datenarten:** Bestandsdaten (z. B. der vollständige Name, Wohnadresse, Kontaktinformationen, Kundennummer, etc.); Kontaktdaten (z. B. Post- und E-Mail-Adressen oder Telefonnummern); Inhaltsdaten (z. B. textliche oder bildliche Nachrichten und Beiträge sowie die sie betreffenden Informationen, wie z. B. Angaben zur Autorenschaft oder Zeitpunkt der Erstellung); Nutzungsdaten (z. B. Seitenaufrufe und Verweildauer, Klickpfade, Nutzungsintensität und -frequenz, verwendete Gerätetypen und Betriebssysteme, Interaktionen mit Inhalten und Funktionen); Bild- und/ oder Videoaufnahmen (z. B. Fotografien oder Videoaufnahmen einer Person); Tonaufnahmen. Protokolldaten (z. B. Logfiles betreffend Logins oder den Abruf von Daten oder Zugriffszeiten.).
+*   **Betroffene Personen:** Kommunikationspartner; Nutzer (z. B. Webseitenbesucher, Nutzer von Onlinediensten). Abgebildete Personen.
+*   **Zwecke der Verarbeitung:** Erbringung vertraglicher Leistungen und Erfüllung vertraglicher Pflichten; Kommunikation. Büro- und Organisationsverfahren.
+*   **Aufbewahrung und Löschung:** Löschung entsprechend Angaben im Abschnitt "Allgemeine Informationen zur Datenspeicherung und Löschung".
+*   **Rechtsgrundlagen:** Berechtigte Interessen (Art. 6 Abs. 1 S. 1 lit. f) DSGVO).
+
+**Weitere Hinweise zu Verarbeitungsprozessen, Verfahren und Diensten:**
+
+*   **Discord:** Chat, Audio- und Videoübertragungen, Instant Messaging und Community-Management; **Dienstanbieter:** Discord, Inc., 444 De Haro St, Suite 200, San Francisco, California 94107, USA; **Rechtsgrundlagen:** Berechtigte Interessen (Art. 6 Abs. 1 S. 1 lit. f) DSGVO); **Website:** [https://discord.com/](https://discord.com/); **Datenschutzerklärung:** [https://discord.com/privacy](https://discord.com/privacy). **Grundlage Drittlandtransfers:** Data Privacy Framework (DPF).
+*   **Microsoft Teams:** Audio- und Videokonferenzen, Chat, Dateifreigabe, Integration mit Office 365-Anwendungen, Echtzeit-Zusammenarbeit an Dokumenten, Kalenderfunktionen, Aufgabenverwaltung, Bildschirmfreigabe, optionale Aufzeichnung; **Dienstanbieter:** Microsoft Irland Operations Limited, One Microsoft Place, South County Business Park, Leopardstown, Dublin 18, D18 P521, Irland; **Rechtsgrundlagen:** Berechtigte Interessen (Art. 6 Abs. 1 S. 1 lit. f) DSGVO); **Website:** [https://www.microsoft.com/de-de/microsoft-teams/](https://www.microsoft.com/de-de/microsoft-teams/); **Datenschutzerklärung:** [https://privacy.microsoft.com/de-de/privacystatement](https://privacy.microsoft.com/de-de/privacystatement), Sicherheitshinweise: [https://www.microsoft.com/de-de/trustcenter](https://www.microsoft.com/de-de/trustcenter). **Grundlage Drittlandtransfers:** Data Privacy Framework (DPF).
+*   **Slack:** Messenger- und Konferenz-Software; **Dienstanbieter:** Slack Technologies Limited, Level 1, Block A Nova Atria North, Sandyford Business District, Dublin 18, Irland; **Rechtsgrundlagen:** Berechtigte Interessen (Art. 6 Abs. 1 S. 1 lit. f) DSGVO); **Website:** [https://slack.com/intl/de-de/](https://slack.com/intl/de-de/); **Datenschutzerklärung:** [https://slack.com/intl/de-de/legal](https://slack.com/intl/de-de/legal); **Auftragsverarbeitungsvertrag:** [https://slack.com/intl/de-de/terms-of-service/data-processing](https://slack.com/intl/de-de/terms-of-service/data-processing). **Grundlage Drittlandtransfers:** Data Privacy Framework (DPF).
+*   **Zoom:** Videokonferenzen, Online-Meetings, Webinare, Bildschirmfreigabe, optionale Aufzeichnung von Sitzungen, Chat-Funktion, Integration mit Kalendern und anderen Apps; **Dienstanbieter:** Zoom Video Communications, Inc., 55 Almaden Blvd., Suite 600, San Jose, CA 95113, USA; **Rechtsgrundlagen:** Berechtigte Interessen (Art. 6 Abs. 1 S. 1 lit. f) DSGVO); **Website:** [https://zoom.us](https://zoom.us); **Datenschutzerklärung:** [https://explore.zoom.us/de/privacy/](https://explore.zoom.us/de/privacy/); **Auftragsverarbeitungsvertrag:** [https://explore.zoom.us/docs/doc/Zoom\_GLOBAL\_DPA.pdf](https://explore.zoom.us/docs/doc/Zoom_GLOBAL_DPA.pdf). **Grundlage Drittlandtransfers:** Data Privacy Framework (DPF).
+*   **Nextcloud (Hosting auf eigenem Server):** Cloud-Speicher-Dienst, bei dem der Betrieb und die Speicherung der verarbeiteten Daten auf einem von uns verwalteten Server erfolgen; **Dienstanbieter:** Nextcloud GmbH, Hauptmannsreute 44a, 70192 Stuttgart, Deutschland; **Rechtsgrundlagen:** Berechtigte Interessen (Art. 6 Abs. 1 S. 1 lit. f) DSGVO); **Website:** [https://nextcloud.com/de/](https://nextcloud.com/de/). **Datenschutzerklärung:** [https://nextcloud.com/de/privacy/](https://nextcloud.com/de/privacy/).
+
+### Audioinhalte {#m296}
+
+Wir nutzen Hosting-Angebote von Dienstanbietern, um unsere Audio-Inhalte zum Anhören und zum Download anzubieten. Dabei setzen wir Plattformen ein, die das Hochladen, Speichern und Verbreiten von Audio-Material ermöglichen.
+
+*   **Verarbeitete Datenarten:** Nutzungsdaten (z. B. Seitenaufrufe und Verweildauer, Klickpfade, Nutzungsintensität und -frequenz, verwendete Gerätetypen und Betriebssysteme, Interaktionen mit Inhalten und Funktionen); Meta-, Kommunikations- und Verfahrensdaten (z. B. IP-Adressen, Zeitangaben, Identifikationsnummern, beteiligte Personen). Protokolldaten (z. B. Logfiles betreffend Logins oder den Abruf von Daten oder Zugriffszeiten.).
+*   **Betroffene Personen:** Nutzer (z. B. Webseitenbesucher, Nutzer von Onlinediensten).
+*   **Zwecke der Verarbeitung:** Reichweitenmessung (z. B. Zugriffsstatistiken, Erkennung wiederkehrender Besucher); Konversionsmessung (Messung der Effektivität von Marketingmaßnahmen); Profile mit nutzerbezogenen Informationen (Erstellen von Nutzerprofilen). Bereitstellung unseres Onlineangebotes und Nutzerfreundlichkeit.
+*   **Aufbewahrung und Löschung:** Löschung entsprechend Angaben im Abschnitt "Allgemeine Informationen zur Datenspeicherung und Löschung".
+*   **Rechtsgrundlagen:** Berechtigte Interessen (Art. 6 Abs. 1 S. 1 lit. f) DSGVO).
+
+**Weitere Hinweise zu Verarbeitungsprozessen, Verfahren und Diensten:**
+
+*   **Podlove Podcast Publisher:** Publikation von Podcasts; **Dienstanbieter:** Ausführung auf Servern und/oder Computern unter eigener datenschutzrechtlichen Verantwortlichkeit; **Rechtsgrundlagen:** Berechtigte Interessen (Art. 6 Abs. 1 S. 1 lit. f) DSGVO). **Website:** [https://podlove.org/](https://podlove.org/).
+*   **Soundcloud:** Soundcloud - Musikhosting; **Dienstanbieter:** SoundCloud Limited, Rheinsberger Str. 76/77, 10115 Berlin, Deutschland; **Rechtsgrundlagen:** Berechtigte Interessen (Art. 6 Abs. 1 S. 1 lit. f) DSGVO); **Website:** [https://soundcloud.com](https://soundcloud.com). **Datenschutzerklärung:** [https://soundcloud.com/pages/privacy](https://soundcloud.com/pages/privacy).
+*   **Spotify:** Podcast-Hosting, Veröffentlichung und Verwaltung von Podcast-Inhalten, Analyse von Hörverhalten und Statistiken, Monetarisierungsoptionen für Podcaster; **Dienstanbieter:** Spotify AB, Regeringsgatan 19, SE-111 53 Stockholm, Schweden; **Rechtsgrundlagen:** Berechtigte Interessen (Art. 6 Abs. 1 S. 1 lit. f) DSGVO); **Website:** [https://podcasters.spotify.com/](https://podcasters.spotify.com/). **Datenschutzerklärung:** [https://www.spotify.com/de/legal/privacy-policy/](https://www.spotify.com/de/legal/privacy-policy/).
+
+### Cloud-Dienste {#m29}
+
+Wir nutzen über das Internet zugängliche und auf den Servern ihrer Anbieter ausgeführte Softwaredienste (sogenannte "Cloud-Dienste", auch bezeichnet als "Software as a Service") für die Speicherung und Verwaltung von Inhalten (z. B. Dokumentenspeicherung und -verwaltung, Austausch von Dokumenten, Inhalten und Informationen mit bestimmten Empfängern oder Veröffentlichung von Inhalten und Informationen).
+
+In diesem Rahmen können personenbezogenen Daten verarbeitet und auf den Servern der Anbieter gespeichert werden, soweit diese Bestandteil von Kommunikationsvorgängen mit uns sind oder von uns sonst, wie im Rahmen dieser Datenschutzerklärung dargelegt, verarbeitet werden. Zu diesen Daten können insbesondere Stammdaten und Kontaktdaten der Nutzer, Daten zu Vorgängen, Verträgen, sonstigen Prozessen und deren Inhalte gehören. Die Anbieter der Cloud-Dienste verarbeiten ferner Nutzungsdaten und Metadaten, die von ihnen zu Sicherheitszwecken und zur Serviceoptimierung verwendet werden.
+
+Sofern wir mit Hilfe der Cloud-Dienste für andere Nutzer oder öffentlich zugängliche Webseiten Formulare o.a. Dokumente und Inhalte bereitstellen, können die Anbieter Cookies auf den Geräten der Nutzer für Zwecke der Webanalyse oder, um sich Einstellungen der Nutzer (z. B. im Fall der Mediensteuerung) zu merken, speichern.
+
+*   **Verarbeitete Datenarten:** Bestandsdaten (z. B. der vollständige Name, Wohnadresse, Kontaktinformationen, Kundennummer, etc.); Kontaktdaten (z. B. Post- und E-Mail-Adressen oder Telefonnummern); Inhaltsdaten (z. B. textliche oder bildliche Nachrichten und Beiträge sowie die sie betreffenden Informationen, wie z. B. Angaben zur Autorenschaft oder Zeitpunkt der Erstellung). Nutzungsdaten (z. B. Seitenaufrufe und Verweildauer, Klickpfade, Nutzungsintensität und -frequenz, verwendete Gerätetypen und Betriebssysteme, Interaktionen mit Inhalten und Funktionen).
+*   **Betroffene Personen:** Interessenten; Kommunikationspartner. Geschäfts- und Vertragspartner.
+*   **Zwecke der Verarbeitung:** Büro- und Organisationsverfahren. Informationstechnische Infrastruktur (Betrieb und Bereitstellung von Informationssystemen und technischen Geräten (Computer, Server etc.).).
+*   **Aufbewahrung und Löschung:** Löschung entsprechend Angaben im Abschnitt "Allgemeine Informationen zur Datenspeicherung und Löschung".
+*   **Rechtsgrundlagen:** Berechtigte Interessen (Art. 6 Abs. 1 S. 1 lit. f) DSGVO).
+
+**Weitere Hinweise zu Verarbeitungsprozessen, Verfahren und Diensten:**
+
+*   **Nextcloud (Hosting auf eigenem Server):** Cloud-Speicher-Dienst, bei dem der Betrieb und die Speicherung der verarbeiteten Daten auf einem von uns verwalteten Server erfolgen; **Dienstanbieter:** Nextcloud GmbH, Hauptmannsreute 44a, 70192 Stuttgart, Deutschland; **Rechtsgrundlagen:** Berechtigte Interessen (Art. 6 Abs. 1 S. 1 lit. f) DSGVO); **Website:** [https://nextcloud.com/de/](https://nextcloud.com/de/). **Datenschutzerklärung:** [https://nextcloud.com/de/privacy/](https://nextcloud.com/de/privacy/).
+
+### Umfragen und Befragungen {#m408}
+
+Wir führen Umfragen und Befragungen durch, um Informationen für den jeweils kommunizierten Umfrage- bzw. Befragungszweck, zu sammeln. Die von uns durchgeführten Umfragen und Befragungen (nachfolgend "Befragungen") werden anonym ausgewertet. Eine Verarbeitung personenbezogener Daten erfolgt nur insoweit, als dies zu Bereitstellung und technischen Durchführung der Umfragen erforderlich ist (z. B. Verarbeitung der IP-Adresse, um die Umfrage im Browser des Nutzers darzustellen oder mithilfe eines Cookies eine Wiederaufnahme der Umfrage zu ermöglichen).
+
+*   **Verarbeitete Datenarten:** Bestandsdaten (z. B. der vollständige Name, Wohnadresse, Kontaktinformationen, Kundennummer, etc.); Kontaktdaten (z. B. Post- und E-Mail-Adressen oder Telefonnummern); Inhaltsdaten (z. B. textliche oder bildliche Nachrichten und Beiträge sowie die sie betreffenden Informationen, wie z. B. Angaben zur Autorenschaft oder Zeitpunkt der Erstellung); Nutzungsdaten (z. B. Seitenaufrufe und Verweildauer, Klickpfade, Nutzungsintensität und -frequenz, verwendete Gerätetypen und Betriebssysteme, Interaktionen mit Inhalten und Funktionen). Meta-, Kommunikations- und Verfahrensdaten (z. B. IP-Adressen, Zeitangaben, Identifikationsnummern, beteiligte Personen).
+*   **Betroffene Personen:** Teilnehmer; Beschäftigte (z. B. Angestellte, Bewerber, Aushilfskräfte und sonstige Mitarbeiter); Kommunikationspartner. Geschäfts- und Vertragspartner.
+*   **Zwecke der Verarbeitung:** Feedback (z. B. Sammeln von Feedback via Online-Formular). Umfragen und Fragebögen (z. B. Umfragen mit Eingabemöglichkeiten, Multiple-Choice-Fragen).
+*   **Aufbewahrung und Löschung:** Löschung entsprechend Angaben im Abschnitt "Allgemeine Informationen zur Datenspeicherung und Löschung".
+*   **Rechtsgrundlagen:** Berechtigte Interessen (Art. 6 Abs. 1 S. 1 lit. f) DSGVO).
+
+**Weitere Hinweise zu Verarbeitungsprozessen, Verfahren und Diensten:**
+
+*   **Mentimeter:** Creation of presentations and meetings with real-time feedback; **Dienstanbieter:** Mentimeter AB, Alströmergatan 22 SE-112 47 Stockholm, Schweden; **Rechtsgrundlagen:** Berechtigte Interessen (Art. 6 Abs. 1 S. 1 lit. f) DSGVO); **Website:** [https://www.mentimeter.com](https://www.mentimeter.com). **Datenschutzerklärung:** [https://www.mentimeter.com/trust/legal/privacy-policy](https://www.mentimeter.com/trust/legal/privacy-policy).
+
+### Präsenzen in sozialen Netzwerken (Social Media) {#m136}
+
+Wir unterhalten Onlinepräsenzen innerhalb sozialer Netzwerke und verarbeiten in diesem Rahmen Nutzerdaten, um mit den dort aktiven Nutzern zu kommunizieren oder Informationen über uns anzubieten.
+
+Wir weisen darauf hin, dass dabei Nutzerdaten außerhalb des Raumes der Europäischen Union verarbeitet werden können. Hierdurch können sich für die Nutzer Risiken ergeben, weil so zum Beispiel die Durchsetzung der Nutzerrechte erschwert werden könnte.
+
+Ferner werden die Daten der Nutzer innerhalb sozialer Netzwerke im Regelfall für Marktforschungs- und Werbezwecke verarbeitet. So können beispielsweise anhand des Nutzungsverhaltens und sich daraus ergebender Interessen der Nutzer Nutzungsprofile erstellt werden. Letztere finden möglicherweise wiederum Verwendung, um etwa Werbeanzeigen innerhalb und außerhalb der Netzwerke zu schalten, die mutmaßlich den Interessen der Nutzer entsprechen. Daher werden im Regelfall Cookies auf den Rechnern der Nutzer gespeichert, in denen das Nutzungsverhalten und die Interessen der Nutzer gespeichert werden. Zudem können in den Nutzungsprofilen auch Daten unabhängig der von den Nutzern verwendeten Geräten gespeichert werden (insbesondere, wenn sie Mitglieder der jeweiligen Plattformen und dort eingeloggt sind).
+
+Für eine detaillierte Darstellung der jeweiligen Verarbeitungsformen und der Widerspruchsmöglichkeiten (Opt-out) verweisen wir auf die Datenschutzerklärungen und Angaben der Betreiber der jeweiligen Netzwerke.
+
+Auch im Fall von Auskunftsanfragen und der Geltendmachung von Betroffenenrechten weisen wir darauf hin, dass diese am effektivsten bei den Anbietern geltend gemacht werden können. Nur Letztere haben jeweils Zugriff auf die Nutzerdaten und können direkt entsprechende Maßnahmen ergreifen und Auskünfte geben. Sollten Sie dennoch Hilfe benötigen, dann können Sie sich an uns wenden.
+
+*   **Verarbeitete Datenarten:** Kontaktdaten (z. B. Post- und E-Mail-Adressen oder Telefonnummern); Inhaltsdaten (z. B. textliche oder bildliche Nachrichten und Beiträge sowie die sie betreffenden Informationen, wie z. B. Angaben zur Autorenschaft oder Zeitpunkt der Erstellung); Nutzungsdaten (z. B. Seitenaufrufe und Verweildauer, Klickpfade, Nutzungsintensität und -frequenz, verwendete Gerätetypen und Betriebssysteme, Interaktionen mit Inhalten und Funktionen); Bestandsdaten (z. B. der vollständige Name, Wohnadresse, Kontaktinformationen, Kundennummer, etc.). Meta-, Kommunikations- und Verfahrensdaten (z. B. IP-Adressen, Zeitangaben, Identifikationsnummern, beteiligte Personen).
+*   **Betroffene Personen:** Nutzer (z. B. Webseitenbesucher, Nutzer von Onlinediensten); Geschäfts- und Vertragspartner. Kommunikationspartner.
+*   **Zwecke der Verarbeitung:** Kommunikation; Feedback (z. B. Sammeln von Feedback via Online-Formular); Öffentlichkeitsarbeit; Bereitstellung unseres Onlineangebotes und Nutzerfreundlichkeit; Informationstechnische Infrastruktur (Betrieb und Bereitstellung von Informationssystemen und technischen Geräten (Computer, Server etc.).); Öffentlichkeitsarbeit und Informationszwecke. Direktmarketing (z. B. per E-Mail oder postalisch).
+*   **Aufbewahrung und Löschung:** Löschung entsprechend Angaben im Abschnitt "Allgemeine Informationen zur Datenspeicherung und Löschung".
+*   **Rechtsgrundlagen:** Berechtigte Interessen (Art. 6 Abs. 1 S. 1 lit. f) DSGVO).
+
+**Weitere Hinweise zu Verarbeitungsprozessen, Verfahren und Diensten:**
+
+*   **Bluesky:** Dezentralisiertes Social-Media-Netzwerk - ermöglicht das Erstellen, Teilen und Kommentieren von Inhalten sowie das Folgen von Nutzerprofilen; **Dienstanbieter:** Bluesky, PBLLC., Seattle, USA, [support@bsky.app](mailto:support@bsky.app); **Rechtsgrundlagen:** Berechtigte Interessen (Art. 6 Abs. 1 S. 1 lit. f) DSGVO); **Website:** [https://bsky.social/](https://bsky.social/). **Datenschutzerklärung:** [https://bsky.social/about/support/privacy-policy](https://bsky.social/about/support/privacy-policy).
+*   **LinkedIn:** Soziales Netzwerk - Wir sind gemeinsam mit LinkedIn Irland Unlimited Company für die Erhebung (jedoch nicht die weitere Verarbeitung) von Daten der Besucher verantwortlich, die zur Erstellung der „Page-Insights" (Statistiken) unserer LinkedIn-Profile genutzt werden. Zu diesen Daten gehören Informationen über die Arten von Inhalten, die Nutzer sich ansehen oder mit denen sie interagieren, sowie die von ihnen vorgenommenen Handlungen. Außerdem werden Details über die genutzten Geräte erfasst, wie z. B. IP-Adressen, Betriebssystem, Browsertyp, Spracheinstellungen und Cookie-Daten, sowie Angaben aus den Nutzerprofilen, wie Berufsfunktion, Land, Branche, Hierarchieebene, Unternehmensgröße und Beschäftigungsstatus. Datenschutzinformationen zur Verarbeitung von Nutzerdaten durch LinkedIn können den Datenschutzhinweisen von LinkedIn entnommen werden: [https://www.linkedin.com/legal/privacy-policy.](https://www.linkedin.com/legal/privacy-policy)  
+    Wir haben mit LinkedIn Irland eine spezielle Vereinbarung geschlossen („Page Insights Joint Controller Addendum", [https://legal.linkedin.com/pages-joint-controller-addendum](https://legal.linkedin.com/pages-joint-controller-addendum)), in der insbesondere geregelt wird, welche Sicherheitsmaßnahmen LinkedIn beachten muss und in der LinkedIn sich bereit erklärt hat, die Rechte der Betroffenen zu erfüllen (d. h. Nutzer können z. B. Auskunfts- oder Löschungsanfragen direkt an LinkedIn richten). Die Rechte der Nutzer (insbesondere das Recht auf Auskunft, Löschung, Widerspruch und Beschwerde bei der zuständigen Aufsichtsbehörde) werden durch die Vereinbarungen mit LinkedIn nicht eingeschränkt. Die gemeinsame Verantwortlichkeit beschränkt sich auf die Erhebung und Übermittlung der Daten an LinkedIn Irland Unlimited Company, ein Unternehmen mit Sitz in der EU. Die weitere Verarbeitung der Daten obliegt ausschließlich LinkedIn Irland Unlimited Company, insbesondere was die Übermittlung der Daten an die Muttergesellschaft LinkedIn Corporation in den USA betrifft; **Dienstanbieter:** LinkedIn Ireland Unlimited Company, Wilton Place, Dublin 2, Irland; **Rechtsgrundlagen:** Berechtigte Interessen (Art. 6 Abs. 1 S. 1 lit. f) DSGVO); **Website:** [https://www.linkedin.com](https://www.linkedin.com); **Datenschutzerklärung:** [https://www.linkedin.com/legal/privacy-policy](https://www.linkedin.com/legal/privacy-policy); **Grundlage Drittlandtransfers:** Data Privacy Framework (DPF). **Widerspruchsmöglichkeit (Opt-Out):** [https://www.linkedin.com/psettings/guest-controls/retargeting-opt-out](https://www.linkedin.com/psettings/guest-controls/retargeting-opt-out).
+*   **Threads:** Soziales Netzwerk; **Dienstanbieter:** Meta Platforms Ireland Limited, Merrion Road, Dublin 4, D04 X2K5, Irland; **Rechtsgrundlagen:** Berechtigte Interessen (Art. 6 Abs. 1 S. 1 lit. f) DSGVO); **Website:** [https://www.threads.net/](https://www.threads.net/). **Datenschutzerklärung:** [https://help.instagram.com/515230437301944](https://help.instagram.com/515230437301944).
+*   **X:** Soziales Netzwerk; **Dienstanbieter:** Twitter International Company, One Cumberland Place, Fenian Street, Dublin 2 D02 AX07, Irland; **Rechtsgrundlagen:** Berechtigte Interessen (Art. 6 Abs. 1 S. 1 lit. f) DSGVO); **Website:** [https://x.com](https://x.com). **Datenschutzerklärung:** [https://x.com/de/privacy](https://x.com/de/privacy).
+*   **YouTube:** Soziales Netzwerk und Videoplattform; **Dienstanbieter:** Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Irland; **Rechtsgrundlagen:** Berechtigte Interessen (Art. 6 Abs. 1 S. 1 lit. f) DSGVO); **Datenschutzerklärung:** [https://policies.google.com/privacy](https://policies.google.com/privacy); **Grundlage Drittlandtransfers:** Data Privacy Framework (DPF). **Widerspruchsmöglichkeit (Opt-Out):** [https://myadcenter.google.com/personalizationoff](https://myadcenter.google.com/personalizationoff).
+*   **GitHub:** Plattform für die Versionskontrolle von Softwareprojekten. Entwickler können ihren Code in Repositories hochladen und Änderungen verfolgen sowie Tools zur Projektverwaltung in der Softwareentwicklung nutzen; **Dienstanbieter:** GitHub B.V., Niederlande, [https://support.github.com/contact/privacy](https://support.github.com/contact/privacy); **Rechtsgrundlagen:** Berechtigte Interessen (Art. 6 Abs. 1 S. 1 lit. f) DSGVO); **Website:** [https://github.com](https://github.com). **Datenschutzerklärung:** [https://docs.github.com/de/site-policy/privacy-policies/github-general-privacy-statement](https://docs.github.com/de/site-policy/privacy-policies/github-general-privacy-statement).
+*   **Signal:** Signal Messenger mit Ende-zu-Ende-Verschlüsselung; **Dienstanbieter:** Privacy Signal Messenger, LLC 650 Castro Street, Suite 120-223 Mountain View, CA 94041, USA; **Rechtsgrundlagen:** Berechtigte Interessen (Art. 6 Abs. 1 S. 1 lit. f) DSGVO); **Website:** [https://signal.org/de/](https://signal.org/de/). **Datenschutzerklärung:** [https://signal.org/legal/](https://signal.org/legal/).
+
+### Plug-ins und eingebettete Funktionen sowie Inhalte {#m328}
+
+Wir binden Funktions- und Inhaltselemente in unser Onlineangebot ein, die von den Servern ihrer jeweiligen Anbieter (nachfolgend als „Drittanbieter" bezeichnet) bezogen werden. Dabei kann es sich zum Beispiel um Grafiken, Videos oder Stadtpläne handeln (nachfolgend einheitlich als „Inhalte" bezeichnet).
+
+Die Einbindung setzt immer voraus, dass die Drittanbieter dieser Inhalte die IP-Adresse der Nutzer verarbeiten, da sie ohne IP-Adresse die Inhalte nicht an deren Browser senden könnten. Die IP-Adresse ist damit für die Darstellung dieser Inhalte oder Funktionen erforderlich. Wir bemühen uns, nur solche Inhalte zu verwenden, deren jeweilige Anbieter die IP-Adresse lediglich zur Auslieferung der Inhalte anzuwenden. Drittanbieter können ferner sogenannte Pixel-Tags (unsichtbare Grafiken, auch als „Web Beacons" bezeichnet) für statistische oder Marketingzwecke einsetzen. Durch die „Pixel-Tags" können Informationen, wie etwa der Besucherverkehr auf den Seiten dieser Website, ausgewertet werden. Die pseudonymen Informationen können darüber hinaus in Cookies auf dem Gerät der Nutzer gespeichert werden und unter anderem technische Auskünfte zum Browser und zum Betriebssystem, zu verweisenden Websites, zur Besuchszeit sowie weitere Angaben zur Nutzung unseres Onlineangebots enthalten, aber auch mit solchen Informationen aus anderen Quellen verbunden werden.
+
+**Hinweise zu Rechtsgrundlagen:** Sofern wir die Nutzer um ihre Einwilligung in den Einsatz der Drittanbieter bitten, stellt die Rechtsgrundlage der Datenverarbeitung die Erlaubnis dar. Ansonsten werden die Nutzerdaten auf Grundlage unserer berechtigten Interessen (d. h. Interesse an effizienten, wirtschaftlichen und empfängerfreundlichen Leistungen) verarbeitet. In diesem Zusammenhang möchten wir Sie auch auf die Informationen zur Verwendung von Cookies in dieser Datenschutzerklärung hinweisen.
+
+*   **Verarbeitete Datenarten:** Nutzungsdaten (z. B. Seitenaufrufe und Verweildauer, Klickpfade, Nutzungsintensität und -frequenz, verwendete Gerätetypen und Betriebssysteme, Interaktionen mit Inhalten und Funktionen); Meta-, Kommunikations- und Verfahrensdaten (z. B. IP-Adressen, Zeitangaben, Identifikationsnummern, beteiligte Personen); Standortdaten (Angaben zur geografischen Position eines Gerätes oder einer Person); Kontaktdaten (z. B. Post- und E-Mail-Adressen oder Telefonnummern); Inhaltsdaten (z. B. textliche oder bildliche Nachrichten und Beiträge sowie die sie betreffenden Informationen, wie z. B. Angaben zur Autorenschaft oder Zeitpunkt der Erstellung); Bestandsdaten (z. B. der vollständige Name, Wohnadresse, Kontaktinformationen, Kundennummer, etc.); Zahlungsdaten (z. B. Bankverbindungen, Rechnungen, Zahlungshistorie). Vertragsdaten (z. B. Vertragsgegenstand, Laufzeit, Kundenkategorie).
+*   **Betroffene Personen:** Nutzer (z. B. Webseitenbesucher, Nutzer von Onlinediensten). Leistungsempfänger und Auftraggeber.
+*   **Zwecke der Verarbeitung:** Bereitstellung unseres Onlineangebotes und Nutzerfreundlichkeit; Reichweitenmessung (z. B. Zugriffsstatistiken, Erkennung wiederkehrender Besucher); Tracking (z. B. interessens-/verhaltensbezogenes Profiling, Nutzung von Cookies); Zielgruppenbildung; Marketing; Profile mit nutzerbezogenen Informationen (Erstellen von Nutzerprofilen); Feedback (z. B. Sammeln von Feedback via Online-Formular); Konversionsmessung (Messung der Effektivität von Marketingmaßnahmen); Erbringung vertraglicher Leistungen und Erfüllung vertraglicher Pflichten. Büro- und Organisationsverfahren.
+*   **Aufbewahrung und Löschung:** Löschung entsprechend Angaben im Abschnitt "Allgemeine Informationen zur Datenspeicherung und Löschung". Speicherung von Cookies von bis zu 2 Jahren (Sofern nicht anders angegeben, können Cookies und ähnliche Speichermethoden für einen Zeitraum von zwei Jahren auf den Geräten der Nutzer gespeichert werden.).
+*   **Rechtsgrundlagen:** Einwilligung (Art. 6 Abs. 1 S. 1 lit. a) DSGVO). Berechtigte Interessen (Art. 6 Abs. 1 S. 1 lit. f) DSGVO).
+
+**Weitere Hinweise zu Verarbeitungsprozessen, Verfahren und Diensten:**
+
+*   **Einbindung von Drittsoftware, Skripten oder Frameworks (z. B. jQuery):** Wir binden in unser Onlineangebot Software ein, die wir von Servern anderer Anbieter abrufen (z. B. Funktions-Bibliotheken, die wir zwecks Darstellung oder Nutzerfreundlichkeit unseres Onlineangebotes verwenden). Hierbei erheben die jeweiligen Anbieter die IP-Adresse der Nutzer und können diese zu Zwecken der Übermittlung der Software an den Browser der Nutzer sowie zu Zwecken der Sicherheit, als auch zur Auswertung und Optimierung ihres Angebotes verarbeiten. - Wir binden in unser Onlineangebot Software ein, die wir von Servern anderer Anbieter abrufen (z. B. Funktions-Bibliotheken, die wir zwecks Darstellung oder Nutzerfreundlichkeit unseres Onlineangebotes verwenden). Hierbei erheben die jeweiligen Anbieter die IP-Adresse der Nutzer und können diese zu Zwecken der Übermittlung der Software an den Browser der Nutzer sowie zu Zwecken der Sicherheit, als auch zur Auswertung und Optimierung ihres Angebotes verarbeiten; **Rechtsgrundlagen:** Berechtigte Interessen (Art. 6 Abs. 1 S. 1 lit. f) DSGVO).
+*   **Google Fonts (Bereitstellung auf eigenem Server):** Bereitstellung von Schriftarten-Dateien zwecks einer nutzerfreundlichen Darstellung unseres Onlineangebotes; **Dienstanbieter:** Die Google Fonts werden auf unserem Server gehostet, es werden keine Daten an Google übermittelt; **Rechtsgrundlagen:** Berechtigte Interessen (Art. 6 Abs. 1 S. 1 lit. f) DSGVO).
+*   **Font Awesome (Bereitstellung auf eigenem Server):** Darstellung von Schriftarten und Symbolen; **Dienstanbieter:** Die Font Awesome Icons werden auf unserem Server gehostet, es werden keine Daten an den Anbieter von Font Awesome übermittelt; **Rechtsgrundlagen:** Berechtigte Interessen (Art. 6 Abs. 1 S. 1 lit. f) DSGVO).
+*   **Google Maps:** Wir binden die Landkarten des Dienstes "Google Maps" des Anbieters Google ein. Zu den verarbeiteten Daten können insbesondere IP-Adressen und Standortdaten der Nutzer gehören; **Dienstanbieter:** Google Cloud EMEA Limited, 70 Sir John Rogerson’s Quay, Dublin 2, Irland; **Rechtsgrundlagen:** Einwilligung (Art. 6 Abs. 1 S. 1 lit. a) DSGVO); **Website:** [https://mapsplatform.google.com/](https://mapsplatform.google.com/); **Datenschutzerklärung:** [https://policies.google.com/privacy](https://policies.google.com/privacy). **Grundlage Drittlandtransfers:** Data Privacy Framework (DPF).
+*   **Google Maps APIs und SDKs:** Schnittstellen zu den Karten- und Standortdiensten von Google, die z. B. eine Ergänzung von Adresseneingaben, Standortbestimmungen, Entfernungsberechnungen oder Bereitstellung von ergänzenden Informationen zu Stand- und sonstigen Orten erlauben; **Dienstanbieter:** Google Cloud EMEA Limited, 70 Sir John Rogerson’s Quay, Dublin 2, Irland; **Rechtsgrundlagen:** Einwilligung (Art. 6 Abs. 1 S. 1 lit. a) DSGVO); **Website:** [https://mapsplatform.google.com/](https://mapsplatform.google.com/); **Datenschutzerklärung:** [https://policies.google.com/privacy](https://policies.google.com/privacy). **Grundlage Drittlandtransfers:** Data Privacy Framework (DPF).
+*   **Instagram-Plugins und -Inhalte:** Instagram Plugins und -Inhalte - Hierzu können z. B. Inhalte wie Bilder, Videos oder Texte und Schaltflächen gehören, mit denen Nutzer Inhalte dieses Onlineangebotes innerhalb von Instagram teilen können. - Wir sind gemeinsam mit Meta Platforms Ireland Limited für die Erhebung oder den Erhalt im Rahmen einer Übermittlung (jedoch nicht die weitere Verarbeitung) von "Event-Daten", die Facebook mittels Funktionen von Instagram (z. B. Einbettungsfunktionen für Inhalte), die auf unserem Onlineangebot ausgeführt werden, erhebt oder im Rahmen einer Übermittlung zu folgenden Zwecken erhält, gemeinsam verantwortlich: a) Anzeige von Inhalten sowie Werbeinformationen, die den mutmaßlichen Interessen der Nutzer entsprechen; b) Zustellung kommerzieller und transaktionsbezogener Nachrichten (z. B. Ansprache von Nutzern via Facebook-Messenger); c) Verbesserung der Anzeigenauslieferung und Personalisierung von Funktionen und Inhalten (z. B. Verbesserung der Erkennung, welche Inhalte oder Werbeinformationen mutmaßlich den Interessen der Nutzer entsprechen). Wir haben mit Facebook eine spezielle Vereinbarung abgeschlossen ("Zusatz für Verantwortliche", [https://www.facebook.com/legal/controller\_addendum](https://www.facebook.com/legal/controller_addendum)), in der insbesondere geregelt wird, welche Sicherheitsmaßnahmen Facebook beachten muss ([https://www.facebook.com/legal/terms/data\_security\_terms](https://www.facebook.com/legal/terms/data_security_terms)) und in der Facebook sich bereit erklärt hat die Betroffenenrechte zu erfüllen (d. h. Nutzer können z. B. Auskünfte oder Löschungsanfragen direkt an Facebook richten). Hinweis: Wenn Facebook uns Messwerte, Analysen und Berichte bereitstellt (die aggregiert sind, d. h. keine Angaben zu einzelnen Nutzern erhalten und für uns anonym sind), dann erfolgt diese Verarbeitung nicht im Rahmen der gemeinsamen Verantwortlichkeit, sondern auf Grundlage eines Auftragsverarbeitungsvertrages ("Datenverarbeitungsbedingungen ", [https://www.facebook.com/legal/terms/dataprocessing](https://www.facebook.com/legal/terms/dataprocessing)) , der "Datensicherheitsbedingungen" ([https://www.facebook.com/legal/terms/data\_security\_terms](https://www.facebook.com/legal/terms/data_security_terms)) sowie im Hinblick auf die Verarbeitung in den USA auf Grundlage von Standardvertragsklauseln ("Facebook-EU-Datenübermittlungszusatz, [https://www.facebook.com/legal/EU\_data\_transfer\_addendum](https://www.facebook.com/legal/EU_data_transfer_addendum)). Die Rechte der Nutzer (insbesondere auf Auskunft, Löschung, Widerspruch und Beschwerde bei zuständiger Aufsichtsbehörde), werden durch die Vereinbarungen mit Facebook nicht eingeschränkt; **Dienstanbieter:** Meta Platforms Ireland Limited, Merrion Road, Dublin 4, D04 X2K5, Irland; **Rechtsgrundlagen:** Berechtigte Interessen (Art. 6 Abs. 1 S. 1 lit. f) DSGVO); **Website:** [https://www.instagram.com](https://www.instagram.com). **Datenschutzerklärung:** [https://privacycenter.instagram.com/policy/](https://privacycenter.instagram.com/policy/).
+*   **LinkedIn-Plugins und -Inhalte:** LinkedIn-Plugins und -Inhalte- Hierzu können z. B. Inhalte wie Bilder, Videos oder Texte und Schaltflächen gehören, mit denen Nutzer Inhalte dieses Onlineangebotes innerhalb von LinkedIn teilen können; **Dienstanbieter:** LinkedIn Ireland Unlimited Company, Wilton Place, Dublin 2, Irland; **Rechtsgrundlagen:** Berechtigte Interessen (Art. 6 Abs. 1 S. 1 lit. f) DSGVO); **Website:** [https://www.linkedin.com](https://www.linkedin.com); **Datenschutzerklärung:** [https://www.linkedin.com/legal/privacy-policy](https://www.linkedin.com/legal/privacy-policy); **Auftragsverarbeitungsvertrag:** [https://legal.linkedin.com/dpa](https://legal.linkedin.com/dpa); **Grundlage Drittlandtransfers:** Data Privacy Framework (DPF). **Widerspruchsmöglichkeit (Opt-Out):** [https://www.linkedin.com/psettings/guest-controls/retargeting-opt-out](https://www.linkedin.com/psettings/guest-controls/retargeting-opt-out).
+*   **OpenStreetMap:** Wir binden die Landkarten des Dienstes "OpenStreetMap" ein, die auf Grundlage der Open Data Commons Open Database Lizenz (ODbL) durch die OpenStreetMap Foundation (OSMF) angeboten werden. Die Daten der Nutzer werden durch OpenStreetMap ausschließlich zu Zwecken der Darstellung der Kartenfunktionen und zur Zwischenspeicherung der gewählten Einstellungen verwendet. Zu diesen Daten können insbesondere IP-Adressen und Standortdaten der Nutzer gehören, die jedoch nicht ohne deren Einwilligung (im Regelfall im Rahmen der Einstellungen ihrer Endgeräte oder Browser vollzogen) erhoben werden; **Dienstanbieter:** OpenStreetMap Foundation (OSMF); **Rechtsgrundlagen:** Berechtigte Interessen (Art. 6 Abs. 1 S. 1 lit. f) DSGVO); **Website:** [https://www.openstreetmap.de](https://www.openstreetmap.de). **Datenschutzerklärung:** [https://osmfoundation.org/wiki/Privacy\_Policy](https://osmfoundation.org/wiki/Privacy_Policy).
+*   **Shariff:** Wir verwenden die datenschutzsicheren "Shariff"-Schaltflächen. "Shariff" wurde entwickelt, um mehr Privatsphäre im Netz zu ermöglichen und die üblichen "Share"-Buttons der sozialen Netzwerke zu ersetzen. Dabei stellt nicht der Browser der Nutzer, sondern der Server, auf dem sich dieses Onlineangebot befindet, eine Verbindung mit dem Server der jeweiligen Social-Media-Plattformen her und fragt z. B. die Anzahl von Likes ab. Der Nutzer bleibt anonym. Mehr Informationen zum Shariff-Projekt finden Sie bei den Entwicklern des Magazins c't: [https://www.heise.de/hintergrund/Ein-Shariff-fuer-mehr-Datenschutz-2467514.html](https://www.heise.de/hintergrund/Ein-Shariff-fuer-mehr-Datenschutz-2467514.html); **Dienstanbieter:** Heise Medien GmbH & Co. KG, Karl-Wiechert-Allee 10, 30625 Hannover, Deutschland; **Rechtsgrundlagen:** Berechtigte Interessen (Art. 6 Abs. 1 S. 1 lit. f) DSGVO); **Website:** [https://www.heise.de/ct/artikel/Shariff-Social-Media-Buttons-mit-Datenschutz-2467514.html](https://www.heise.de/ct/artikel/Shariff-Social-Media-Buttons-mit-Datenschutz-2467514.html). **Datenschutzerklärung:** [https://www.heise.de/Datenschutzerklaerung-der-Heise-Medien-GmbH-Co-KG-4860.html](https://www.heise.de/Datenschutzerklaerung-der-Heise-Medien-GmbH-Co-KG-4860.html).
+*   **X-Plugins und -Inhalte:** Plugins und -Schaltflächen der Plattform "X" - Hierzu können z. B. Inhalte wie Bilder, Videos oder Texte und Schaltflächen gehören, mit denen Nutzer Inhalte dieses Onlineangebotes innerhalb von X teilen können; **Dienstanbieter:** Twitter International Company, One Cumberland Place, Fenian Street, Dublin 2 D02 AX07, Irland; **Rechtsgrundlagen:** Berechtigte Interessen (Art. 6 Abs. 1 S. 1 lit. f) DSGVO); **Website:** [https://x.com/de](https://x.com/de); **Datenschutzerklärung:** [https://x.com/de/privacy](https://x.com/de/privacy), (Settings: [https://x.com/personalization](https://x.com/personalization)); **Auftragsverarbeitungsvertrag:** [https://privacy.x.com/en/for-our-partners/global-dpa](https://privacy.x.com/en/for-our-partners/global-dpa). **Grundlage Drittlandtransfers:** Standardvertragsklauseln ([https://privacy.x.com/en/for-our-partners/global-dpa](https://privacy.x.com/en/for-our-partners/global-dpa)).
+*   **YouTube-Videos:** Videoinhalte; **Dienstanbieter:** Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Irland; **Rechtsgrundlagen:** Einwilligung (Art. 6 Abs. 1 S. 1 lit. a) DSGVO); **Website:** [https://www.youtube.com](https://www.youtube.com); **Datenschutzerklärung:** [https://policies.google.com/privacy](https://policies.google.com/privacy); **Grundlage Drittlandtransfers:** Data Privacy Framework (DPF). **Widerspruchsmöglichkeit (Opt-Out):** Opt-Out-Plugin: [https://tools.google.com/dlpage/gaoptout?hl=de](https://tools.google.com/dlpage/gaoptout?hl=de), Einstellungen für die Darstellung von Werbeeinblendungen: [https://myadcenter.google.com/personalizationoff](https://myadcenter.google.com/personalizationoff).
+*   **YouTube-Videos:** Videoinhalte; YouTube-Videos werden über eine spezielle Domain (erkennbar an dem Bestandteil "youtube-nocookie") im sogenannten "Erweiterten Datenschutzmodus" eingebunden, wodurch keine Cookies zu Nutzeraktivitäten erhoben werden, um die Videowiedergabe zu personalisieren. Dennoch können Angaben zur Interaktion der Nutzer mit dem Video (z. B. Merken der letzten Wiedergabestelle), gespeichert werden; **Dienstanbieter:** Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Irland; **Rechtsgrundlagen:** Einwilligung (Art. 6 Abs. 1 S. 1 lit. a) DSGVO); **Website:** [https://www.youtube.com](https://www.youtube.com); **Datenschutzerklärung:** [https://policies.google.com/privacy](https://policies.google.com/privacy); **Grundlage Drittlandtransfers:** Data Privacy Framework (DPF). **Weitere Informationen:** [https://support.google.com/youtube/answer/171780?hl=de-DE#zippy=%2Cturn-on-privacy-enhanced-mode%2Cerweiterten-datenschutzmodus-aktivieren](https://support.google.com/youtube/answer/171780?hl=de-DE#zippy=%2Cturn-on-privacy-enhanced-mode%2Cerweiterten-datenschutzmodus-aktivieren).
+*   **Vimeo-Videoplayer:** Integration eines Videoplayers; **Dienstanbieter:** Vimeo Inc., Attention: Legal Department, 555 West 18th Street New York, New York 10011, USA; **Rechtsgrundlagen:** Berechtigte Interessen (Art. 6 Abs. 1 S. 1 lit. f) DSGVO); **Website:** [https://vimeo.com](https://vimeo.com); **Datenschutzerklärung:** [https://vimeo.com/privacy](https://vimeo.com/privacy); **Auftragsverarbeitungsvertrag:** [https://vimeo.com/enterpriseterms/dpa](https://vimeo.com/enterpriseterms/dpa). **Grundlage Drittlandtransfers:** Standardvertragsklauseln ([https://vimeo.com/enterpriseterms/dpa](https://vimeo.com/enterpriseterms/dpa)).
+*   **Soundcloud:** Soundcloud - Musikhosting; **Dienstanbieter:** SoundCloud Limited, Rheinsberger Str. 76/77, 10115 Berlin, Deutschland; **Rechtsgrundlagen:** Berechtigte Interessen (Art. 6 Abs. 1 S. 1 lit. f) DSGVO); **Website:** [https://soundcloud.com](https://soundcloud.com). **Datenschutzerklärung:** [https://soundcloud.com/pages/privacy](https://soundcloud.com/pages/privacy).
+*   **Apple App Store:** App- und Softwareverkaufsplattform; **Dienstanbieter:** Apple Inc., Infinite Loop, Cupertino, CA 95014, USA; **Rechtsgrundlagen:** Berechtigte Interessen (Art. 6 Abs. 1 S. 1 lit. f) DSGVO); **Website:** [https://www.apple.com/de/app-store/](https://www.apple.com/de/app-store/). **Datenschutzerklärung:** [https://www.apple.com/legal/privacy/de-ww/](https://www.apple.com/legal/privacy/de-ww/).
+*   **Apple Podcasts:** Podcast-Hosting und statistische Analyse der Podcastabrufe; **Dienstanbieter:** Apple Inc., Infinite Loop, Cupertino, CA 95014, USA; **Website:** [https://www.apple.com/de/apple-podcasts/](https://www.apple.com/de/apple-podcasts/). **Datenschutzerklärung:** [https://www.apple.com/de/legal/privacy/](https://www.apple.com/de/legal/privacy/).
+*   **Google Docs:** Online-Anwendung für Textverarbeitung, Dokumentenspeicherung, Zusammenarbeit und Austausch von Dokumenten; **Dienstanbieter:** Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Irland; **Rechtsgrundlagen:** Berechtigte Interessen (Art. 6 Abs. 1 S. 1 lit. f) DSGVO); **Website:** [https://www.google.de/docs/about/](https://www.google.de/docs/about/); **Datenschutzerklärung:** [https://cloud.google.com/privacy](https://cloud.google.com/privacy); **Auftragsverarbeitungsvertrag:** [https://cloud.google.com/terms/data-processing-addendum](https://cloud.google.com/terms/data-processing-addendum); **Grundlage Drittlandtransfers:** Data Privacy Framework (DPF). **Weitere Informationen:** [https://cloud.google.com/privacy](https://cloud.google.com/privacy).
+
+### Management, Organisation und Hilfswerkzeuge {#m723}
+
+Wir setzen Dienstleistungen, Plattformen und Software anderer Anbieter (nachfolgend bezeichnet als "Drittanbieter") zu Zwecken der Organisation, Verwaltung, Planung sowie Erbringung unserer Leistungen ein. Bei der Auswahl der Drittanbieter und ihrer Leistungen beachten wir die gesetzlichen Vorgaben.
+
+In diesem Rahmen können personenbezogenen Daten verarbeitet und auf den Servern der Drittanbieter gespeichert werden. Hiervon können diverse Daten betroffen sein, die wir entsprechend dieser Datenschutzerklärung verarbeiten. Zu diesen Daten können insbesondere Stammdaten und Kontaktdaten der Nutzer, Daten zu Vorgängen, Verträgen, sonstigen Prozessen und deren Inhalte gehören.
+
+Sofern Nutzer im Rahmen der Kommunikation, von Geschäfts- oder anderen Beziehungen mit uns auf die Drittanbieter bzw. deren Software oder Plattformen verwiesen werden, können die Drittanbieter Nutzungsdaten und Metadaten zu Sicherheitszwecken, zur Serviceoptimierung oder zu Marketingzwecken verarbeiten. Wir bitten daher darum, die Datenschutzhinweise der jeweiligen Drittanbieter zu beachten.
+
+*   **Verarbeitete Datenarten:** Inhaltsdaten (z. B. textliche oder bildliche Nachrichten und Beiträge sowie die sie betreffenden Informationen, wie z. B. Angaben zur Autorenschaft oder Zeitpunkt der Erstellung); Nutzungsdaten (z. B. Seitenaufrufe und Verweildauer, Klickpfade, Nutzungsintensität und -frequenz, verwendete Gerätetypen und Betriebssysteme, Interaktionen mit Inhalten und Funktionen); Meta-, Kommunikations- und Verfahrensdaten (z. B. IP-Adressen, Zeitangaben, Identifikationsnummern, beteiligte Personen). Bestandsdaten (z. B. der vollständige Name, Wohnadresse, Kontaktinformationen, Kundennummer, etc.).
+*   **Betroffene Personen:** Kommunikationspartner; Nutzer (z. B. Webseitenbesucher, Nutzer von Onlinediensten); Beschäftigte (z. B. Angestellte, Bewerber, Aushilfskräfte und sonstige Mitarbeiter). Geschäfts- und Vertragspartner.
+*   **Zwecke der Verarbeitung:** Erbringung vertraglicher Leistungen und Erfüllung vertraglicher Pflichten; Büro- und Organisationsverfahren; Feedback (z. B. Sammeln von Feedback via Online-Formular); Bereitstellung unseres Onlineangebotes und Nutzerfreundlichkeit. Informationstechnische Infrastruktur (Betrieb und Bereitstellung von Informationssystemen und technischen Geräten (Computer, Server etc.).).
+*   **Aufbewahrung und Löschung:** Löschung entsprechend Angaben im Abschnitt "Allgemeine Informationen zur Datenspeicherung und Löschung".
+*   **Rechtsgrundlagen:** Berechtigte Interessen (Art. 6 Abs. 1 S. 1 lit. f) DSGVO).
+
+**Weitere Hinweise zu Verarbeitungsprozessen, Verfahren und Diensten:**
+
+*   **Mentimeter:** Creation of presentations and meetings with real-time feedback; **Dienstanbieter:** Mentimeter AB, Alströmergatan 22 SE-112 47 Stockholm, Schweden; **Rechtsgrundlagen:** Berechtigte Interessen (Art. 6 Abs. 1 S. 1 lit. f) DSGVO); **Website:** [https://www.mentimeter.com](https://www.mentimeter.com). **Datenschutzerklärung:** [https://www.mentimeter.com/trust/legal/privacy-policy](https://www.mentimeter.com/trust/legal/privacy-policy).
+*   **Trello:** Projektmanagement-Tool; **Dienstanbieter:** Trello Inc., 55 Broadway New York, NY 10006, USA, Mutterunternehmen: Atlassian Inc. (San Francisco, Harrison Street Location), 1098 Harrison Street, San Francisco, California 94103, USA; **Rechtsgrundlagen:** Berechtigte Interessen (Art. 6 Abs. 1 S. 1 lit. f) DSGVO); **Website:** [https://trello.com/](https://trello.com/); **Datenschutzerklärung:** [https://trello.com/privacy](https://trello.com/privacy); **Grundlage Drittlandtransfers:** Data Privacy Framework (DPF). **Weitere Informationen:** Daten-Transfer-Folgenabschätzung: [https://www.atlassian.com/legal/data-transfer-impact-assessment](https://www.atlassian.com/legal/data-transfer-impact-assessment).
+*   **GitHub:** Plattform für die Versionskontrolle von Softwareprojekten. Entwickler können ihren Code in Repositories hochladen und Änderungen verfolgen sowie Tools zur Projektverwaltung in der Softwareentwicklung nutzen; **Dienstanbieter:** GitHub B.V., Niederlande, [https://support.github.com/contact/privacy](https://support.github.com/contact/privacy); **Rechtsgrundlagen:** Berechtigte Interessen (Art. 6 Abs. 1 S. 1 lit. f) DSGVO); **Website:** [https://github.com](https://github.com). **Datenschutzerklärung:** [https://docs.github.com/de/site-policy/privacy-policies/github-general-privacy-statement](https://docs.github.com/de/site-policy/privacy-policies/github-general-privacy-statement).
+
+### Änderung und Aktualisierung {#m15}
+
+Wir bitten Sie, sich regelmäßig über den Inhalt unserer Datenschutzerklärung zu informieren. Wir passen die Datenschutzerklärung an, sobald die Änderungen der von uns durchgeführten Datenverarbeitungen dies erforderlich machen. Wir informieren Sie, sobald durch die Änderungen eine Mitwirkungshandlung Ihrerseits (z. B. Einwilligung) oder eine sonstige individuelle Benachrichtigung erforderlich wird.
+
+Sofern wir in dieser Datenschutzerklärung Adressen und Kontaktinformationen von Unternehmen und Organisationen angeben, bitten wir zu beachten, dass die Adressen sich über die Zeit ändern können und bitten die Angaben vor Kontaktaufnahme zu prüfen.
+
+### Begriffsdefinitionen {#m42}
+
+In diesem Abschnitt erhalten Sie eine Übersicht über die in dieser Datenschutzerklärung verwendeten Begrifflichkeiten. Soweit die Begrifflichkeiten gesetzlich definiert sind, gelten deren gesetzliche Definitionen. Die nachfolgenden Erläuterungen sollen dagegen vor allem dem Verständnis dienen.
+
+*   **Beschäftigte:** Als Beschäftigte werden Personen bezeichnet, die in einem Beschäftigungsverhältnis stehen, sei es als Mitarbeiter, Angestellte oder in ähnlichen Positionen. Ein Beschäftigungsverhältnis ist eine rechtliche Beziehung zwischen einem Arbeitgeber und einem Arbeitnehmer, die durch einen Arbeitsvertrag oder eine Vereinbarung festgelegt wird. Es beinhaltet die Verpflichtung des Arbeitgebers, dem Arbeitnehmer eine Vergütung zu zahlen, während der Arbeitnehmer seine Arbeitsleistung erbringt. Das Beschäftigungsverhältnis umfasst verschiedene Phasen, darunter die Begründung, in der der Arbeitsvertrag geschlossen wird, die Durchführung, in der der Arbeitnehmer seine Arbeitstätigkeit ausübt, und die Beendigung, wenn das Beschäftigungsverhältnis endet, sei es durch Kündigung, Aufhebungsvertrag oder anderweitig. Beschäftigtendaten sind alle Informationen, die sich auf diese Personen beziehen und im Kontext ihrer Beschäftigung stehen. Dies umfasst Aspekte wie persönliche Identifikationsdaten, Identifikationsnummern, Gehalts- und Bankdaten, Arbeitszeiten, Urlaubsansprüche, Gesundheitsdaten und Leistungsbeurteilungen.
+*   **Bestandsdaten:** Bestandsdaten umfassen wesentliche Informationen, die für die Identifikation und Verwaltung von Vertragspartnern, Benutzerkonten, Profilen und ähnlichen Zuordnungen notwendig sind. Diese Daten können u.a. persönliche und demografische Angaben wie Namen, Kontaktinformationen (Adressen, Telefonnummern, E-Mail-Adressen), Geburtsdaten und spezifische Identifikatoren (Benutzer-IDs) beinhalten. Bestandsdaten bilden die Grundlage für jegliche formelle Interaktion zwischen Personen und Diensten, Einrichtungen oder Systemen, indem sie eine eindeutige Zuordnung und Kommunikation ermöglichen.
+*   **Inhaltsdaten:** Inhaltsdaten umfassen Informationen, die im Zuge der Erstellung, Bearbeitung und Veröffentlichung von Inhalten aller Art generiert werden. Diese Kategorie von Daten kann Texte, Bilder, Videos, Audiodateien und andere multimediale Inhalte einschließen, die auf verschiedenen Plattformen und Medien veröffentlicht werden. Inhaltsdaten sind nicht nur auf den eigentlichen Inhalt beschränkt, sondern beinhalten auch Metadaten, die Informationen über den Inhalt selbst liefern, wie Tags, Beschreibungen, Autoreninformationen und Veröffentlichungsdaten
+*   **Kontaktdaten:** Kontaktdaten sind essentielle Informationen, die die Kommunikation mit Personen oder Organisationen ermöglichen. Sie umfassen u.a. Telefonnummern, postalische Adressen und E-Mail-Adressen, sowie Kommunikationsmittel wie soziale Medien-Handles und Instant-Messaging-Identifikatoren.
+*   **Konversionsmessung:** Die Konversionsmessung (auch als "Besuchsaktionsauswertung" bezeichnet) ist ein Verfahren, mit dem die Wirksamkeit von Marketingmaßnahmen festgestellt werden kann. Dazu wird im Regelfall ein Cookie auf den Geräten der Nutzer innerhalb der Webseiten, auf denen die Marketingmaßnahmen erfolgen, gespeichert und dann erneut auf der Zielwebseite abgerufen. Beispielsweise können wir so nachvollziehen, ob die von uns auf anderen Webseiten geschalteten Anzeigen erfolgreich waren.
+*   **Meta-, Kommunikations- und Verfahrensdaten:** Meta-, Kommunikations- und Verfahrensdaten sind Kategorien, die Informationen über die Art und Weise enthalten, wie Daten verarbeitet, übermittelt und verwaltet werden. Meta-Daten, auch bekannt als Daten über Daten, umfassen Informationen, die den Kontext, die Herkunft und die Struktur anderer Daten beschreiben. Sie können Angaben zur Dateigröße, dem Erstellungsdatum, dem Autor eines Dokuments und den Änderungshistorien beinhalten. Kommunikationsdaten erfassen den Austausch von Informationen zwischen Nutzern über verschiedene Kanäle, wie E-Mail-Verkehr, Anrufprotokolle, Nachrichten in sozialen Netzwerken und Chat-Verläufe, inklusive der beteiligten Personen, Zeitstempel und Übertragungswege. Verfahrensdaten beschreiben die Prozesse und Abläufe innerhalb von Systemen oder Organisationen, einschließlich Workflow-Dokumentationen, Protokolle von Transaktionen und Aktivitäten, sowie Audit-Logs, die zur Nachverfolgung und Überprüfung von Vorgängen verwendet werden.
+*   **Nutzungsdaten:** Nutzungsdaten beziehen sich auf Informationen, die erfassen, wie Nutzer mit digitalen Produkten, Dienstleistungen oder Plattformen interagieren. Diese Daten umfassen eine breite Palette von Informationen, die aufzeigen, wie Nutzer Anwendungen nutzen, welche Funktionen sie bevorzugen, wie lange sie auf bestimmten Seiten verweilen und über welche Pfade sie durch eine Anwendung navigieren. Nutzungsdaten können auch die Häufigkeit der Nutzung, Zeitstempel von Aktivitäten, IP-Adressen, Geräteinformationen und Standortdaten einschließen. Sie sind besonders wertvoll für die Analyse des Nutzerverhaltens, die Optimierung von Benutzererfahrungen, das Personalisieren von Inhalten und das Verbessern von Produkten oder Dienstleistungen. Darüber hinaus spielen Nutzungsdaten eine entscheidende Rolle beim Erkennen von Trends, Vorlieben und möglichen Problembereichen innerhalb digitaler Angebote
+*   **Personenbezogene Daten:** "Personenbezogene Daten" sind alle Informationen, die sich auf eine identifizierte oder identifizierbare natürliche Person (im Folgenden "betroffene Person") beziehen; als identifizierbar wird eine natürliche Person angesehen, die direkt oder indirekt, insbesondere mittels Zuordnung zu einer Kennung wie einem Namen, zu einer Kennnummer, zu Standortdaten, zu einer Online-Kennung (z. B. Cookie) oder zu einem oder mehreren besonderen Merkmalen identifiziert werden kann, die Ausdruck der physischen, physiologischen, genetischen, psychischen, wirtschaftlichen, kulturellen oder sozialen Identität dieser natürlichen Person sind.
+*   **Profile mit nutzerbezogenen Informationen:** Die Verarbeitung von "Profilen mit nutzerbezogenen Informationen", bzw. kurz "Profilen" umfasst jede Art der automatisierten Verarbeitung personenbezogener Daten, die darin besteht, dass diese personenbezogenen Daten verwendet werden, um bestimmte persönliche Aspekte, die sich auf eine natürliche Person beziehen (je nach Art der Profilbildung können dazu unterschiedliche Informationen betreffend die Demographie, Verhalten und Interessen, wie z. B. die Interaktion mit Webseiten und deren Inhalten, etc.) zu analysieren, zu bewerten oder, um sie vorherzusagen (z. B. die Interessen an bestimmten Inhalten oder Produkten, das Klickverhalten auf einer Webseite oder den Aufenthaltsort). Zu Zwecken des Profilings werden häufig Cookies und Web-Beacons eingesetzt.
+*   **Protokolldaten:** Protokolldaten sind Informationen über Ereignisse oder Aktivitäten, die in einem System oder Netzwerk protokolliert wurden. Diese Daten enthalten typischerweise Informationen wie Zeitstempel, IP-Adressen, Benutzeraktionen, Fehlermeldungen und andere Details über die Nutzung oder den Betrieb eines Systems. Protokolldaten werden oft zur Analyse von Systemproblemen, zur Sicherheitsüberwachung oder zur Erstellung von Leistungsberichten verwendet.
+*   **Reichweitenmessung:** Die Reichweitenmessung (auch als Web Analytics bezeichnet) dient der Auswertung der Besucherströme eines Onlineangebotes und kann das Verhalten oder Interessen der Besucher an bestimmten Informationen, wie z. B. Inhalten von Webseiten, umfassen. Mit Hilfe der Reichweitenanalyse können Betreiber von Onlineangeboten z. B. erkennen, zu welcher Zeit Nutzer ihre Webseiten besuchen und für welche Inhalte sie sich interessieren. Dadurch können sie z. B. die Inhalte der Webseiten besser an die Bedürfnisse ihrer Besucher anpassen. Zu Zwecken der Reichweitenanalyse werden häufig pseudonyme Cookies und Web-Beacons eingesetzt, um wiederkehrende Besucher zu erkennen und so genauere Analysen zur Nutzung eines Onlineangebotes zu erhalten.
+*   **Standortdaten:** Standortdaten entstehen, wenn sich ein mobiles Gerät (oder ein anderes Gerät mit den technischen Voraussetzungen einer Standortbestimmung) mit einer Funkzelle, einem WLAN oder ähnlichen technischen Mitteln und Funktionen der Standortbestimmung, verbindet. Standortdaten dienen der Angabe, an welcher geografisch bestimmbaren Position der Erde sich das jeweilige Gerät befindet. Standortdaten können z. B. eingesetzt werden, um Kartenfunktionen oder andere von einem Ort abhängige Informationen darzustellen.
+*   **Tracking:** Vom "Tracking" spricht man, wenn das Verhalten von Nutzern über mehrere Onlineangebote hinweg nachvollzogen werden kann. Im Regelfall werden im Hinblick auf die genutzten Onlineangebote Verhaltens- und Interessensinformationen in Cookies oder auf Servern der Anbieter der Trackingtechnologien gespeichert (sogenanntes Profiling). Diese Informationen können anschließend z. B. eingesetzt werden, um den Nutzern Werbeanzeigen anzuzeigen, die voraussichtlich deren Interessen entsprechen.
+*   **Verantwortlicher:** Als "Verantwortlicher" wird die natürliche oder juristische Person, Behörde, Einrichtung oder andere Stelle, die allein oder gemeinsam mit anderen über die Zwecke und Mittel der Verarbeitung von personenbezogenen Daten entscheidet, bezeichnet.
+*   **Verarbeitung:** "Verarbeitung" ist jeder mit oder ohne Hilfe automatisierter Verfahren ausgeführte Vorgang oder jede solche Vorgangsreihe im Zusammenhang mit personenbezogenen Daten. Der Begriff reicht weit und umfasst praktisch jeden Umgang mit Daten, sei es das Erheben, das Auswerten, das Speichern, das Übermitteln oder das Löschen.
+*   **Vertragsdaten:** Vertragsdaten sind spezifische Informationen, die sich auf die Formalisierung einer Vereinbarung zwischen zwei oder mehr Parteien beziehen. Sie dokumentieren die Bedingungen, unter denen Dienstleistungen oder Produkte bereitgestellt, getauscht oder verkauft werden. Diese Datenkategorie ist wesentlich für die Verwaltung und Erfüllung vertraglicher Verpflichtungen und umfasst sowohl die Identifikation der Vertragsparteien als auch die spezifischen Bedingungen und Konditionen der Vereinbarung. Vertragsdaten können Start- und Enddaten des Vertrages, die Art der vereinbarten Leistungen oder Produkte, Preisvereinbarungen, Zahlungsbedingungen, Kündigungsrechte, Verlängerungsoptionen und spezielle Bedingungen oder Klauseln umfassen. Sie dienen als rechtliche Grundlage für die Beziehung zwischen den Parteien und sind entscheidend für die Klärung von Rechten und Pflichten, die Durchsetzung von Ansprüchen und die Lösung von Streitigkeiten.
+*   **Zahlungsdaten:** Zahlungsdaten umfassen sämtliche Informationen, die zur Abwicklung von Zahlungstransaktionen zwischen Käufern und Verkäufern benötigt werden. Diese Daten sind von entscheidender Bedeutung für den elektronischen Handel, das Online-Banking und jede andere Form der finanziellen Transaktion. Sie beinhalten Details wie Kreditkartennummern, Bankverbindungen, Zahlungsbeträge, Transaktionsdaten, Verifizierungsnummern und Rechnungsinformationen. Zahlungsdaten können auch Informationen über den Zahlungsstatus, Rückbuchungen, Autorisierungen und Gebühren enthalten.
+*   **Zielgruppenbildung:** Von Zielgruppenbildung (englisch "Custom Audiences") spricht man, wenn Zielgruppen für Werbezwecke, z. B. Einblendung von Werbeanzeigen bestimmt werden. So kann z. B. anhand des Interesses eines Nutzers an bestimmten Produkten oder Themen im Internet geschlussfolgert werden, dass dieser Nutzer sich für Werbeanzeigen für ähnliche Produkte oder den Onlineshop, in dem er die Produkte betrachtet hat, interessiert. Von "Lookalike Audiences" (bzw. ähnlichen Zielgruppen) spricht man wiederum, wenn die als geeignet eingeschätzten Inhalte Nutzern angezeigt werden, deren Profile, bzw. Interessen mutmaßlich den Nutzern zu denen die Profile gebildet wurden, entsprechen. Zur Zwecken der Bildung von Custom Audiences und Lookalike Audiences werden im Regelfall Cookies und Web-Beacons eingesetzt.
+*   
+---
+
+## Privacy Policy
+
+### Preamble {#m716}
+
+With the following privacy policy we would like to inform you which types of your personal data (hereinafter also abbreviated as "data") we process for which purposes and in which scope. The privacy statement applies to all processing of personal data carried out by us, both in the context of providing our services and in particular on our websites, in mobile applications and within external online presences, such as our social media profiles (hereinafter collectively referred to as "online services").
+
+The terms used are not gender-specific.
+
+Last Update: 9. December 2024
+
+### Table of contents
+
+*   [Preamble](#m716)
+*   [Controller](#m3)
+*   [Overview of processing operations](#mOverview)
+*   [Relevant legal bases](#m2427)
+*   [Security Precautions](#m27)
+*   [International data transfers](#m24)
+*   [General Information on Data Retention and Deletion](#m12)
+*   [Rights of Data Subjects](#m10)
+*   [Payment Procedure](#m326)
+*   [Provision of online services and web hosting](#m225)
+*   [Use of Cookies](#m134)
+*   [Special Notes on Applications (Apps)](#m469)
+*   [Purchase of applications via Appstores](#m1466)
+*   [Blogs and publication media](#m104)
+*   [Communication via Messenger](#m391)
+*   [Push notifications](#m1643)
+*   [Video Conferences, Online Meetings, Webinars and Screen-Sharing](#m735)
+*   [Audio Content](#m296)
+*   [Cloud Services](#m29)
+*   [Surveys and Questionnaires](#m408)
+*   [Profiles in Social Networks (Social Media)](#m136)
+*   [Plugins and embedded functions and content](#m328)
+*   [Management, Organization and Utilities](#m723)
+*   [Changes and Updates](#m15)
+*   [Terminology and Definitions](#m42)
+
+### Controller {#m3}
+
+Florian Schuttkowski  
+Korntaler Straße 15/1  
+71636 Ludwigsburg  
+Germany
+
+E-mail address: [mail@florianschuttkowski.com](mailto:mail@florianschuttkowski.com)
+
+Legal Notice: [https://florianschuttkowski.com/impressum/](https://florianschuttkowski.com/impressum/)
+
+### Overview of processing operations {#mOverview}
+
+The following table summarises the types of data processed, the purposes for which they are processed and the concerned data subjects.
+
+#### Categories of Processed Data
+
+*   Inventory data.
+*   Payment Data.
+*   Location data.
+*   Contact data.
+*   Content data.
+*   Contract data.
+*   Usage data.
+*   Meta, communication and process data.
+*   Images and/ or video recordings.
+*   Audio recordings.
+*   Log data.
+
+#### Categories of Data Subjects
+
+*   Service recipients and clients.
+*   Employees.
+*   Prospective customers.
+*   Communication partner.
+*   Users.
+*   Business and contractual partners.
+*   Participants.
+*   Persons depicted.
+
+#### Purposes of Processing
+
+*   Provision of contractual services and fulfillment of contractual obligations.
+*   Communication.
+*   Security measures.
+*   Direct marketing.
+*   Web Analytics.
+*   Targeting.
+*   Office and organisational procedures.
+*   Conversion tracking.
+*   Affiliate Tracking.
+*   Feedback.
+*   Polls and Questionnaires.
+*   Marketing.
+*   Profiles with user-related information.
+*   Provision of our online services and usability.
+*   Information technology infrastructure.
+*   Public relations and informational purposes.
+*   Public relations.
+*   Business processes and management procedures.
+
+### Relevant legal bases {#m2427}
+
+**Relevant legal bases according to the GDPR:** In the following, you will find an overview of the legal basis of the GDPR on which we base the processing of personal data. Please note that in addition to the provisions of the GDPR, national data protection provisions of your or our country of residence or domicile may apply. If, in addition, more specific legal bases are applicable in individual cases, we will inform you of these in the data protection declaration.
+
+*   **Consent (Article 6 (1) (a) GDPR)** - The data subject has given consent to the processing of his or her personal data for one or more specific purposes.
+*   **Performance of a contract and prior requests (Article 6 (1) (b) GDPR)** - Performance of a contract to which the data subject is party or in order to take steps at the request of the data subject prior to entering into a contract.
+*   **Legitimate Interests (Article 6 (1) (f) GDPR)** - the processing is necessary for the protection of the legitimate interests of the controller or a third party, provided that the interests, fundamental rights, and freedoms of the data subject, which require the protection of personal data, do not prevail.
+
+**National data protection regulations in Germany:** In addition to the data protection regulations of the GDPR, national regulations apply to data protection in Germany. This includes in particular the Law on Protection against Misuse of Personal Data in Data Processing (Federal Data Protection Act - BDSG). In particular, the BDSG contains special provisions on the right to access, the right to erase, the right to object, the processing of special categories of personal data, processing for other purposes and transmission as well as automated individual decision-making, including profiling. Furthermore, data protection laws of the individual federal states may apply.
+
+**Reference to the applicability of the GDPR and the Swiss DPA:** These privacy policy serves both to provide information pursuant to the Swiss Federal Act on Data Protection (FADP) and the General Data Protection Regulation (GDPR). For this reason, we ask you to note that due to the broader spatial application and comprehensibility, the terms used in the GDPR are applied. In particular, instead of the terms used in the Swiss FADP such as "processing" of "personal data", "predominant interest", and "particularly sensitive personal data", the terms used in the GDPR, namely "processing" of "personal data", as well as "legitimate interest" and "special categories of data" are used. However, the legal meaning of these terms will continue to be determined according to the Swiss FADP within its scope of application.
+
+### Security Precautions {#m27}
+
+We take appropriate technical and organisational measures in accordance with the legal requirements, taking into account the state of the art, the costs of implementation and the nature, scope, context and purposes of processing as well as the risk of varying likelihood and severity for the rights and freedoms of natural persons, in order to ensure a level of security appropriate to the risk.
+
+The measures include, in particular, safeguarding the confidentiality, integrity and availability of data by controlling physical and electronic access to the data as well as access to, input, transmission, securing and separation of the data. In addition, we have established procedures to ensure that data subjects' rights are respected, that data is erased, and that we are prepared to respond to data threats rapidly. Furthermore, we take the protection of personal data into account as early as the development or selection of hardware, software and service providers, in accordance with the principle of privacy by design and privacy by default.
+
+Securing online connections through TLS/SSL encryption technology (HTTPS): To protect the data of users transmitted via our online services from unauthorized access, we employ TLS/SSL encryption technology. Secure Sockets Layer (SSL) and Transport Layer Security (TLS) are the cornerstones of secure data transmission on the internet. These technologies encrypt the information that is transferred between the website or app and the user's browser (or between two servers), thereby safeguarding the data from unauthorized access. TLS, as the more advanced and secure version of SSL, ensures that all data transmissions conform to the highest security standards. When a website is secured with an SSL/TLS certificate, this is indicated by the display of HTTPS in the URL. This serves as an indicator to users that their data is being securely and encryptedly transmitted.
+
+### International data transfers {#m24}
+
+Data Processing in Third Countries: If we process data in a third country (i.e., outside the European Union (EU) or the European Economic Area (EEA)), or if the processing is done within the context of using third-party services or the disclosure or transfer of data to other individuals, entities, or companies, this is only done in accordance with legal requirements. If the data protection level in the third country has been recognized by an adequacy decision (Article 45 GDPR), this serves as the basis for data transfer. Otherwise, data transfers only occur if the data protection level is otherwise ensured, especially through standard contractual clauses (Article 46 (2)(c) GDPR), explicit consent, or in cases of contractual or legally required transfers (Article 49 (1) GDPR). Furthermore, we provide you with the basis of third-country transfers from individual third-country providers, with adequacy decisions primarily serving as the foundation. "Information regarding third-country transfers and existing adequacy decisions can be obtained from the information provided by the EU Commission: [https://commission.europa.eu/law/law-topic/data-protection/international-dimension-data-protection\_en.](https://commission.europa.eu/law/law-topic/data-protection/international-dimension-data-protection_en) Within the context of the so-called "Data Privacy Framework" (DPF), the EU Commission has also recognized the data protection level for certain companies from the USA as secure within the adequacy decision of 10th July 2023. The list of certified companies as well as additional information about the DPF can be found on the website of the US Department of Commerce at [https://www.dataprivacyframework.gov/s/.](https://www.dataprivacyframework.gov/s/) We will inform you which of our service providers are certified under the Data Privacy Framework as part of our data protection notices.
+
+### General Information on Data Retention and Deletion {#m12}
+
+We delete personal data that we process in accordance with legal regulations as soon as the underlying consents are revoked or no further legal bases for processing exist. This applies to cases where the original purpose of processing is no longer applicable or the data is no longer needed. Exceptions to this rule exist if statutory obligations or special interests require a longer retention or archiving of the data.
+
+In particular, data that must be retained for commercial or tax law reasons, or whose storage is necessary for legal prosecution or protection of the rights of other natural or legal persons, must be archived accordingly.
+
+Our privacy notices contain additional information on the retention and deletion of data specifically applicable to certain processing processes.
+
+In cases where multiple retention periods or deletion deadlines for a date are specified, the longest period always prevails.
+
+If a period does not expressly start on a specific date and lasts at least one year, it automatically begins at the end of the calendar year in which the event triggering the period occurred. In the case of ongoing contractual relationships in the context of which data is stored, the event triggering the deadline is the time at which the termination or other termination of the legal relationship takes effect.
+
+Data that is no longer stored for its originally intended purpose but due to legal requirements or other reasons are processed exclusively for the reasons justifying their retention.
+
+**Further information on processing methods, procedures and services used:**
+
+*   **Data Retention and Deletion:** The following general deadlines apply for the retention and archiving according to German law:
+    *   10 Years - Fiscal Code/Commercial Code - Retention period for books and records, annual financial statements, inventories, management reports, opening balance sheet as well as the necessary work instructions and other organisational documents, booking receipts and invoices (Section 147 Paragraph 3 in conjunction with Paragraph 1 No. 1, 4 and 4a of the German General Tax Code (AO), Section 14b Paragraph 1 of the German VAT Act (UStG), Section 257 Paragraph 1 Numbers 1 and 4, Paragraph 4 of the German Commercial Code (HGB)).
+    *   6 Years - Other business documents: received commercial or business letters, copies of dispatched commercial or business letters, and other documents to the extent that they are significant for taxation purposes, for example, hourly wage slips, operating accounting sheets, calculation documents, price tags, as well as payroll accounting documents, provided they are not already accounting vouchers and cash register tapes Section (Section 147 Paragraph 3 in conjunction with Paragraph 1 No. 2, 3, 5 of the German General Tax Code (AO), Section 257 Paragraph 1 No. 2 and 3, Paragraph 4 of the German Commercial Code (HGB)).
+    *   3 Years - Data required to consider potential warranty and compensation claims or similar contractual claims and rights, as well as to process related inquiries, based on previous business experiences and common industry practices, will be stored for the duration of the regular statutory limitation period of three years. This period begins at the end of the year in which the relevant contractual transaction took place or the contractual relationship ended in the case of ongoing contracts (Sections 195, 199 of the German Civil Code).
+
+### Rights of Data Subjects {#m10}
+
+Rights of the Data Subjects under the GDPR: As data subject, you are entitled to various rights under the GDPR, which arise in particular from Articles 15 to 21 of the GDPR:
+
+*   **Right to Object: You have the right, on grounds arising from your particular situation, to object at any time to the processing of your personal data which is based on letter (e) or (f) of Article 6(1) GDPR, including profiling based on those provisions. Where personal data are processed for direct marketing purposes, you have the right to object at any time to the processing of the personal data concerning you for the purpose of such marketing, which includes profiling to the extent that it is related to such direct marketing.**
+*   **Right of withdrawal for consents:** You have the right to revoke consents at any time.
+*   **Right of access:** You have the right to request confirmation as to whether the data in question will be processed and to be informed of this data and to receive further information and a copy of the data in accordance with the provisions of the law.
+*   **Right to rectification:** You have the right, in accordance with the law, to request the completion of the data concerning you or the rectification of the incorrect data concerning you.
+*   **Right to Erasure and Right to Restriction of Processing:** In accordance with the statutory provisions, you have the right to demand that the relevant data be erased immediately or, alternatively, to demand that the processing of the data be restricted in accordance with the statutory provisions.
+*   **Right to data portability:** You have the right to receive data concerning you which you have provided to us in a structured, common and machine-readable format in accordance with the legal requirements, or to request its transmission to another controller.
+*   **Complaint to the supervisory authority:** In accordance with the law and without prejudice to any other administrative or judicial remedy, you also have the right to lodge a complaint with a data protection supervisory authority, in particular a supervisory authority in the Member State where you habitually reside, the supervisory authority of your place of work or the place of the alleged infringement, if you consider that the processing of personal data concerning you infringes the GDPR.
+
+### Payment Procedure {#m326}
+
+Within the framework of contractual and other legal relationships, due to legal obligations or otherwise on the basis of our legitimate interests, we offer data subjects efficient and secure payment options and use other service providers for this purpose in addition to banks and credit institutions (collectively referred to as "payment service providers").
+
+The data processed by the payment service providers includes inventory data, such as the name and address, bank data, such as account numbers or credit card numbers, passwords, TANs and checksums, as well as the contract, total and recipient-related information. The information is required to carry out the transactions. However, the data entered is only processed by the payment service providers and stored with them. I.e. we do not receive any account or credit card related information, but only information with confirmation or negative information of the payment. Under certain circumstances, the data may be transmitted by the payment service providers to credit agencies. The purpose of this transmission is to check identity and creditworthiness. Please refer to the terms and conditions and data protection information of the payment service providers.
+
+The terms and conditions and data protection information of the respective payment service providers apply to the payment transactions and can be accessed within the respective websites or transaction applications. We also refer to these for further information and the assertion of revocation, information and other data subject rights.
+
+*   **Processed data types:** Inventory data (For example, the full name, residential address, contact information, customer number, etc.); Payment Data (e.g. bank details, invoices, payment history); Contract data (e.g. contract object, duration, customer category); Usage data (e.g. page views and duration of visit, click paths, intensity and frequency of use, types of devices and operating systems used, interactions with content and features); Meta, communication and process data (e.g. IP addresses, timestamps, identification numbers, involved parties). Contact data (e.g. postal and email addresses or phone numbers).
+*   **Data subjects:** Service recipients and clients; Business and contractual partners; Prospective customers. Users (e.g. website visitors, users of online services).
+*   **Purposes of processing:** Provision of contractual services and fulfillment of contractual obligations; Business processes and management procedures; Communication; Web Analytics (e.g. access statistics, recognition of returning visitors); Office and organisational procedures; Conversion tracking (Measurement of the effectiveness of marketing activities); Marketing. Provision of our online services and usability.
+*   **Retention and deletion:** Deletion in accordance with the information provided in the section "General Information on Data Retention and Deletion".
+*   **Legal Basis:** Performance of a contract and prior requests (Article 6 (1) (b) GDPR). Legitimate Interests (Article 6 (1) (f) GDPR).
+
+**Further information on processing methods, procedures and services used:**
+
+*   **Ko-Fi:** Internet platform for project financing via crowdfunding as well as the sale of subscriptions and memberships, billing as well as the provision of access and payment procedures, for the purposes of which cookies are used and the IP address, date, time and other technical data about the Internet browser used, the operating system as well as inventory, contract and payment data of the users are processed; Legal Basis: Legitimate Interests (Article 6 (1) (f) GDPR); **Service provider**: Ko-fi Labs Limited, The Station House, 15 Station Road, St Ives PE27 5BH, United Kingdom; **Legal Basis:** Legitimate Interests (Article 6 (1) (f) GDPR); **Website:** [https://ko-fi.com/](https://ko-fi.com/); **Privacy Policy:** [https://more.ko-fi.com/privacy](https://more.ko-fi.com/privacy). **Basis for third-country transfers:** Adequacy decision (United Kingdom).
+
+### Provision of online services and web hosting {#m225}
+
+We process user data in order to be able to provide them with our online services. For this purpose, we process the IP address of the user, which is necessary to transmit the content and functions of our online services to the user's browser or terminal device.
+
+*   **Processed data types:** Usage data (e.g. page views and duration of visit, click paths, intensity and frequency of use, types of devices and operating systems used, interactions with content and features); Meta, communication and process data (e.g. IP addresses, timestamps, identification numbers, involved parties); Log data (e.g. log files concerning logins or data retrieval or access times.). Content data (e.g. textual or pictorial messages and contributions, as well as information pertaining to them, such as details of authorship or the time of creation.).
+*   **Data subjects:** Users (e.g. website visitors, users of online services). Business and contractual partners.
+*   **Purposes of processing:** Provision of our online services and usability; Information technology infrastructure (Operation and provision of information systems and technical devices, such as computers, servers, etc.).). Security measures.
+*   **Retention and deletion:** Deletion in accordance with the information provided in the section "General Information on Data Retention and Deletion".
+*   **Legal Basis:** Legitimate Interests (Article 6 (1) (f) GDPR).
+
+**Further information on processing methods, procedures and services used:**
+
+*   **Provision of online offer on rented hosting space:** For the provision of our online services, we use storage space, computing capacity and software that we rent or otherwise obtain from a corresponding server provider (also referred to as a "web hoster"); **Legal Basis:** Legitimate Interests (Article 6 (1) (f) GDPR).
+*   **Collection of Access Data and Log Files:** Access to our online service is logged in the form of so-called "server log files". Server log files may include the address and name of the accessed web pages and files, date and time of access, transferred data volumes, notification of successful retrieval, browser type along with version, the user's operating system, referrer URL (the previously visited page), and typically IP addresses and the requesting provider. The server log files can be used for security purposes, e.g., to prevent server overload (especially in the case of abusive attacks, known as DDoS attacks), and to ensure server load management and stability; **Legal Basis:** Legitimate Interests (Article 6 (1) (f) GDPR). **Retention period:** Log file information is stored for a maximum period of 30 days and then deleted or anonymized. Data, the further storage of which is necessary for evidence purposes, are excluded from deletion until the respective incident has been finally clarified.
+*   **Content-Delivery-Network:** We use a so-called "Content Delivery Network" (CDN). A CDN is a service with whose help contents of our online services, in particular large media files, such as graphics or scripts, can be delivered faster and more securely with the help of regionally distributed servers connected via the Internet; **Legal Basis:** Legitimate Interests (Article 6 (1) (f) GDPR).
+*   **Gandi:** Services in the field of the provision of information technology infrastructure and related services (e.g. storage space and/or computing capacities); **Service provider**: Gandi SAS, 63-65 Boulevard Masséna, 75013 Paris, France; **Legal Basis:** Legitimate Interests (Article 6 (1) (f) GDPR); **Website:** [https://www.gandi.net](https://www.gandi.net). **Privacy Policy:** [https://www.gandi.net/en/contracts/privacy-policy](https://www.gandi.net/en/contracts/privacy-policy).
+*   **GitHub:** Platform for version control of software projects. Developers are enabled to upload their code to repositories and track changes, as well as use tools for project management in software development; **Service provider**: GitHub B.V., Netherlands, [https://support.github.com/contact/privacy](https://support.github.com/contact/privacy); **Legal Basis:** Legitimate Interests (Article 6 (1) (f) GDPR); **Website:** [https://github.com](https://github.com). **Privacy Policy:** [https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement](https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement).
+
+### Use of Cookies {#m134}
+
+The term "cookies" refers to functions that store information on users' devices and read it from them. Cookies can also be used for different purposes, such as ensuring the functionality, security, and convenience of online services, as well as analyzing visitor traffic. We use cookies in accordance with legal regulations. If necessary, we obtain users' consent in advance. If consent is not required, we rely on our legitimate interests. This applies when storing and reading information is essential to provide explicitly requested content and functions. This includes, for example, saving settings and ensuring the functionality and security of our online services. Consent can be withdrawn at any time. We clearly inform users about the scope of the consent and which cookies are used.
+
+**Information on legal data protection bases:** Whether we process personal data using cookies depends on users' consent. If consent is given, it serves as the legal basis. Without consent, we rely on our legitimate interests, as outlined in this section and in the context of the respective services and procedures.
+
+**Storage duration:** The following types of cookies are distinguished based on their storage duration:
+
+*   **Temporary cookies (also: session cookies):** Temporary cookies are deleted at the latest after a user leaves an online service and closes their device (e.g., browser or mobile application).
+*   **Permanent cookies:** Permanent cookies remain stored even after the device is closed. For example, the login status can be saved, and preferred content can be displayed directly when the user revisits a website. Additionally, the user data collected with cookies may be used for audience measurement. Unless we provide explicit information to users about the type and storage duration of cookies (e.g., when obtaining consent), users should assume that these are permanent and may have a storage duration of up to two years.
+
+**General information on withdrawal and objection (opt-out):** Users can withdraw their consent at any time and also object to the processing according to legal regulations, including through the privacy settings of their browser.
+
+*   **Processed data types:** Meta, communication and process data (e.g. IP addresses, timestamps, identification numbers, involved parties).
+*   **Data subjects:** Users (e.g. website visitors, users of online services).
+*   **Legal Basis:** Legitimate Interests (Article 6 (1) (f) GDPR).
+
+### Special Notes on Applications (Apps) {#m469}
+
+We process the data of the users of our application to the extent necessary to provide the users with the application and its functionalities, to monitor its security and to develop it further. Furthermore, we may contact users in compliance with the statutory provisions if communication is necessary for the purposes of administration or use of the application. In addition, we refer to the data protection information in this privacy policy with regard to the processing of user data.
+
+**Legal basis:** The processing of data necessary for the provision of the functionalities of the application serves to fulfil contractual obligations. This also applies if the provision of the functions requires user authorisation (e.g. release of device functions). If the processing of data is not necessary for the provision of the functionalities of the application, but serves the security of the application or our business interests (e.g. collection of data for the purpose of optimising the application or security purposes), it is carried out on the basis of our legitimate interests. If users are expressly requested to give their consent to the processing of their data, the data covered by the consent is processed on the basis of the consent.
+
+*   **Processed data types:** Inventory data (For example, the full name, residential address, contact information, customer number, etc.); Usage data (e.g. page views and duration of visit, click paths, intensity and frequency of use, types of devices and operating systems used, interactions with content and features); Meta, communication and process data (e.g. IP addresses, timestamps, identification numbers, involved parties); Payment Data (e.g. bank details, invoices, payment history); Contract data (e.g. contract object, duration, customer category); Images and/ or video recordings (e.g. photographs or video recordings of a person); Audio recordings. Location data (Information on the geographical position of a device or person).
+*   **Data subjects:** Users (e.g. website visitors, users of online services).
+*   **Purposes of processing:** Provision of contractual services and fulfillment of contractual obligations; Security measures. Provision of our online services and usability.
+*   **Retention and deletion:** Deletion in accordance with the information provided in the section "General Information on Data Retention and Deletion".
+*   **Legal Basis:** Performance of a contract and prior requests (Article 6 (1) (b) GDPR). Legitimate Interests (Article 6 (1) (f) GDPR).
+
+**Further information on processing methods, procedures and services used:**
+
+*   **Commercial use:** We process the data of the users of our application, registered and any test users (hereinafter uniformly referred to as "users") in order to provide them with our contractual services and on the basis of legitimate interests to ensure the security of our application and to develop it further. The required details are identified as such within the scope of the conclusion of a contract for the use of the application, the conclusion of an order, an order or a comparable contract and may include the details required for the provision of services and any invoicing as well as contact information in order to be able to hold any consultations; **Legal Basis:** Performance of a contract and prior requests (Article 6 (1) (b) GDPR).
+*   **Storage of the universally unique identifier (UUID):** The application stores a so-called Universally Unique Identifier (UUID) for the purpose of analysing the use and functionality of the application and storing the user's settings. This identifier is generated when the application is installed (but is not connected to the device, so no device ID in this sense), remains stored between the start of the application and its updates and is deleted when users remove the application from their device.
+*   **Storage of an own unique identifier:** In order to provide the application and ensure its functionality, we use a pseudonymous identifier. The identifier is a mathematical value (i.e. no clear data such as names are used) that is assigned to a device and/or the installation of the application installed on it. This identifier is generated during the installation of the application, remains stored between the start of the application and its updates and is deleted when users remove the application from the device.
+*   **Device authorizations for access to functions and data:** The use of certain functions of our application may require access to the camera and the stored recordings of the users. By default, these authorizations must be granted by the user and can be revoked at any time in the settings of the respective devices. The exact procedure for controlling app permissions may depend on the user's device and software. Users can contact us if they require further explanation. We would like to point out that the refusal or revocation of the respective authorizations can affect the functionality of our application.
+*   **Accessing the camera and stored recordings:** In the course of using our application, image and/or video recordings (whereby audio recordings are also included) of the users (and of other persons captured by the recordings) are processed by accessing the camera functions or stored recordings. Access to the camera functions or stored recordings requires an authorization by the user that can be withdrawn at any time. The processing of the image and/or video recordings serves only to provide the respective functionality of our application, according to its description to the users or the typical and expectable functionality of the application.
+*   **Use of the microphone functions:** The use of certain functions of our application may require access to the camera and the stored recordings of the users. By default, these authorizations must be granted by the user and can be revoked at any time in the settings of the respective devices. The exact procedure for controlling app permissions may depend on the user's device and software. Users can contact us if they require further explanation. We would like to point out that the refusal or revocation of the respective authorizations can affect the functionality of our application.
+*   **Processing of stored contacts:** When using our application, the contact information of persons (e.g. name, e-mail address and telephone number) stored in the contact directory of the device is processed. The use of the contact information requires user authorization, which can be withdrawn at any time. The use of the contact information serves only to provide the respective functionality of our application, according to its description to the users, or its typical and expectable functionality. Users are advised that permission to process the contact information must be granted and, especially in the case of natural persons, their consent or a legal permission is required.
+*   **Processing of location data:** Within the course of using our application, the location data collected by the device used or otherwise entered by the user are processed. The use of the location data requires an authorization of the users, which can be revoked at any time. The use of the location data serves only to provide the respective functionality of our application, according to its description to the users or its typical and expectable functionality.
+*   **Location history and movement profiles:** The location data is only used selectively and is not processed to create a location history or a movement profile of the devices used or of their users.
+
+### Purchase of applications via Appstores {#m1466}
+
+The purchase of our apps is done via special online platforms operated by other service providers (so-called "appstores"). In this context, the data protection notices of the respective appstores apply in addition to our data protection notices. This applies in particular with regard to the methods used on the platforms for webanalytics and for interest-related marketing as well as possible costs.
+
+*   **Processed data types:** Inventory data (For example, the full name, residential address, contact information, customer number, etc.); Payment Data (e.g. bank details, invoices, payment history); Contact data (e.g. postal and email addresses or phone numbers); Contract data (e.g. contract object, duration, customer category); Usage data (e.g. page views and duration of visit, click paths, intensity and frequency of use, types of devices and operating systems used, interactions with content and features). Meta, communication and process data (e.g. IP addresses, timestamps, identification numbers, involved parties).
+*   **Data subjects:** Service recipients and clients. Users (e.g. website visitors, users of online services).
+*   **Purposes of processing:** Provision of contractual services and fulfillment of contractual obligations; Marketing. Provision of our online services and usability.
+*   **Retention and deletion:** Deletion in accordance with the information provided in the section "General Information on Data Retention and Deletion".
+*   **Legal Basis:** Legitimate Interests (Article 6 (1) (f) GDPR).
+
+**Further information on processing methods, procedures and services used:**
+
+*   **Apple App Store:** App and software distribution platform; **Service provider**: Apple Inc., Infinite Loop, Cupertino, CA 95014, USA; **Legal Basis:** Legitimate Interests (Article 6 (1) (f) GDPR); **Website:** [https://www.apple.com/app-store/](https://www.apple.com/app-store/). **Privacy Policy:** [https://www.apple.com/privacy/privacy-policy/](https://www.apple.com/privacy/privacy-policy/).
+*   **Google Play:** App and software distribution platform; **Service provider**: Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Ireland; **Legal Basis:** Legitimate Interests (Article 6 (1) (f) GDPR); **Website:** [https://play.google.com/store/apps?hl=en](https://play.google.com/store/apps?hl=en). **Privacy Policy:** [https://policies.google.com/privacy](https://policies.google.com/privacy).
+
+### Blogs and publication media {#m104}
+
+We use blogs or comparable means of online communication and publication (hereinafter "publication medium"). Readers' data will only be processed for the purposes of the publication medium to the extent necessary for its presentation and communication between authors and readers or for security reasons. For the rest, we refer to the information on the processing of visitors to our publication medium within the scope of this privacy policy.
+
+*   **Processed data types:** Inventory data (For example, the full name, residential address, contact information, customer number, etc.); Contact data (e.g. postal and email addresses or phone numbers); Content data (e.g. textual or pictorial messages and contributions, as well as information pertaining to them, such as details of authorship or the time of creation.); Usage data (e.g. page views and duration of visit, click paths, intensity and frequency of use, types of devices and operating systems used, interactions with content and features). Meta, communication and process data (e.g. IP addresses, timestamps, identification numbers, involved parties).
+*   **Data subjects:** Users (e.g. website visitors, users of online services). Business and contractual partners.
+*   **Purposes of processing:** Feedback (e.g. collecting feedback via online form); Provision of our online services and usability. Information technology infrastructure (Operation and provision of information systems and technical devices, such as computers, servers, etc.).).
+*   **Retention and deletion:** Deletion in accordance with the information provided in the section "General Information on Data Retention and Deletion".
+*   **Legal Basis:** Legitimate Interests (Article 6 (1) (f) GDPR).
+
+**Further information on processing methods, procedures and services used:**
+
+*   **GitHub:** Platform for version control of software projects. Developers are enabled to upload their code to repositories and track changes, as well as use tools for project management in software development; **Service provider**: GitHub B.V., Netherlands, [https://support.github.com/contact/privacy](https://support.github.com/contact/privacy); **Legal Basis:** Legitimate Interests (Article 6 (1) (f) GDPR); **Website:** [https://github.com](https://github.com). **Privacy Policy:** [https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement](https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement).
+
+### Communication via Messenger {#m391}
+
+We use messenger services for communication purposes and therefore ask you to observe the following information regarding the functionality of the messenger services, encryption, use of the metadata of the communication and your objection options.
+
+You can also contact us by alternative means, e.g. telephone or e-mail. Please use the contact options provided to you or use the contact options provided within our online services.
+
+In the case of encryption of content (i.e. the content of your message and attachments), we point out that the communication content (i.e. the content of the message and attachments) is encrypted end-to-end. This means that the content of the messages is not visible, not even by the messenger service providers themselves. You should always use a current version of the messenger service with activated encryption, so that the encryption of the message contents is guaranteed.
+
+However, we would like to point out to our communication partners that although messenger service providers do not see the content, they can find out that and when communication partners communicate with us and process technical information on the communication partner's device used and, depending on the settings of their device, also location information (so-called metadata).
+
+**Information on Legal basis:** If we ask communication partners for permission before communicating with them via messenger services, the legal basis of our processing of their data is their consent. Otherwise, if we do not request consent and you contact us, for example, voluntarily, we use messenger services in our dealings with our contractual partners and as part of the contract initiation process as a contractual measure and in the case of other interested parties and communication partners on the basis of our legitimate interests in fast and efficient communication and meeting the needs of our communication partners for communication via messenger services. We would also like to point out that we do not transmit the contact data provided to us to the messenger service providers for the first time without your consent.
+
+**Withdrawal, objection and deletion:** You can withdraw your consent or object to communication with us via messenger services at any time. In the case of communication via messenger services, we delete the messages in accordance with our general data retention policy (i.e. as described above after the end of contractual relationships, archiving requirements, etc.) and otherwise as soon as we can assume that we have answered any information provided by the communication partners, if no reference to a previous conversation is to be expected and there are no legal obligations to store the messages to prevent their deletion.
+
+**Reservation of reference to other means of communication:** For your security, we kindly ask for your understanding that we may not respond to enquiries via messenger for specific reasons. This applies in situations where contract details require heightened confidentiality or a response via messenger does not meet formal requirements. In such cases, we recommend using more appropriate communication channels.
+
+*   **Processed data types:** Contact data (e.g. postal and email addresses or phone numbers); Content data (e.g. textual or pictorial messages and contributions, as well as information pertaining to them, such as details of authorship or the time of creation.); Usage data (e.g. page views and duration of visit, click paths, intensity and frequency of use, types of devices and operating systems used, interactions with content and features). Meta, communication and process data (e.g. IP addresses, timestamps, identification numbers, involved parties).
+*   **Data subjects:** Communication partner (Recipients of e-mails, letters, etc.).
+*   **Purposes of processing:** Communication. Direct marketing (e.g. by e-mail or postal).
+*   **Retention and deletion:** Deletion in accordance with the information provided in the section "General Information on Data Retention and Deletion".
+*   **Legal Basis:** Consent (Article 6 (1) (a) GDPR); Performance of a contract and prior requests (Article 6 (1) (b) GDPR). Legitimate Interests (Article 6 (1) (f) GDPR).
+
+**Further information on processing methods, procedures and services used:**
+
+*   **Apple iMessage:** Send and receive text messages, voice messages, and video calls. Conduct group conversations. Share files, photos, videos, and locations. Secure communication through end-to-end encryption. Synchronise messages across multiple devices; **Service provider**: Apple Inc., Infinite Loop, Cupertino, CA 95014, USA; **Legal Basis:** Legitimate Interests (Article 6 (1) (f) GDPR); **Website:** [https://www.apple.com/](https://www.apple.com/). **Privacy Policy:** [https://www.apple.com/privacy/privacy-policy/](https://www.apple.com/privacy/privacy-policy/).
+*   **Signal:** Signal Messenger with end-to-end encryption; **Service provider**: Privacy Signal Messenger, LLC 650 Castro Street, Suite 120-223 Mountain View, CA 94041, USA; **Legal Basis:** Legitimate Interests (Article 6 (1) (f) GDPR); **Website:** [https://signal.org/](https://signal.org/). **Privacy Policy:** [https://signal.org/legal/](https://signal.org/legal/).
+*   **Slack:** Team communication and collaboration, real-time messaging, file and document sharing, integration with third-party tools, video and voice calls, channels for topic-specific discussions, search function for messages and files; **Service provider**: Slack Technologies, Inc., 500 Howard Street, San Francisco, CA 94105, USA; **Legal Basis:** Legitimate Interests (Article 6 (1) (f) GDPR); **Website:** [https://slack.com/](https://slack.com/); **Privacy Policy:** [https://slack.com/legal](https://slack.com/legal); **Data Processing Agreement:** [https://slack.com/intl/de-de/terms-of-service/data-processing](https://slack.com/intl/de-de/terms-of-service/data-processing); **Basis for third-country transfers:** Data Privacy Framework (DPF). **Further Information:** Security measures: [https://slack.com/intl/en-gb/security-practices](https://slack.com/intl/en-gb/security-practices).
+*   **Threema:** Encrypted message transmission, voice and video calls, file and media sharing, surveys and polls, group chat functionality, contact verification through QR codes, no requirement for phone numbers or email addresses; **Service provider**: Threema GmbH, Churerstrasse 82, 8808 Pfäffikon SZ, Switzerland; **Legal Basis:** Legitimate Interests (Article 6 (1) (f) GDPR); **Website:** [https://threema.ch/de](https://threema.ch/de); **Privacy Policy:** [https://threema.ch/en/privacy](https://threema.ch/en/privacy). **Basis for third-country transfers:** Adequacy decision (Switzerland).
+*   **Discord:** Chat, audio and video broadcasting, instant messaging, and community management; **Service provider**: Discord, Inc., 444 De Haro St, Suite 200, San Francisco, California 94107, USA; **Legal Basis:** Legitimate Interests (Article 6 (1) (f) GDPR); **Website:** [https://discordapp.com/](https://discordapp.com/); **Privacy Policy:** [https://discordapp.com/privacy](https://discordapp.com/privacy). **Basis for third-country transfers:** Data Privacy Framework (DPF).
+
+### Push notifications {#m1643}
+
+With the consent of the users, we can send the users so-called "push notifications". These are messages that are displayed on users' screens, devices or browsers, even if our online services are not being actively used.
+
+In order to sign up for push messages, users must confirm that their browser or device has requested to receive push messages. This approval process is documented and stored. The storage is necessary to recognize whether users have consented to receive the push messages and to be able to prove their consent. For these purposes, a pseudonymous identifier of the browser (so-called "push token") or the device ID of a terminal device is stored.
+
+The push messages may be necessary for the fulfilment of contractual obligations (e.g. technical and organisational information relevant for the use of our online offer) and will otherwise be sent, unless specifically mentioned below, on the basis of user consent. Users can change the receipt of push messages at any time using the notification settings of their respective browsers or end devices.
+
+*   **Processed data types:** Usage data (e.g. page views and duration of visit, click paths, intensity and frequency of use, types of devices and operating systems used, interactions with content and features); Meta, communication and process data (e.g. IP addresses, timestamps, identification numbers, involved parties). Location data (Information on the geographical position of a device or person).
+*   **Data subjects:** Communication partner (Recipients of e-mails, letters, etc.).
+*   **Purposes of processing:** Communication; Provision of our online services and usability. Direct marketing (e.g. by e-mail or postal).
+*   **Retention and deletion:** Deletion in accordance with the information provided in the section "General Information on Data Retention and Deletion". Deletion after termination.
+*   **Legal Basis:** Consent (Article 6 (1) (a) GDPR). Legitimate Interests (Article 6 (1) (f) GDPR).
+
+**Further information on processing methods, procedures and services used:**
+
+*   **Push messages with commercial information:** The push notifications we send may contain commercial information. The commercial push messages are processed on the basis of user consent. If the contents of the push messages are described in detail in the context of the consent to receive the commercial push messages, the descriptions are decisive for the consent of the users. In addition, our newsletters contain information about our services and us; **Legal Basis:** Consent (Article 6 (1) (a) GDPR).
+*   **Location-dependent delivery of push messages:** The push notifications sent by us can be displayed depending on the location of the users based on the location data transmitted by the device used; **Legal Basis:** Consent (Article 6 (1) (a) GDPR).
+
+### Video Conferences, Online Meetings, Webinars and Screen-Sharing {#m735}
+
+We use platforms and applications of other providers (hereinafter referred to as "Conference Platforms") for the purpose of conducting video and audio conferences, webinars and other types of video and audio meetings (hereinafter collectively referred to as "Conference"). When using the Conference Platforms and their services, we comply with the legal requirements.
+
+**Data processed by Conference Platforms:** In the course of participation in a Conference, the Data of the participants listed below are processed. The scope of the processing depends, on the one hand, on which data is requested in the context of a specific Conference (e.g., provision of access data or clear names) and which optional information is provided by the participants. In addition to processing for the purpose of conducting the conference, participants' Data may also be processed by the Conference Platforms for security purposes or service optimization. The processed Date includes personal information (first name, last name), contact information (e-mail address, telephone number), access data (access codes or passwords), profile pictures, information on professional position/function, the IP address of the internet access, information on the participants' end devices, their operating system, the browser and its technical and linguistic settings, information on the content-related communication processes, i.e. entries in chats and audio and video data, as well as the use of other available functions (e.g. surveys). The content of communications is encrypted to the extent technically provided by the conference providers. If participants are registered as users with the Conference Platforms, then further data may be processed in accordance with the agreement with the respective Conference Provider.
+
+**Logging and recording:** If text entries, participation results (e.g. from surveys) as well as video or audio recordings are recorded, this will be transparently communicated to the participants in advance and they will be asked - if necessary - for their consent.
+
+**Data protection measures of the participants:** Please refer to the data privacy information of the Conference Platforms for details on the processing of your data and select the optimum security and data privacy settings for you within the framework of the settings of the conference platforms. Furthermore, please ensure data and privacy protection in the background of your recording for the duration of a Conference (e.g., by notifying roommates, locking doors, and using the background masking function, if technically possible). Links to the conference rooms as well as access data, should not be passed on to unauthorized third parties.
+
+**Notes on legal bases:** Insofar as, in addition to the Conference Platforms, we also process users' data and ask users for their consent to use contents from the Conferences or certain functions (e.g. consent to a recording of Conferences), the legal basis of the processing is this consent. Furthermore, our processing may be necessary for the fulfillment of our contractual obligations (e.g. in participant lists, in the case of reprocessing of Conference results, etc.). Otherwise, user data is processed on the basis of our legitimate interests in efficient and secure communication with our communication partners.
+
+*   **Processed data types:** Inventory data (For example, the full name, residential address, contact information, customer number, etc.); Contact data (e.g. postal and email addresses or phone numbers); Content data (e.g. textual or pictorial messages and contributions, as well as information pertaining to them, such as details of authorship or the time of creation.); Usage data (e.g. page views and duration of visit, click paths, intensity and frequency of use, types of devices and operating systems used, interactions with content and features); Images and/ or video recordings (e.g. photographs or video recordings of a person); Audio recordings. Log data (e.g. log files concerning logins or data retrieval or access times.).
+*   **Data subjects:** Communication partner (Recipients of e-mails, letters, etc.); Users (e.g. website visitors, users of online services). Persons depicted.
+*   **Purposes of processing:** Provision of contractual services and fulfillment of contractual obligations; Communication. Office and organisational procedures.
+*   **Retention and deletion:** Deletion in accordance with the information provided in the section "General Information on Data Retention and Deletion".
+*   **Legal Basis:** Legitimate Interests (Article 6 (1) (f) GDPR).
+
+**Further information on processing methods, procedures and services used:**
+
+*   **Discord:** Chat, audio and video broadcasting, instant messaging, and community management; **Service provider**: Discord, Inc., 444 De Haro St, Suite 200, San Francisco, California 94107, USA; **Legal Basis:** Legitimate Interests (Article 6 (1) (f) GDPR); **Website:** [https://discordapp.com/](https://discordapp.com/); **Privacy Policy:** [https://discordapp.com/privacy](https://discordapp.com/privacy). **Basis for third-country transfers:** Data Privacy Framework (DPF).
+*   **Microsoft Teams:** Audio and video conferencing, chat, file sharing, integration with Office 365 applications, real-time collaboration on documents, calendar functions, task management, screen sharing, optional recording; **Service provider**: Microsoft Irland Operations Limited, One Microsoft Place, South County Business Park, Leopardstown, Dublin 18, D18 P521, Ireland; **Legal Basis:** Legitimate Interests (Article 6 (1) (f) GDPR); **Website:** [https://www.microsoft.com/microsoft-teams/](https://www.microsoft.com/microsoft-teams/); **Privacy Policy:** [https://privacy.microsoft.com/de-de/privacystatement](https://privacy.microsoft.com/de-de/privacystatement), Security information: [https://www.microsoft.com/de-de/trustcenter](https://www.microsoft.com/de-de/trustcenter). **Basis for third-country transfers:** Data Privacy Framework (DPF).
+*   **Slack:** Messenger and conference software; **Service provider**: Slack Technologies Limited, Level 1, Block A Nova Atria North, Sandyford Business District, Dublin 18, Ireland; **Legal Basis:** Legitimate Interests (Article 6 (1) (f) GDPR); **Website:** [https://slack.com/](https://slack.com/); **Privacy Policy:** [https://slack.com/intl/en-de/legal](https://slack.com/intl/en-de/legal); **Data Processing Agreement:** [https://slack.com/intl/de-de/terms-of-service/data-processing](https://slack.com/intl/de-de/terms-of-service/data-processing). **Basis for third-country transfers:** Data Privacy Framework (DPF).
+*   **Zoom:** Video conferences, online meetings, webinars, screen sharing, optional recording of sessions, chat function, integration with calendars and other apps; **Service provider**: Zoom Video Communications, Inc., 55 Almaden Blvd., Suite 600, San Jose, CA 95113, USA; **Legal Basis:** Legitimate Interests (Article 6 (1) (f) GDPR); **Website:** [https://zoom.us](https://zoom.us); **Privacy Policy:** [https://explore.zoom.us/en/privacy/](https://explore.zoom.us/en/privacy/); **Data Processing Agreement:** [https://explore.zoom.us/docs/doc/Zoom\_GLOBAL\_DPA.pdf](https://explore.zoom.us/docs/doc/Zoom_GLOBAL_DPA.pdf). **Basis for third-country transfers:** Data Privacy Framework (DPF).
+*   **Nextcloud (hosting on own server):** Cloud storage service, with operation and storage of processed data on a server managed by us; **Service provider**: Nextcloud GmbH, Hauptmannsreute 44a, 70192 Stuttgart, Germany; **Legal Basis:** Legitimate Interests (Article 6 (1) (f) GDPR); **Website:** [https://nextcloud.com/](https://nextcloud.com/). **Privacy Policy:** [https://nextcloud.com/privacy/](https://nextcloud.com/privacy/).
+
+### Audio Content {#m296}
+
+We utilise hosting services from service providers to offer our audio content for listening and downloading. In this process, we employ platforms that enable the uploading, storage, and distribution of audio material.
+
+*   **Processed data types:** Usage data (e.g. page views and duration of visit, click paths, intensity and frequency of use, types of devices and operating systems used, interactions with content and features); Meta, communication and process data (e.g. IP addresses, timestamps, identification numbers, involved parties). Log data (e.g. log files concerning logins or data retrieval or access times.).
+*   **Data subjects:** Users (e.g. website visitors, users of online services).
+*   **Purposes of processing:** Web Analytics (e.g. access statistics, recognition of returning visitors); Conversion tracking (Measurement of the effectiveness of marketing activities); Profiles with user-related information (Creating user profiles). Provision of our online services and usability.
+*   **Retention and deletion:** Deletion in accordance with the information provided in the section "General Information on Data Retention and Deletion".
+*   **Legal Basis:** Legitimate Interests (Article 6 (1) (f) GDPR).
+
+**Further information on processing methods, procedures and services used:**
+
+*   **Podlove Podcast Publisher:** Podcasts publication; **Service provider**: Executed on servers and/or computers under our controllership; **Legal Basis:** Legitimate Interests (Article 6 (1) (f) GDPR). **Website:** [https://podlove.org/](https://podlove.org/).
+*   **Soundcloud:** Soundcloud - Music hosting; **Service provider**: SoundCloud Limited, Rheinsberger Str. 76/77, 10115 Berlin, Germany; **Legal Basis:** Legitimate Interests (Article 6 (1) (f) GDPR); **Website:** [https://soundcloud.com](https://soundcloud.com). **Privacy Policy:** [https://soundcloud.com/pages/privacy](https://soundcloud.com/pages/privacy).
+*   **Spotify:** Spotify - Music hosting and Widget; **Service provider**: Spotify AB, Regeringsgatan 19, SE-111 53 Stockholm, Sweden; **Legal Basis:** Legitimate Interests (Article 6 (1) (f) GDPR); **Website:** [https://podcasters.spotify.com/](https://podcasters.spotify.com/). **Privacy Policy:** [https://www.spotify.com/legal/privacy-policy/](https://www.spotify.com/legal/privacy-policy/).
+
+### Cloud Services {#m29}
+
+We use Internet-accessible software services (so-called "cloud services", also referred to as "Software as a Service") provided on the servers of its providers for the storage and management of content (e.g. document storage and management, exchange of documents, content and information with certain recipients or publication of content and information).
+
+Within this framework, personal data may be processed and stored on the provider's servers insofar as this data is part of communication processes with us or is otherwise processed by us in accordance with this privacy policy. This data may include in particular master data and contact data of data subjects, data on processes, contracts, other proceedings and their contents. Cloud service providers also process usage data and metadata that they use for security and service optimization purposes.
+
+If we use cloud services to provide documents and content to other users or publicly accessible websites, forms, etc., providers may store cookies on users' devices for web analysis or to remember user settings (e.g. in the case of media control).
+
+*   **Processed data types:** Inventory data (For example, the full name, residential address, contact information, customer number, etc.); Contact data (e.g. postal and email addresses or phone numbers); Content data (e.g. textual or pictorial messages and contributions, as well as information pertaining to them, such as details of authorship or the time of creation.). Usage data (e.g. page views and duration of visit, click paths, intensity and frequency of use, types of devices and operating systems used, interactions with content and features).
+*   **Data subjects:** Prospective customers; Communication partner (Recipients of e-mails, letters, etc.). Business and contractual partners.
+*   **Purposes of processing:** Office and organisational procedures. Information technology infrastructure (Operation and provision of information systems and technical devices, such as computers, servers, etc.).).
+*   **Retention and deletion:** Deletion in accordance with the information provided in the section "General Information on Data Retention and Deletion".
+*   **Legal Basis:** Legitimate Interests (Article 6 (1) (f) GDPR).
+
+**Further information on processing methods, procedures and services used:**
+
+*   **Nextcloud (hosting on own server):** Cloud storage service, with operation and storage of processed data on a server managed by us; **Service provider**: Nextcloud GmbH, Hauptmannsreute 44a, 70192 Stuttgart, Germany; **Legal Basis:** Legitimate Interests (Article 6 (1) (f) GDPR); **Website:** [https://nextcloud.com/](https://nextcloud.com/). **Privacy Policy:** [https://nextcloud.com/privacy/](https://nextcloud.com/privacy/).
+
+### Surveys and Questionnaires {#m408}
+
+We conduct surveys and interviews to gather information for the survey purpose communicated in each case. The surveys and questionnaires ("surveys") carried out by us are evaluated anonymously. Personal data is only processed insofar as this is necessary for the provision and technical execution of the survey (e.g. processing the IP address to display the survey in the user's browser or to enable a resumption of the survey with the aid of a cookie).
+
+*   **Processed data types:** Inventory data (For example, the full name, residential address, contact information, customer number, etc.); Contact data (e.g. postal and email addresses or phone numbers); Content data (e.g. textual or pictorial messages and contributions, as well as information pertaining to them, such as details of authorship or the time of creation.); Usage data (e.g. page views and duration of visit, click paths, intensity and frequency of use, types of devices and operating systems used, interactions with content and features). Meta, communication and process data (e.g. IP addresses, timestamps, identification numbers, involved parties).
+*   **Data subjects:** Participants; Employees (e.g. employees, job applicants, temporary workers, and other personnel.); Communication partner (Recipients of e-mails, letters, etc.). Business and contractual partners.
+*   **Purposes of processing:** Feedback (e.g. collecting feedback via online form). Polls and Questionnaires (e.g. surveys with input options, multiple choice questions).
+*   **Retention and deletion:** Deletion in accordance with the information provided in the section "General Information on Data Retention and Deletion".
+*   **Legal Basis:** Legitimate Interests (Article 6 (1) (f) GDPR).
+
+**Further information on processing methods, procedures and services used:**
+
+*   **Mentimeter:** Erstellung von Präsentationen und Besprechungen mit Echtzeit-Feedback; **Service provider**: Mentimeter AB, Alströmergatan 22 SE-112 47 Stockholm, Sweden; **Legal Basis:** Legitimate Interests (Article 6 (1) (f) GDPR); **Website:** [https://www.mentimeter.com](https://www.mentimeter.com). **Privacy Policy:** [https://www.mentimeter.com/policies](https://www.mentimeter.com/policies).
+
+### Profiles in Social Networks (Social Media) {#m136}
+
+We maintain online presences within social networks and process user data in this context in order to communicate with the users active there or to offer information about us.
+
+We would like to point out that user data may be processed outside the European Union. This may entail risks for users, e.g. by making it more difficult to enforce users' rights.
+
+In addition, user data is usually processed within social networks for market research and advertising purposes. For example, user profiles can be created on the basis of user behaviour and the associated interests of users. The user profiles can then be used, for example, to place advertisements within and outside the networks which are presumed to correspond to the interests of the users. For these purposes, cookies are usually stored on the user's computer, in which the user's usage behaviour and interests are stored. Furthermore, data can be stored in the user profiles independently of the devices used by the users (especially if the users are members of the respective networks or will become members later on).
+
+For a detailed description of the respective processing operations and the opt-out options, please refer to the respective data protection declarations and information provided by the providers of the respective networks.
+
+Also in the case of requests for information and the exercise of rights of data subjects, we point out that these can be most effectively pursued with the providers. Only the providers have access to the data of the users and can directly take appropriate measures and provide information. If you still need help, please do not hesitate to contact us.
+
+*   **Processed data types:** Contact data (e.g. postal and email addresses or phone numbers); Content data (e.g. textual or pictorial messages and contributions, as well as information pertaining to them, such as details of authorship or the time of creation.); Usage data (e.g. page views and duration of visit, click paths, intensity and frequency of use, types of devices and operating systems used, interactions with content and features); Inventory data (For example, the full name, residential address, contact information, customer number, etc.). Meta, communication and process data (e.g. IP addresses, timestamps, identification numbers, involved parties).
+*   **Data subjects:** Users (e.g. website visitors, users of online services); Business and contractual partners. Communication partner (Recipients of e-mails, letters, etc.).
+*   **Purposes of processing:** Communication; Feedback (e.g. collecting feedback via online form); Public relations; Provision of our online services and usability; Information technology infrastructure (Operation and provision of information systems and technical devices, such as computers, servers, etc.).); Public relations and informational purposes. Direct marketing (e.g. by e-mail or postal).
+*   **Retention and deletion:** Deletion in accordance with the information provided in the section "General Information on Data Retention and Deletion".
+*   **Legal Basis:** Legitimate Interests (Article 6 (1) (f) GDPR).
+
+**Further information on processing methods, procedures and services used:**
+
+*   **Bluesky:** Decentralised social media network - allows for the creation, sharing and commenting on content, as well as following user profiles; **Service provider**: Bluesky, PBLLC., Seattle, USA, [support@bsky.app](mailto:support@bsky.app); **Legal Basis:** Legitimate Interests (Article 6 (1) (f) GDPR); **Website:** [https://bsky.social/](https://bsky.social/). **Privacy Policy:** [https://bsky.social/about/support/privacy-policy](https://bsky.social/about/support/privacy-policy).
+*   **LinkedIn:** Social network - We are jointly responsible with LinkedIn Ireland Unlimited Company for the collection (but not the further processing) of visitor data, which is used to create "Page Insights" (statistics) for our LinkedIn profiles. This data includes information about the types of content users view or interact with, as well as the actions they take. It also includes details about the devices used, such as IP addresses, operating systems, browser types, language settings, and cookie data, as well as profile details of users, such as job function, country, industry, seniority, company size, and employment status. Privacy information regarding the processing of user data by LinkedIn can be found in LinkedIn's privacy policy: [https://www.linkedin.com/legal/privacy-policy.](https://www.linkedin.com/legal/privacy-policy)  
+    We have entered into a special agreement with LinkedIn Ireland ("Page Insights Joint Controller Addendum," [https://legal.linkedin.com/pages-joint-controller-addendum](https://legal.linkedin.com/pages-joint-controller-addendum)), which specifically regulates the security measures LinkedIn must comply with and in which LinkedIn has agreed to fulfill the rights of data subjects (i.e., users can, for example, direct requests for information or deletion directly to LinkedIn). The rights of users (particularly the right to information, deletion, objection, and to lodge a complaint with the competent supervisory authority) are not restricted by our agreements with LinkedIn. The joint responsibility is limited to the collection of data and its transmission to LinkedIn Ireland Unlimited Company, a company based in the EU. Further processing of the data is the sole responsibility of LinkedIn Ireland Unlimited Company, particularly concerning the transfer of data to the parent company LinkedIn Corporation in the USA; **Service provider**: LinkedIn Ireland Unlimited Company, Wilton Place, Dublin 2, Ireland; **Legal Basis:** Legitimate Interests (Article 6 (1) (f) GDPR); **Website:** [https://www.linkedin.com](https://www.linkedin.com); **Privacy Policy:** [https://www.linkedin.com/legal/privacy-policy](https://www.linkedin.com/legal/privacy-policy); **Basis for third-country transfers:** Data Privacy Framework (DPF). **Opt-Out:** [https://www.linkedin.com/psettings/guest-controls/retargeting-opt-out](https://www.linkedin.com/psettings/guest-controls/retargeting-opt-out).
+*   **Threads:** Social network; **Service provider**: Meta Platforms Ireland Limited, Merrion Road, Dublin 4, D04 X2K5, Ireland; **Legal Basis:** Legitimate Interests (Article 6 (1) (f) GDPR); **Website:** [https://www.threads.net/](https://www.threads.net/). **Privacy Policy:** [https://help.instagram.com/515230437301944?locale=en\_GB](https://help.instagram.com/515230437301944?locale=en_GB).
+*   **X:** Social network; **Service provider**: Twitter International Company, One Cumberland Place, Fenian Street, Dublin 2 D02 AX07, Ireland; **Legal Basis:** Legitimate Interests (Article 6 (1) (f) GDPR); **Website:** [https://x.com](https://x.com). **Privacy Policy:** [https://x.com/privacy](https://x.com/privacy).
+*   **YouTube:** Social network and video platform; **Service provider**: Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Ireland; **Legal Basis:** Legitimate Interests (Article 6 (1) (f) GDPR); **Privacy Policy:** [https://policies.google.com/privacy](https://policies.google.com/privacy); **Basis for third-country transfers:** Data Privacy Framework (DPF). **Opt-Out:** [https://myadcenter.google.com/personalizationoff](https://myadcenter.google.com/personalizationoff).
+*   **GitHub:** Platform for version control of software projects. Developers are enabled to upload their code to repositories and track changes, as well as use tools for project management in software development; **Service provider**: GitHub B.V., Netherlands, [https://support.github.com/contact/privacy](https://support.github.com/contact/privacy); **Legal Basis:** Legitimate Interests (Article 6 (1) (f) GDPR); **Website:** [https://github.com](https://github.com). **Privacy Policy:** [https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement](https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement).
+*   **Signal:** Signal Messenger with end-to-end encryption; **Service provider**: Privacy Signal Messenger, LLC 650 Castro Street, Suite 120-223 Mountain View, CA 94041, USA; **Legal Basis:** Legitimate Interests (Article 6 (1) (f) GDPR); **Website:** [https://signal.org/](https://signal.org/). **Privacy Policy:** [https://signal.org/legal/](https://signal.org/legal/).
+
+### Plugins and embedded functions and content {#m328}
+
+Within our online services, we integrate functional and content elements that are obtained from the servers of their respective providers (hereinafter referred to as "third-party providers"). These may, for example, be graphics, videos or city maps (hereinafter uniformly referred to as "Content").
+
+The integration always presupposes that the third-party providers of this content process the IP address of the user, since they could not send the content to their browser without the IP address. The IP address is therefore required for the presentation of these contents or functions. We strive to use only those contents, whose respective offerers use the IP address only for the distribution of the contents. Third parties may also use so-called pixel tags (invisible graphics, also known as "web beacons") for statistical or marketing purposes. The "pixel tags" can be used to evaluate information such as visitor traffic on the pages of this website. The pseudonymous information may also be stored in cookies on the user's device and may include technical information about the browser and operating system, referring websites, visit times and other information about the use of our website, as well as may be linked to such information from other sources.
+
+*   **Processed data types:** Usage data (e.g. page views and duration of visit, click paths, intensity and frequency of use, types of devices and operating systems used, interactions with content and features); Meta, communication and process data (e.g. IP addresses, timestamps, identification numbers, involved parties); Location data (Information on the geographical position of a device or person); Contact data (e.g. postal and email addresses or phone numbers); Content data (e.g. textual or pictorial messages and contributions, as well as information pertaining to them, such as details of authorship or the time of creation.); Inventory data (For example, the full name, residential address, contact information, customer number, etc.); Payment Data (e.g. bank details, invoices, payment history). Contract data (e.g. contract object, duration, customer category).
+*   **Data subjects:** Users (e.g. website visitors, users of online services). Service recipients and clients.
+*   **Purposes of processing:** Provision of our online services and usability; Web Analytics (e.g. access statistics, recognition of returning visitors); Targeting (e.g. profiling based on interests and behaviour, use of cookies); Affiliate Tracking; Marketing; Profiles with user-related information (Creating user profiles); Feedback (e.g. collecting feedback via online form); Conversion tracking (Measurement of the effectiveness of marketing activities); Provision of contractual services and fulfillment of contractual obligations. Office and organisational procedures.
+*   **Retention and deletion:** Deletion in accordance with the information provided in the section "General Information on Data Retention and Deletion". Storage of cookies for up to 2 years (Unless otherwise stated, cookies and similar storage methods may be stored on users' devices for a period of two years.).
+*   **Legal Basis:** Consent (Article 6 (1) (a) GDPR). Legitimate Interests (Article 6 (1) (f) GDPR).
+
+**Further information on processing methods, procedures and services used:**
+
+*   **Integration of third-party software, scripts or frameworks:** We incorporate into our online services software which we retrieve from servers of other providers (e.g. function libraries which we use for the purpose of displaying or user-friendliness of our online services). The respective providers collect the user's IP address and can process it for the purposes of transferring the software to the user's browser as well as for security purposes and for the evaluation and optimisation of their services; **Legal Basis:** Legitimate Interests (Article 6 (1) (f) GDPR).
+*   **Google Fonts (Provision on own server):** Provision of font files for the purpose of a user-friendly presentation of our online services; **Service provider**: The Google Fonts are hosted on our server, no data is transmitted to Google; **Legal Basis:** Legitimate Interests (Article 6 (1) (f) GDPR).
+*   **Font Awesome (Provision on own server):** Display of fonts and symbols; **Service provider**: The Font Awesome icons are hosted on our server, no data is transmitted to the provider of Font Awesome; **Legal Basis:** Legitimate Interests (Article 6 (1) (f) GDPR).
+*   **Google Maps:** We integrate the maps of the service "Google Maps" from the provider Google. The data processed may include, in particular, IP addresses and location data of users; **Service provider**: Google Cloud EMEA Limited, 70 Sir John Rogerson’s Quay, Dublin 2, Ireland; **Legal Basis:** Consent (Article 6 (1) (a) GDPR); **Website:** [https://mapsplatform.google.com/](https://mapsplatform.google.com/); **Privacy Policy:** [https://policies.google.com/privacy](https://policies.google.com/privacy). **Basis for third-country transfers:** Data Privacy Framework (DPF).
+*   **Google Maps APIs and SDKs:** Interfaces to the map and location services provided by Google, which, for example, allow the addition of address entries, location determinations, distance calculations or the provision of supplementary information on locations and other places; **Service provider**: Google Cloud EMEA Limited, 70 Sir John Rogerson’s Quay, Dublin 2, Ireland; **Legal Basis:** Consent (Article 6 (1) (a) GDPR); **Website:** [https://mapsplatform.google.com/](https://mapsplatform.google.com/); **Privacy Policy:** [https://policies.google.com/privacy](https://policies.google.com/privacy). **Basis for third-country transfers:** Data Privacy Framework (DPF).
+*   **Instagram plugins and contents:** Instagram plugins and contents - This can include content such as images, videos or text and buttons with which users can share content from this online service within Instagram . - We are jointly responsible (so-called "joint-controllership") with Meta Platforms Ireland Limited for the collection or transmission (but not further processing) of "Event Data" that Facebook collects or receives as part of a transmission using Instagram functions that run on our website for the following purposes: a) displaying content advertising information that matches users' presumed interests; b) delivering commercial and transactional messages (e.g. b) delivering commercial and transactional messages (e.g., addressing users via Facebook Messenger); c) improving ad delivery and personalizing features and content (e.g., improving recognition of which content or advertising information is believed to be of interest to users). We have entered into a special agreement with Facebook ("Controller Addendum", [https://www.facebook.com/legal/controller\_addendum](https://www.facebook.com/legal/controller_addendum)), which specifically addresses the security measures that Facebook must take ([https://www.facebook.com/legal/terms/data\_security\_terms](https://www.facebook.com/legal/terms/data_security_terms)) and in which Facebook has agreed to comply with the rights of data subjects (i.e., users can, for example, submit information access or deletion requests directly to Facebook). Note: If Facebook provides us with measurements, analyses and reports (which are aggregated, i.e. do not contain information on individual users and are anonymous to us), then this processing is not carried out within the scope of joint responsibility, but on the basis of a DPA ("Data Processing Terms", [https://www.facebook.com/legal/terms/dataprocessing/update](https://www.facebook.com/legal/terms/dataprocessing/update)), the "Data Security Conditions" ([https://www.facebook.com/legal/terms/data\_security\_terms](https://www.facebook.com/legal/terms/data_security_terms)) and, with regard to processing in the USA, on the basis of Standard Contractual Clauses ("Facebook EU Data Transfer Addendum, [https://www.facebook.com/legal/EU\_data\_transfer\_addendum](https://www.facebook.com/legal/EU_data_transfer_addendum)). The rights of users (in particular to access to information, erasure, objection and complaint to the competent supervisory authority) are not restricted by the agreements with Facebook; **Service provider**: Meta Platforms Ireland Limited, Merrion Road, Dublin 4, D04 X2K5, Ireland; **Legal Basis:** Legitimate Interests (Article 6 (1) (f) GDPR); **Website:** [https://www.instagram.com](https://www.instagram.com). **Privacy Policy:** [https://privacycenter.instagram.com/policy/](https://privacycenter.instagram.com/policy/).
+*   **LinkedIn plugins and contents:** LinkedIn plugins and contents - This can include content such as images, videos or text and buttons with which users can share content from this online service within LinkedIn; **Service provider**: LinkedIn Ireland Unlimited Company, Wilton Place, Dublin 2, Ireland; **Legal Basis:** Legitimate Interests (Article 6 (1) (f) GDPR); **Website:** [https://www.linkedin.com](https://www.linkedin.com); **Privacy Policy:** [https://www.linkedin.com/legal/privacy-policy](https://www.linkedin.com/legal/privacy-policy); **Data Processing Agreement:** [https://legal.linkedin.com/dpa](https://legal.linkedin.com/dpa); **Basis for third-country transfers:** Data Privacy Framework (DPF). **Opt-Out:** [https://www.linkedin.com/psettings/guest-controls/retargeting-opt-out](https://www.linkedin.com/psettings/guest-controls/retargeting-opt-out).
+*   **OpenStreetMap:** We integrate the maps from the "OpenStreetMap" service, which are provided based on the Open Data Commons Open Database License (ODbL) by the OpenStreetMap Foundation (OSMF). OpenStreetMap uses user data exclusively for the purpose of displaying map functions and caching the selected settings. This data may particularly include the IP addresses and location data of the users, which, however, are not collected without their consent (typically within the settings of their devices or browsers); **Service provider**: OpenStreetMap Foundation (OSMF); **Legal Basis:** Legitimate Interests (Article 6 (1) (f) GDPR); **Website:** [https://www.openstreetmap.de](https://www.openstreetmap.de); **Terms & Conditions:** [https://osmfoundation.org/wiki/Privacy\_Policy](https://osmfoundation.org/wiki/Privacy_Policy). **Privacy Policy:** [https://wiki.osmfoundation.org/wiki/Privacy\_Policy](https://wiki.osmfoundation.org/wiki/Privacy_Policy).
+*   **Shariff:** We use the privacy-secure "Shariff" buttons. "Shariff" was developed to provide more privacy on the net and to replace the usual "share" buttons of social networks. It is not the browser of the user, but the server on which this online offer is located, which establishes a connection with the server of the respective social media platforms and queries, for example, the number of Likes, etc. The user remains anonymous. More information about the Shariff project can be found at the developers of the magazine c't: [https://www.heise.de/ct/artikel/Shariff-Social-Media-Buttons-mit-Datenschutz-2467514.html](https://www.heise.de/ct/artikel/Shariff-Social-Media-Buttons-mit-Datenschutz-2467514.html); **Service provider**: Heise Medien GmbH & Co. KG, Karl-Wiechert-Allee 10, 30625 Hannover, Germany; **Legal Basis:** Legitimate Interests (Article 6 (1) (f) GDPR); **Website:** [https://www.heise.de/ct/artikel/Shariff-Social-Media-Buttons-mit-Datenschutz-2467514.html](https://www.heise.de/ct/artikel/Shariff-Social-Media-Buttons-mit-Datenschutz-2467514.html). **Privacy Policy:** [https://www.heise.de/Datenschutzerklaerung-der-Heise-Medien-GmbH-Co-KG-4860.html](https://www.heise.de/Datenschutzerklaerung-der-Heise-Medien-GmbH-Co-KG-4860.html).
+*   **X plugins and contents:** Plugins and buttons of the platform "X" - This may include, for example, content such as images, videos or texts and buttons with which users can share content of this online offer within X; **Service provider**: Twitter International Company, One Cumberland Place, Fenian Street, Dublin 2 D02 AX07, Ireland; **Legal Basis:** Legitimate Interests (Article 6 (1) (f) GDPR); **Website:** [https://x.com](https://x.com); **Privacy Policy:** [https://x.com/privacy](https://x.com/privacy), (Settings: [https://x.com/personalization](https://x.com/personalization)); **Data Processing Agreement:** [https://privacy.x.com/en/for-our-partners/global-dpa](https://privacy.x.com/en/for-our-partners/global-dpa). **Basis for third-country transfers:** Standard Contractual Clauses ([https://privacy.x.com/en/for-our-partners/global-dpa](https://privacy.x.com/en/for-our-partners/global-dpa)).
+*   **YouTube videos:** Video contents; **Service provider**: Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Ireland, , parent company: Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA; **Legal Basis:** Consent (Article 6 (1) (a) GDPR); **Website:** [https://www.youtube.com](https://www.youtube.com); **Privacy Policy:** [https://policies.google.com/privacy](https://policies.google.com/privacy); **Basis for third-country transfers:** Data Privacy Framework (DPF). **Opt-Out:** Opt-Out-Plugin: [https://tools.google.com/dlpage/gaoptout?hl=en](https://tools.google.com/dlpage/gaoptout?hl=en), Settings for the Display of Advertisements: [https://myadcenter.google.com/personalizationoff](https://myadcenter.google.com/personalizationoff).
+*   **YouTube-Videos:** Video content: YouTube videos are embedded via a special domain, identifiable by the component "youtube-nocookie". This occurs in the so-called "enhanced privacy mode", ensuring that no cookies are collected for user activities to personalise video playback as long as the videos are not played. When users merely visit the webpage where the videos are displayed, no data collection occurs that could influence the user experience on YouTube. The enhanced privacy mode of the embedded YouTube player ensures that simply displaying the embedded videos does not affect which content or recommendations viewers later see on YouTube. This means that the videos are not used for personalising content or recommendations as long as they are not played – even during subsequent use of YouTube. If ads appear in a video that is not played, these ads are also non-personalised. However, once a video is played, cookies may be stored. These cookies can then be used for profiling and usage analysis purposes and to display personalised advertising – both on YouTube itself and externally on other websites; **Service provider**: Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Ireland, , parent company: Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA; **Legal Basis:** Consent (Article 6 (1) (a) GDPR); **Website:** [https://www.youtube.com](https://www.youtube.com); **Privacy Policy:** [https://policies.google.com/privacy](https://policies.google.com/privacy); **Basis for third-country transfers:** Data Privacy Framework (DPF). **Further Information:** [https://support.google.com/youtube/answer/171780?hl=en#zippy=%2Cerweiterten-datenschutzmodus-aktivieren%2Cturn-on-privacy-enhanced-mode](https://support.google.com/youtube/answer/171780?hl=en#zippy=%2Cerweiterten-datenschutzmodus-aktivieren%2Cturn-on-privacy-enhanced-mode).
+*   **Vimeo-Videoplayer:** Integration of a video player; **Service provider**: Vimeo Inc., Attention: Legal Department, 555 West 18th Street New York, New York 10011, USA; **Legal Basis:** Legitimate Interests (Article 6 (1) (f) GDPR); **Website:** [https://vimeo.com](https://vimeo.com); **Privacy Policy:** [https://vimeo.com/privacy](https://vimeo.com/privacy); **Data Processing Agreement:** [https://vimeo.com/enterpriseterms/dpa](https://vimeo.com/enterpriseterms/dpa). **Basis for third-country transfers:** Standard Contractual Clauses ([https://vimeo.com/enterpriseterms/dpa](https://vimeo.com/enterpriseterms/dpa)).
+*   **Soundcloud:** Soundcloud - Music hosting; **Service provider**: SoundCloud Limited, Rheinsberger Str. 76/77, 10115 Berlin, Germany; **Legal Basis:** Legitimate Interests (Article 6 (1) (f) GDPR); **Website:** [https://soundcloud.com](https://soundcloud.com). **Privacy Policy:** [https://soundcloud.com/pages/privacy](https://soundcloud.com/pages/privacy).
+*   **Apple App Store:** App and software distribution platform; **Service provider**: Apple Inc., Infinite Loop, Cupertino, CA 95014, USA; **Legal Basis:** Legitimate Interests (Article 6 (1) (f) GDPR); **Website:** [https://www.apple.com/app-store/](https://www.apple.com/app-store/). **Privacy Policy:** [https://www.apple.com/privacy/privacy-policy/](https://www.apple.com/privacy/privacy-policy/).
+*   **Apple Podcasts:** Podcast hosting and statistical analysis of podcast performance; **Service provider**: Apple Inc., Infinite Loop, Cupertino, CA 95014, USA; **Website:** [https://www.apple.com/apple-podcasts/](https://www.apple.com/apple-podcasts/). **Privacy Policy:** [https://www.apple.com/legal/privacy/](https://www.apple.com/legal/privacy/).
+*   **Google Docs:** Online word processing application, document storage, collaboration, and sharing; **Service provider**: Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Ireland; **Legal Basis:** Legitimate Interests (Article 6 (1) (f) GDPR); **Website:** [https://www.google.de/docs/about/](https://www.google.de/docs/about/); **Privacy Policy:** [https://cloud.google.com/privacy](https://cloud.google.com/privacy); **Data Processing Agreement:** [https://cloud.google.com/terms/data-processing-addendum](https://cloud.google.com/terms/data-processing-addendum); **Basis for third-country transfers:** Data Privacy Framework (DPF). **Further Information:** [https://cloud.google.com/privacy](https://cloud.google.com/privacy).
+
+### Management, Organization and Utilities {#m723}
+
+We use services, platforms and software from other providers (hereinafter referred to as " third-party providers") for the purposes of organizing, administering, planning and providing our services. When selecting third-party providers and their services, we comply with the legal requirements.
+
+Within this context, personal data may be processed and stored on the servers of third-party providers. This may include various data that we process in accordance with this privacy policy. This data may include in particular master data and contact data of users, data on processes, contracts, other processes and their contents.
+
+If users are referred to the third-party providers or their software or platforms in the context of communication, business or other relationships with us, the third-party provider processing may process usage data and metadata that can be processed by them for security purposes, service optimisation or marketing purposes. We therefore ask you to read the data protection notices of the respective third party providers.
+
+*   **Processed data types:** Content data (e.g. textual or pictorial messages and contributions, as well as information pertaining to them, such as details of authorship or the time of creation.); Usage data (e.g. page views and duration of visit, click paths, intensity and frequency of use, types of devices and operating systems used, interactions with content and features); Meta, communication and process data (e.g. IP addresses, timestamps, identification numbers, involved parties). Inventory data (For example, the full name, residential address, contact information, customer number, etc.).
+*   **Data subjects:** Communication partner (Recipients of e-mails, letters, etc.); Users (e.g. website visitors, users of online services); Employees (e.g. employees, job applicants, temporary workers, and other personnel.). Business and contractual partners.
+*   **Purposes of processing:** Provision of contractual services and fulfillment of contractual obligations; Office and organisational procedures; Feedback (e.g. collecting feedback via online form); Provision of our online services and usability. Information technology infrastructure (Operation and provision of information systems and technical devices, such as computers, servers, etc.).).
+*   **Retention and deletion:** Deletion in accordance with the information provided in the section "General Information on Data Retention and Deletion".
+*   **Legal Basis:** Legitimate Interests (Article 6 (1) (f) GDPR).
+
+**Further information on processing methods, procedures and services used:**
+
+*   **Mentimeter:** Erstellung von Präsentationen und Besprechungen mit Echtzeit-Feedback; **Service provider**: Mentimeter AB, Alströmergatan 22 SE-112 47 Stockholm, Sweden; **Legal Basis:** Legitimate Interests (Article 6 (1) (f) GDPR); **Website:** [https://www.mentimeter.com](https://www.mentimeter.com). **Privacy Policy:** [https://www.mentimeter.com/policies](https://www.mentimeter.com/policies).
+*   **Trello:** Project management tool; **Service provider**: Trello Inc., 55 Broadway New York, NY 10006, USA, parent company: Atlassian Inc. (San Francisco, Harrison Street Location), 1098 Harrison Street, San Francisco, California 94103, USA; **Legal Basis:** Legitimate Interests (Article 6 (1) (f) GDPR); **Website:** [https://trello.com/](https://trello.com/); **Privacy Policy:** [https://trello.com/privacy](https://trello.com/privacy); **Basis for third-country transfers:** Data Privacy Framework (DPF). **Further Information:** Data Transfer Impact Assessment: [https://www.atlassian.com/legal/data-transfer-impact-assessment](https://www.atlassian.com/legal/data-transfer-impact-assessment).
+*   **GitHub:** Platform for version control of software projects. Developers are enabled to upload their code to repositories and track changes, as well as use tools for project management in software development; **Service provider**: GitHub B.V., Netherlands, [https://support.github.com/contact/privacy](https://support.github.com/contact/privacy); **Legal Basis:** Legitimate Interests (Article 6 (1) (f) GDPR); **Website:** [https://github.com](https://github.com). **Privacy Policy:** [https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement](https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement).
+
+### Changes and Updates {#m15}
+
+We kindly ask you to inform yourself regularly about the contents of our data protection declaration. We will adjust the privacy policy as changes in our data processing practices make this necessary. We will inform you as soon as the changes require your cooperation (e.g. consent) or other individual notification.
+
+If we provide addresses and contact information of companies and organizations in this privacy policy, we ask you to note that addresses may change over time and to verify the information before contacting us.
+
+### Terminology and Definitions {#m42}
+
+In this section, you will find an overview of the terminology used in this privacy policy. Where the terminology is legally defined, their legal definitions apply. The following explanations, however, are primarily intended to aid understanding.
+
+*   **Affiliate Tracking:** Custom Audiences refers to the process of determining target groups for advertising purposes, e.g. the display of advertisements. For example, a user's interest in certain products or topics on the Internet may be used to conclude that the user is interested in advertisements for similar products or the online store in which the user viewed the products. "Lookalike Audiences" is the term used to describe content that is viewed as suitable by users whose profiles or interests presumably correspond to the users for whom the profiles were created. For the purposes of creating custom audiences and lookalike audiences, cookies and web beacons are typically used.
+*   **Contact data:** Contact details are essential information that enables communication with individuals or organizations. They include, among others, phone numbers, postal addresses, and email addresses, as well as means of communication like social media handles and instant messaging identifiers.
+*   **Content data:** Content data comprise information generated in the process of creating, editing, and publishing content of all types. This category of data may include texts, images, videos, audio files, and other multimedia content published across various platforms and media. Content data are not limited to the content itself but also include metadata providing information about the content, such as tags, descriptions, authorship details, and publication dates.
+*   **Contract data:** Contract data are specific details pertaining to the formalisation of an agreement between two or more parties. They document the terms under which services or products are provided, exchanged, or sold. This category of data is essential for managing and fulfilling contractual obligations and includes both the identification of the contracting parties and the specific terms and conditions of the agreement. Contract data may encompass the start and end dates of the contract, the nature of the agreed-upon services or products, pricing arrangements, payment terms, termination rights, extension options, and special conditions or clauses. They serve as the legal foundation for the relationship between the parties and are crucial for clarifying rights and duties, enforcing claims, and resolving disputes.
+*   **Controller:** "Controller" means the natural or legal person, public authority, agency or other body which, alone or jointly with others, determines the purposes and means of the processing of personal data.
+*   **Conversion tracking:** Conversion tracking is a method used to evaluate the effectiveness of marketing measures. For this purpose, a cookie is usually stored on the devices of the users within the websites on which the marketing measures take place and then called up again on the target website (e.g. we can thus trace whether the advertisements placed by us on other websites were successful).
+*   **Employees:** As employees, individuals are those who are engaged in an employment relationship, whether as staff, employees, or in similar positions. Employment refers to a legal relationship between an employer and an employee, established through an employment contract or agreement. It entails the obligation of the employer to pay the employee remuneration while the employee performs their work. The employment relationship encompasses various stages, including establishment, where the employment contract is concluded, execution, where the employee carries out their work activities, and termination, when the employment relationship ends, whether through termination, mutual agreement, or otherwise. Employee data encompasses all information pertaining to these individuals within the context of their employment. This includes aspects such as personal identification details, identification numbers, salary and banking information, working hours, holiday entitlements, health data, and performance assessments.
+*   **Inventory data:** Inventory data encompass essential information required for the identification and management of contractual partners, user accounts, profiles, and similar assignments. These data may include, among others, personal and demographic details such as names, contact information (addresses, phone numbers, email addresses), birth dates, and specific identifiers (user IDs). Inventory data form the foundation for any formal interaction between individuals and services, facilities, or systems, by enabling unique assignment and communication.
+*   **Location data:** Location data is created when a mobile device (or another device with the technical requirements for a location determination) connects to a radio cell, a WLAN or similar technical means and functions of location determination. Location data serve to indicate the geographically determinable position of the earth at which the respective device is located. Location data can be used, for example, to display map functions or other information dependent on a location.
+*   **Log data:** Protocol data, or log data, refer to information regarding events or activities that have been logged within a system or network. These data typically include details such as timestamps, IP addresses, user actions, error messages, and other specifics about the usage or operation of a system. Protocol data is often used for analyzing system issues, monitoring security, or generating performance reports.
+*   **Meta, communication and process data:** Meta-, communication, and procedural data are categories that contain information about how data is processed, transmitted, and managed. Meta-data, also known as data about data, include information that describes the context, origin, and structure of other data. They can include details about file size, creation date, the author of a document, and modification histories. Communication data capture the exchange of information between users across various channels, such as email traffic, call logs, messages in social networks, and chat histories, including the involved parties, timestamps, and transmission paths. Procedural data describe the processes and operations within systems or organisations, including workflow documentations, logs of transactions and activities, and audit logs used for tracking and verifying procedures.
+*   **Payment Data:** Payment data comprise all information necessary for processing payment transactions between buyers and sellers. This data is crucial for e-commerce, online banking, and any other form of financial transaction. It includes details such as credit card numbers, bank account information, payment amounts, transaction dates, verification numbers, and billing information. Payment data may also contain information on payment status, chargebacks, authorizations, and fees.
+*   **Personal Data:** "personal data" means any information relating to an identified or identifiable natural person ("data subject"); an identifiable natural person is one who can be identified, directly or indirectly, in particular by reference to an identifier such as a name, an identification number, location data, an online identifier or to one or more factors specific to the physical, physiological, genetic, mental, economic, cultural or social identity of that natural person.
+*   **Processing:** The term "processing" covers a wide range and practically every handling of data, be it collection, evaluation, storage, transmission or erasure.
+*   **Profiles with user-related information:** The processing of "profiles with user-related information", or "profiles" for short, includes any kind of automated processing of personal data that consists of using these personal data to analyse, evaluate or predict certain personal aspects relating to a natural person (depending on the type of profiling, this may include different information concerning demographics, behaviour and interests, such as interaction with websites and their content, etc.) (e.g. interests in certain content or products, click behaviour on a website or location). Cookies and web beacons are often used for profiling purposes.
+*   **Targeting:** "Tracking" is the term used when the behaviour of users can be traced across several websites. As a rule, behavior and interest information with regard to the websites used is stored in cookies or on the servers of the tracking technology providers (so-called profiling). This information can then be used, for example, to display advertisements to users presumably corresponding to their interests.
+*   **Usage data:** Usage data refer to information that captures how users interact with digital products, services, or platforms. These data encompass a wide range of information that demonstrates how users utilise applications, which features they prefer, how long they spend on specific pages, and through what paths they navigate an application. Usage data can also include the frequency of use, timestamps of activities, IP addresses, device information, and location data. They are particularly valuable for analysing user behaviour, optimising user experiences, personalising content, and improving products or services. Furthermore, usage data play a crucial role in identifying trends, preferences, and potential problem areas within digital offerings
+*   **Web Analytics:** Web Analytics serves the evaluation of visitor traffic of online services and can determine their behavior or interests in certain information, such as content of websites. With the help of web analytics, website owners, for example, can recognize at what time visitors visit their website and what content they are interested in. This enables them, for example, to better adapt the content of their websites to the needs of their visitors. For the purposes of web analytics , pseudonymous cookies and web beacons are often used to recognize returning visitors and thus obtain more precise analyses of the use of an online service.
