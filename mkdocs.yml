@@ -49,6 +49,9 @@ theme:
       git: material/git
       ssh: material/ssh
       github: material/github
+      hetzner: simple/hetzner
+      cli: fontawesome/solid/terminal
+      encryption: material/key-chain
   palette:
     # Palette toggle for automatic mode
     - media: "(prefers-color-scheme)"
@@ -143,6 +146,9 @@ extra:
     GitHub: github
     SSH: ssh
     GIT: git
+    Hetzner: hetzner
+    CLI: cli
+    Encryption: encryption
   generator: false
   social:
     - icon: fontawesome/brands/linkedin

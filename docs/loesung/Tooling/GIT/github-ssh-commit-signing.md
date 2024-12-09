@@ -1,8 +1,8 @@
 ---
-description: ""
+description: "GitHub erlaubt es Commits mittels SSH Keys zu signieren. Eine deutlich einfachere Alternative zu GPG."
 tags:
   - Der Software-Engineer
-  - git
+  - GIT
   - GitHub
   - SSH
 ---

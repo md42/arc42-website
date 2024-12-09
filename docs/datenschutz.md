@@ -4,11 +4,11 @@ tags:
 - Der Blogger
 ---
 
+# Datenschutzerklärung / Data Privacy Policy
+
 !!! info "English version after german version"
 
     The english version of this legal document is located after the german version. Please scroll down or use the table-of-contents.
-
-# Datenschutzerklärung / Data Privacy Policy
 
 ## Datenschutzerklärung
 
