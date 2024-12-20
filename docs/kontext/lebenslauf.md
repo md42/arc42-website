@@ -109,7 +109,7 @@ _Sept. 2017 - Aug. 2018, in Ludwigsburg, Deutschland_
 - Definition und Umsetzung von Qualitätsstandards, Teststrategien und Coding-Conventions als Technical Lead.
 - Einführung des V.I.P.E.R.-Paradigmas zur Verbesserung von Testbarkeit und ISO-9126-Konformität.
 - Entwicklung von CI/CD-Pipelines zur App-Verteilung intern und über TestFlight.
-- Leitung eines internationalen iOS-Entwicklungsteams (Deutschland, Ruämnien), technische Bewertungen von Bewerber:innen.
+- Leitung eines internationalen iOS-Entwicklungsteams (Deutschland, Rumänien), technische Bewertungen von Bewerber:innen.
 
 ---
 
@@ -167,7 +167,9 @@ _März 2011 - November 2011, in Ravensburg, Deutschland_
 - Aufgabe war, die Analyseergebnisse der Produktion mit Fokus auf betriebswirtschafliche Optimierung zu verfeinern.
 - Programmierung von Excel-Markos in Microsoft VBS.
 
-!!! warning "Liste aufgrund Non-Disclosure Agreements unvollständig"
+---
+
+!!! warning "Projektlise aufgrund Non-Disclosure Agreements unvollständig"
 
     Leider kann ich nicht alle umgesetzten Projekte auflisten, da manche Projekte und / oder Tätigkeitsbereiche einem NDA mit meinem jeweiligen Arbeitgeber und / oder Auftraggeber:innen unterliegen. Gerne können wir uns über erweiterte Inhalte in einem persönlichen Gespräch austauschen, sofern diese Inhalte nicht gegen evtl. vorhandene Geheimhaltungsvereinbarungen verstoßen.
 
