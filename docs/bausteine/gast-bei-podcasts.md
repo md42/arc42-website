@@ -16,3 +16,11 @@ In dieser Folge unterhalten wir uns über grundlegende Aspekte von Passwörtern,
 
 [Link zur Folge](https://auch-interessant.de/2024/12/20/passworter-mit-flowinho/)
 
+### Das Internet erklären - Teil 1
+
+Aus der Motivation grundlegende Dinge über das Internet zu besprechen heraus entstanden, ist diese Folge zu einer wundervolle Diskussion und einem tollen Austausch geworden, bei dem wir nicht nur über grundlegende Funktionalitäten des Internets sprechen sondern die Auswirkungen von künstlicher Intelligenz auf die Erziehung unserer Kinder tangieren. Und noch vieles mehr. Absolut hörenswert!
+
+**Host:** Ali Hackalife  
+**Zusätzlicher Gast:** Bastian Wölfle
+
+[Link zur Folge](https://auch-interessant.de/2024/09/20/internet-erklaren-teil-1/)
