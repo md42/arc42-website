@@ -1,3 +1,5 @@
+site_url: https://florianschuttkowski.com
+repo_url: https://github.com/flowinho/arc42-website/
 copyright: Copyright &copy; 2024 - Florian Schuttkowski
 site_name: florianschuttkowski.com
 site_url: https://florianschuttkowski.com
@@ -17,7 +19,7 @@ theme:
   name: material
   custom_dir: overrides
   language: de
-  # logo: assets/pixar-me.jpg
+  logo: assets/pixar-me-right-circle.png
   favicon: assets/favicon.png
   icon:
     repo: fontawesome/brands/github
@@ -84,6 +86,7 @@ theme:
     - navigation.instant.progress
     - navigation.tracking
     - navigation.sections
+    - navigation.indexes
     - navigation.path
     - toc.follow
     - content.code.copy
@@ -91,34 +94,44 @@ theme:
     - content.action.edit
     - content.action.view
     - content.footnote.tooltips
-
-plugins:
-  - search
-  - tags:
-      tags_file: glossar/schlagworte.md
-      tags_hierarchy: true
-      tags_slugify: !!python/object/apply:pymdownx.slugs.slugify
-        kwds:
-          case: lower
-  - privacy:
-      links_attr_map:
-        target: _blank
-  - optimize:
-      enabled: true
-      cache: false
-  - social:
-      cards_layout_dir: layouts
-      cards_layout: custom
-      debug: false
-  - glightbox
-  - awesome-pages
-  - typeset
-  - git-authors
-  - meta:
-      enabled: true
-  - mermaid2:
-      arguments:
-        securityLevel: 'loose'
+  icon:
+      repo: fontawesome/brands/github
+      logo: fontawesome/solid/dragon
+      tag: 
+        default: fontawesome/solid/tag
+        mfmkdocs: simple/materialformkdocs
+        mermaid: simple/mermaid
+        apache: simple/apache
+        css: simple/css3
+        markdown: simple/markdown
+        keys: material/key-chain
+        server: material/server
+        fonts: material/format-font
+        lebenslauf: material/file-account
+        glossar: material/library
+        kontext: material/arrow-expand-all
+        bausteinsicht: material/apps
+        ladefuchs: material/ev-station
+        swift: material/language-swift
+        ios: simple/ios
+        uikit: fontawesome/brands/apple
+        dersoftwareengineer: fontawesome/solid/laptop-code
+        derpapa: material/account-child-outline
+        derdatenschutzenthusiast: material/data-matrix
+        derpodcaster: material/podcast
+        dernerd: material/cards-outline
+        derpartner: material/hand-heart
+        derblogger: material/keyboard
+        git: material/git
+        ssh: material/ssh
+        github: material/github
+        hetzner: simple/hetzner
+        cli: fontawesome/solid/terminal
+        encryption: material/key-chain
+        nextcloud: simple/nextcloud
+        ubuntu: material/ubuntu
+        python: simple/python
+        ruby: simple/ruby
 
 extra:
   tags: 
@@ -151,6 +164,10 @@ extra:
     Hetzner: hetzner
     CLI: cli
     Encryption: encryption
+    Nextcloud: nextcloud
+    Ubuntu: ubuntu
+    Python: python
+    Ruby on Rails: ruby
   generator: false
   social:
     - icon: fontawesome/brands/linkedin
@@ -168,11 +185,54 @@ extra:
     - icon: fontawesome/solid/mug-hot
       link: https://ko-fi.com/flowinho
 
+plugins:
+  - search
+  - blog:
+      pagination: true
+      authors_profiles: true
+      archive_toc: true
+  - rss:
+      enabled: true
+      use_git: true
+      use_material_blog: true
+      use_material_social_cards: true
+      match_path: blog/posts/.* 
+      date_from_meta:
+        as_creation: date
+      categories:
+        - categories
+        - tags 
+  - tags:
+      tags_file: glossar/schlagworte.md
+      tags_hierarchy: true
+      tags_slugify: !!python/object/apply:pymdownx.slugs.slugify
+        kwds:
+          case: lower
+  - privacy:
+      links_attr_map:
+        target: _blank
+  - optimize:
+      enabled: true
+      cache: false
+  - social:
+      cards_layout_dir: layouts
+      cards_layout: custom
+      debug: false
+  - glightbox
+  - awesome-pages
+  - typeset
+  - git-authors
+  - meta:
+      enabled: true
+  - mermaid2:
+      arguments:
+        securityLevel: 'loose'
+
 markdown_extensions:
-  - abbr # Tooltips
-  - admonition # Callouts (mega)
-  - attr_list # HTML Klassen, braucht zB lazy loading
-  - md_in_html # markdown und html mischen
+  - abbr
+  - admonition
+  - attr_list
+  - md_in_html
   - footnotes
   - toc:
       permalink: true
