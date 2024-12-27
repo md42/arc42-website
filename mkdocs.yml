@@ -2,9 +2,7 @@ site_url: https://florianschuttkowski.com
 repo_url: https://github.com/flowinho/arc42-website/
 copyright: Copyright &copy; 2024 - Florian Schuttkowski
 site_name: florianschuttkowski.com
-site_url: https://florianschuttkowski.com
 site_author: Florian Schuttkowski
-repo_url: https://github.com/flowinho/arc42-website/
 repo_name: flowinho/arc42-website
 edit_uri: edit/main/docs/
 
@@ -21,40 +19,6 @@ theme:
   language: de
   logo: assets/pixar-me-right-circle.png
   favicon: assets/favicon.png
-  icon:
-    repo: fontawesome/brands/github
-    logo: fontawesome/solid/dragon
-    tag: 
-      default: fontawesome/solid/tag
-      mfmkdocs: simple/materialformkdocs
-      mermaid: simple/mermaid
-      apache: simple/apache
-      css: simple/css3
-      markdown: simple/markdown
-      keys: material/key-chain
-      server: material/server
-      fonts: material/format-font
-      lebenslauf: material/file-account
-      glossar: material/library
-      kontext: material/arrow-expand-all
-      bausteinsicht: material/apps
-      ladefuchs: material/ev-station
-      swift: material/language-swift
-      ios: simple/ios
-      uikit: fontawesome/brands/apple
-      dersoftwareengineer: fontawesome/solid/laptop-code
-      derpapa: material/account-child-outline
-      derdatenschutzenthusiast: material/data-matrix
-      derpodcaster: material/podcast
-      dernerd: material/cards-outline
-      derpartner: material/hand-heart
-      derblogger: material/keyboard
-      git: material/git
-      ssh: material/ssh
-      github: material/github
-      hetzner: simple/hetzner
-      cli: fontawesome/solid/terminal
-      encryption: material/key-chain
   palette:
     # Palette toggle for automatic mode
     - media: "(prefers-color-scheme)"

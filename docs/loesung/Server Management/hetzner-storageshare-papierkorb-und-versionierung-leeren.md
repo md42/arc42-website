@@ -4,6 +4,7 @@ tags:
 - Der Datenschutz-Enthusiast
 - Der Nerd
 - Hetzner
+- Nextcloud
 ---
 
 # StorageShare: Papierkorb und Versionierung leeren
