@@ -159,6 +159,8 @@ extra:
       link: https://chaos.social/@flowinho
     - icon: fontawesome/brands/github
       link: https://github.com/flowinho
+    - icon: fontawesome/brands/unsplash
+      link: https://unsplash.com/de/@flowinho
     - icon: fontawesome/brands/signal-messenger
       link: https://signal.me/#eu/YYsmjGrYPtnITzp0VY2zv6DvpI0ZO03kGV3ErqrMXQ4Xw1_UJtNI8KqaiDswvKQ
     - icon: fontawesome/solid/envelope
