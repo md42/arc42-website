@@ -1,0 +1,3 @@
+# Lore Counter - Infos
+
+Test 
