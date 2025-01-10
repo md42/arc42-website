@@ -65,30 +65,30 @@ Hinweise auf Rechtsverstöße: Sollten Sie innerhalb unseres Internetauftritts R
 
 ## Legal Notice
 
-### Provider {#m46}
+### Provider {#me46}
 
 Florian Schuttkowski  
 Korntaler Straße 15/1  
 71636 Ludwigsburg  
 Germany  
 
-### Contact Options {#m56}
+### Contact Options {#me56}
 
 E-Mail Address: [mail@florianschuttkowski.com](mailto:mail@florianschuttkowski.com)
 
 Phone: +4915112430675
 
-### Journalistic-Editorial Services {#m154}
+### Journalistic-Editorial Services {#me154}
 
 Responsible for content: Florian Schuttkowski
 
-### Audiovisual Media Services {#m3589}
+### Audiovisual Media Services {#me3589}
 
 Country of domicile: Germany.
 
 Competent regulatory or supervisory authority: State Institute for Communication Baden-Württemberg (LFK), [https://www.lfk.de/](https://www.lfk.de/)
 
-### Social Media Accounts and other Online Profiles {#m172}
+### Social Media Accounts and other Online Profiles {#me172}
 
 This legal notice also applies to the following social media accounts and online profiles:
 
@@ -100,11 +100,11 @@ This legal notice also applies to the following social media accounts and online
 
 [https://www.linkedin.com/in/florianschuttkowski/](https://www.linkedin.com/in/florianschuttkowski/)
 
-### Reservation of use for text and data mining {#m5234}
+### Reservation of use for text and data mining {#me5234}
 
 Reservation of use for text and data mining: The owner of this website permits the use or downloading of content from this website by third parties for the development, training, or operation of artificial intelligence or other machine learning systems ("Text and Data Mining") exclusively with the express written consent of the owner. Without such consent, it is prohibited to use the content for Text and Data Mining. This applies even if there are no meta tags on the website that block such processes, and even if bots designed to read the website for Text and Data Mining purposes are not blocked.
 
-### Liability and Intellectual Property Rights Information {#m65}
+### Liability and Intellectual Property Rights Information {#me65}
 
 Liability Disclaimer: While the content of this website has been put together with great care and reflects our current knowledge, it is provided for information purposes without being legally binding, unless the disclosure of this information is required by law (e.g. the legal information), the privacy policy, terms and conditions or mandatory instructions for consumers) . We reserve the right to modify or delete the content, whether in full or in part, provided this does not affect our existing contractual obligations. All website content is subject to change and non-binding.
 

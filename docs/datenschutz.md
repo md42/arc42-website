@@ -511,7 +511,7 @@ In diesem Abschnitt erhalten Sie eine Übersicht über die in dieser Datenschutz
 
 ## Privacy Policy
 
-### Preamble {#m716}
+### Preamble {#me716}
 
 With the following privacy policy we would like to inform you which types of your personal data (hereinafter also abbreviated as "data") we process for which purposes and in which scope. The privacy statement applies to all processing of personal data carried out by us, both in the context of providing our services and in particular on our websites, in mobile applications and within external online presences, such as our social media profiles (hereinafter collectively referred to as "online services").
 
@@ -521,33 +521,33 @@ Last Update: 9. December 2024
 
 ### Table of contents
 
-*   [Preamble](#m716)
-*   [Controller](#m3)
-*   [Overview of processing operations](#mOverview)
-*   [Relevant legal bases](#m2427)
-*   [Security Precautions](#m27)
-*   [International data transfers](#m24)
-*   [General Information on Data Retention and Deletion](#m12)
-*   [Rights of Data Subjects](#m10)
-*   [Payment Procedure](#m326)
-*   [Provision of online services and web hosting](#m225)
-*   [Use of Cookies](#m134)
-*   [Special Notes on Applications (Apps)](#m469)
-*   [Purchase of applications via Appstores](#m1466)
-*   [Blogs and publication media](#m104)
-*   [Communication via Messenger](#m391)
-*   [Push notifications](#m1643)
-*   [Video Conferences, Online Meetings, Webinars and Screen-Sharing](#m735)
-*   [Audio Content](#m296)
-*   [Cloud Services](#m29)
-*   [Surveys and Questionnaires](#m408)
-*   [Profiles in Social Networks (Social Media)](#m136)
-*   [Plugins and embedded functions and content](#m328)
-*   [Management, Organization and Utilities](#m723)
-*   [Changes and Updates](#m15)
-*   [Terminology and Definitions](#m42)
+*   [Preamble](#me716)
+*   [Controller](#me3)
+*   [Overview of processing operations](#meOverview)
+*   [Relevant legal bases](#me2427)
+*   [Security Precautions](#me27)
+*   [International data transfers](#me24)
+*   [General Information on Data Retention and Deletion](#me12)
+*   [Rights of Data Subjects](#me10)
+*   [Payment Procedure](#me326)
+*   [Provision of online services and web hosting](#me225)
+*   [Use of Cookies](#me134)
+*   [Special Notes on Applications (Apps)](#me469)
+*   [Purchase of applications via Appstores](#me1466)
+*   [Blogs and publication media](#me104)
+*   [Communication via Messenger](#me391)
+*   [Push notifications](#me1643)
+*   [Video Conferences, Online Meetings, Webinars and Screen-Sharing](#me735)
+*   [Audio Content](#me296)
+*   [Cloud Services](#me29)
+*   [Surveys and Questionnaires](#me408)
+*   [Profiles in Social Networks (Social Media)](#me136)
+*   [Plugins and embedded functions and content](#me328)
+*   [Management, Organization and Utilities](#me723)
+*   [Changes and Updates](#me15)
+*   [Terminology and Definitions](#me42)
 
-### Controller {#m3}
+### Controller {#me3}
 
 Florian Schuttkowski  
 Korntaler Straße 15/1  
@@ -558,7 +558,7 @@ E-mail address: [mail@florianschuttkowski.com](mailto:mail@florianschuttkowski.c
 
 Legal Notice: [https://florianschuttkowski.com/impressum/](https://florianschuttkowski.com/impressum/)
 
-### Overview of processing operations {#mOverview}
+### Overview of processing operations {#meOverview}
 
 The following table summarises the types of data processed, the purposes for which they are processed and the concerned data subjects.
 
@@ -608,7 +608,7 @@ The following table summarises the types of data processed, the purposes for whi
 *   Public relations.
 *   Business processes and management procedures.
 
-### Relevant legal bases {#m2427}
+### Relevant legal bases {#me2427}
 
 **Relevant legal bases according to the GDPR:** In the following, you will find an overview of the legal basis of the GDPR on which we base the processing of personal data. Please note that in addition to the provisions of the GDPR, national data protection provisions of your or our country of residence or domicile may apply. If, in addition, more specific legal bases are applicable in individual cases, we will inform you of these in the data protection declaration.
 
@@ -620,7 +620,7 @@ The following table summarises the types of data processed, the purposes for whi
 
 **Reference to the applicability of the GDPR and the Swiss DPA:** These privacy policy serves both to provide information pursuant to the Swiss Federal Act on Data Protection (FADP) and the General Data Protection Regulation (GDPR). For this reason, we ask you to note that due to the broader spatial application and comprehensibility, the terms used in the GDPR are applied. In particular, instead of the terms used in the Swiss FADP such as "processing" of "personal data", "predominant interest", and "particularly sensitive personal data", the terms used in the GDPR, namely "processing" of "personal data", as well as "legitimate interest" and "special categories of data" are used. However, the legal meaning of these terms will continue to be determined according to the Swiss FADP within its scope of application.
 
-### Security Precautions {#m27}
+### Security Precautions {#me27}
 
 We take appropriate technical and organisational measures in accordance with the legal requirements, taking into account the state of the art, the costs of implementation and the nature, scope, context and purposes of processing as well as the risk of varying likelihood and severity for the rights and freedoms of natural persons, in order to ensure a level of security appropriate to the risk.
 
@@ -628,11 +628,11 @@ The measures include, in particular, safeguarding the confidentiality, integrity
 
 Securing online connections through TLS/SSL encryption technology (HTTPS): To protect the data of users transmitted via our online services from unauthorized access, we employ TLS/SSL encryption technology. Secure Sockets Layer (SSL) and Transport Layer Security (TLS) are the cornerstones of secure data transmission on the internet. These technologies encrypt the information that is transferred between the website or app and the user's browser (or between two servers), thereby safeguarding the data from unauthorized access. TLS, as the more advanced and secure version of SSL, ensures that all data transmissions conform to the highest security standards. When a website is secured with an SSL/TLS certificate, this is indicated by the display of HTTPS in the URL. This serves as an indicator to users that their data is being securely and encryptedly transmitted.
 
-### International data transfers {#m24}
+### International data transfers {#me24}
 
 Data Processing in Third Countries: If we process data in a third country (i.e., outside the European Union (EU) or the European Economic Area (EEA)), or if the processing is done within the context of using third-party services or the disclosure or transfer of data to other individuals, entities, or companies, this is only done in accordance with legal requirements. If the data protection level in the third country has been recognized by an adequacy decision (Article 45 GDPR), this serves as the basis for data transfer. Otherwise, data transfers only occur if the data protection level is otherwise ensured, especially through standard contractual clauses (Article 46 (2)(c) GDPR), explicit consent, or in cases of contractual or legally required transfers (Article 49 (1) GDPR). Furthermore, we provide you with the basis of third-country transfers from individual third-country providers, with adequacy decisions primarily serving as the foundation. "Information regarding third-country transfers and existing adequacy decisions can be obtained from the information provided by the EU Commission: [https://commission.europa.eu/law/law-topic/data-protection/international-dimension-data-protection\_en.](https://commission.europa.eu/law/law-topic/data-protection/international-dimension-data-protection_en) Within the context of the so-called "Data Privacy Framework" (DPF), the EU Commission has also recognized the data protection level for certain companies from the USA as secure within the adequacy decision of 10th July 2023. The list of certified companies as well as additional information about the DPF can be found on the website of the US Department of Commerce at [https://www.dataprivacyframework.gov/s/.](https://www.dataprivacyframework.gov/s/) We will inform you which of our service providers are certified under the Data Privacy Framework as part of our data protection notices.
 
-### General Information on Data Retention and Deletion {#m12}
+### General Information on Data Retention and Deletion {#me12}
 
 We delete personal data that we process in accordance with legal regulations as soon as the underlying consents are revoked or no further legal bases for processing exist. This applies to cases where the original purpose of processing is no longer applicable or the data is no longer needed. Exceptions to this rule exist if statutory obligations or special interests require a longer retention or archiving of the data.
 
@@ -653,7 +653,7 @@ Data that is no longer stored for its originally intended purpose but due to leg
     *   6 Years - Other business documents: received commercial or business letters, copies of dispatched commercial or business letters, and other documents to the extent that they are significant for taxation purposes, for example, hourly wage slips, operating accounting sheets, calculation documents, price tags, as well as payroll accounting documents, provided they are not already accounting vouchers and cash register tapes Section (Section 147 Paragraph 3 in conjunction with Paragraph 1 No. 2, 3, 5 of the German General Tax Code (AO), Section 257 Paragraph 1 No. 2 and 3, Paragraph 4 of the German Commercial Code (HGB)).
     *   3 Years - Data required to consider potential warranty and compensation claims or similar contractual claims and rights, as well as to process related inquiries, based on previous business experiences and common industry practices, will be stored for the duration of the regular statutory limitation period of three years. This period begins at the end of the year in which the relevant contractual transaction took place or the contractual relationship ended in the case of ongoing contracts (Sections 195, 199 of the German Civil Code).
 
-### Rights of Data Subjects {#m10}
+### Rights of Data Subjects {#me10}
 
 Rights of the Data Subjects under the GDPR: As data subject, you are entitled to various rights under the GDPR, which arise in particular from Articles 15 to 21 of the GDPR:
 
@@ -665,7 +665,7 @@ Rights of the Data Subjects under the GDPR: As data subject, you are entitled to
 *   **Right to data portability:** You have the right to receive data concerning you which you have provided to us in a structured, common and machine-readable format in accordance with the legal requirements, or to request its transmission to another controller.
 *   **Complaint to the supervisory authority:** In accordance with the law and without prejudice to any other administrative or judicial remedy, you also have the right to lodge a complaint with a data protection supervisory authority, in particular a supervisory authority in the Member State where you habitually reside, the supervisory authority of your place of work or the place of the alleged infringement, if you consider that the processing of personal data concerning you infringes the GDPR.
 
-### Payment Procedure {#m326}
+### Payment Procedure {#me326}
 
 Within the framework of contractual and other legal relationships, due to legal obligations or otherwise on the basis of our legitimate interests, we offer data subjects efficient and secure payment options and use other service providers for this purpose in addition to banks and credit institutions (collectively referred to as "payment service providers").
 
@@ -683,7 +683,7 @@ The terms and conditions and data protection information of the respective payme
 
 *   **Ko-Fi:** Internet platform for project financing via crowdfunding as well as the sale of subscriptions and memberships, billing as well as the provision of access and payment procedures, for the purposes of which cookies are used and the IP address, date, time and other technical data about the Internet browser used, the operating system as well as inventory, contract and payment data of the users are processed; Legal Basis: Legitimate Interests (Article 6 (1) (f) GDPR); **Service provider**: Ko-fi Labs Limited, The Station House, 15 Station Road, St Ives PE27 5BH, United Kingdom; **Legal Basis:** Legitimate Interests (Article 6 (1) (f) GDPR); **Website:** [https://ko-fi.com/](https://ko-fi.com/); **Privacy Policy:** [https://more.ko-fi.com/privacy](https://more.ko-fi.com/privacy). **Basis for third-country transfers:** Adequacy decision (United Kingdom).
 
-### Provision of online services and web hosting {#m225}
+### Provision of online services and web hosting {#me225}
 
 We process user data in order to be able to provide them with our online services. For this purpose, we process the IP address of the user, which is necessary to transmit the content and functions of our online services to the user's browser or terminal device.
 
@@ -701,7 +701,7 @@ We process user data in order to be able to provide them with our online service
 *   **Gandi:** Services in the field of the provision of information technology infrastructure and related services (e.g. storage space and/or computing capacities); **Service provider**: Gandi SAS, 63-65 Boulevard Masséna, 75013 Paris, France; **Legal Basis:** Legitimate Interests (Article 6 (1) (f) GDPR); **Website:** [https://www.gandi.net](https://www.gandi.net). **Privacy Policy:** [https://www.gandi.net/en/contracts/privacy-policy](https://www.gandi.net/en/contracts/privacy-policy).
 *   **GitHub:** Platform for version control of software projects. Developers are enabled to upload their code to repositories and track changes, as well as use tools for project management in software development; **Service provider**: GitHub B.V., Netherlands, [https://support.github.com/contact/privacy](https://support.github.com/contact/privacy); **Legal Basis:** Legitimate Interests (Article 6 (1) (f) GDPR); **Website:** [https://github.com](https://github.com). **Privacy Policy:** [https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement](https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement).
 
-### Use of Cookies {#m134}
+### Use of Cookies {#me134}
 
 The term "cookies" refers to functions that store information on users' devices and read it from them. Cookies can also be used for different purposes, such as ensuring the functionality, security, and convenience of online services, as well as analyzing visitor traffic. We use cookies in accordance with legal regulations. If necessary, we obtain users' consent in advance. If consent is not required, we rely on our legitimate interests. This applies when storing and reading information is essential to provide explicitly requested content and functions. This includes, for example, saving settings and ensuring the functionality and security of our online services. Consent can be withdrawn at any time. We clearly inform users about the scope of the consent and which cookies are used.
 
@@ -718,7 +718,7 @@ The term "cookies" refers to functions that store information on users' devices 
 *   **Data subjects:** Users (e.g. website visitors, users of online services).
 *   **Legal Basis:** Legitimate Interests (Article 6 (1) (f) GDPR).
 
-### Special Notes on Applications (Apps) {#m469}
+### Special Notes on Applications (Apps) {#me469}
 
 We process the data of the users of our application to the extent necessary to provide the users with the application and its functionalities, to monitor its security and to develop it further. Furthermore, we may contact users in compliance with the statutory provisions if communication is necessary for the purposes of administration or use of the application. In addition, we refer to the data protection information in this privacy policy with regard to the processing of user data.
 
@@ -742,7 +742,7 @@ We process the data of the users of our application to the extent necessary to p
 *   **Processing of location data:** Within the course of using our application, the location data collected by the device used or otherwise entered by the user are processed. The use of the location data requires an authorization of the users, which can be revoked at any time. The use of the location data serves only to provide the respective functionality of our application, according to its description to the users or its typical and expectable functionality.
 *   **Location history and movement profiles:** The location data is only used selectively and is not processed to create a location history or a movement profile of the devices used or of their users.
 
-### Purchase of applications via Appstores {#m1466}
+### Purchase of applications via Appstores {#me1466}
 
 The purchase of our apps is done via special online platforms operated by other service providers (so-called "appstores"). In this context, the data protection notices of the respective appstores apply in addition to our data protection notices. This applies in particular with regard to the methods used on the platforms for webanalytics and for interest-related marketing as well as possible costs.
 
@@ -757,7 +757,7 @@ The purchase of our apps is done via special online platforms operated by other 
 *   **Apple App Store:** App and software distribution platform; **Service provider**: Apple Inc., Infinite Loop, Cupertino, CA 95014, USA; **Legal Basis:** Legitimate Interests (Article 6 (1) (f) GDPR); **Website:** [https://www.apple.com/app-store/](https://www.apple.com/app-store/). **Privacy Policy:** [https://www.apple.com/privacy/privacy-policy/](https://www.apple.com/privacy/privacy-policy/).
 *   **Google Play:** App and software distribution platform; **Service provider**: Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Ireland; **Legal Basis:** Legitimate Interests (Article 6 (1) (f) GDPR); **Website:** [https://play.google.com/store/apps?hl=en](https://play.google.com/store/apps?hl=en). **Privacy Policy:** [https://policies.google.com/privacy](https://policies.google.com/privacy).
 
-### Blogs and publication media {#m104}
+### Blogs and publication media {#me104}
 
 We use blogs or comparable means of online communication and publication (hereinafter "publication medium"). Readers' data will only be processed for the purposes of the publication medium to the extent necessary for its presentation and communication between authors and readers or for security reasons. For the rest, we refer to the information on the processing of visitors to our publication medium within the scope of this privacy policy.
 
@@ -771,7 +771,7 @@ We use blogs or comparable means of online communication and publication (herein
 
 *   **GitHub:** Platform for version control of software projects. Developers are enabled to upload their code to repositories and track changes, as well as use tools for project management in software development; **Service provider**: GitHub B.V., Netherlands, [https://support.github.com/contact/privacy](https://support.github.com/contact/privacy); **Legal Basis:** Legitimate Interests (Article 6 (1) (f) GDPR); **Website:** [https://github.com](https://github.com). **Privacy Policy:** [https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement](https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement).
 
-### Communication via Messenger {#m391}
+### Communication via Messenger {#me391}
 
 We use messenger services for communication purposes and therefore ask you to observe the following information regarding the functionality of the messenger services, encryption, use of the metadata of the communication and your objection options.
 
@@ -801,7 +801,7 @@ However, we would like to point out to our communication partners that although 
 *   **Threema:** Encrypted message transmission, voice and video calls, file and media sharing, surveys and polls, group chat functionality, contact verification through QR codes, no requirement for phone numbers or email addresses; **Service provider**: Threema GmbH, Churerstrasse 82, 8808 Pfäffikon SZ, Switzerland; **Legal Basis:** Legitimate Interests (Article 6 (1) (f) GDPR); **Website:** [https://threema.ch/de](https://threema.ch/de); **Privacy Policy:** [https://threema.ch/en/privacy](https://threema.ch/en/privacy). **Basis for third-country transfers:** Adequacy decision (Switzerland).
 *   **Discord:** Chat, audio and video broadcasting, instant messaging, and community management; **Service provider**: Discord, Inc., 444 De Haro St, Suite 200, San Francisco, California 94107, USA; **Legal Basis:** Legitimate Interests (Article 6 (1) (f) GDPR); **Website:** [https://discordapp.com/](https://discordapp.com/); **Privacy Policy:** [https://discordapp.com/privacy](https://discordapp.com/privacy). **Basis for third-country transfers:** Data Privacy Framework (DPF).
 
-### Push notifications {#m1643}
+### Push notifications {#me1643}
 
 With the consent of the users, we can send the users so-called "push notifications". These are messages that are displayed on users' screens, devices or browsers, even if our online services are not being actively used.
 
@@ -820,7 +820,7 @@ The push messages may be necessary for the fulfilment of contractual obligations
 *   **Push messages with commercial information:** The push notifications we send may contain commercial information. The commercial push messages are processed on the basis of user consent. If the contents of the push messages are described in detail in the context of the consent to receive the commercial push messages, the descriptions are decisive for the consent of the users. In addition, our newsletters contain information about our services and us; **Legal Basis:** Consent (Article 6 (1) (a) GDPR).
 *   **Location-dependent delivery of push messages:** The push notifications sent by us can be displayed depending on the location of the users based on the location data transmitted by the device used; **Legal Basis:** Consent (Article 6 (1) (a) GDPR).
 
-### Video Conferences, Online Meetings, Webinars and Screen-Sharing {#m735}
+### Video Conferences, Online Meetings, Webinars and Screen-Sharing {#me735}
 
 We use platforms and applications of other providers (hereinafter referred to as "Conference Platforms") for the purpose of conducting video and audio conferences, webinars and other types of video and audio meetings (hereinafter collectively referred to as "Conference"). When using the Conference Platforms and their services, we comply with the legal requirements.
 
@@ -846,7 +846,7 @@ We use platforms and applications of other providers (hereinafter referred to as
 *   **Zoom:** Video conferences, online meetings, webinars, screen sharing, optional recording of sessions, chat function, integration with calendars and other apps; **Service provider**: Zoom Video Communications, Inc., 55 Almaden Blvd., Suite 600, San Jose, CA 95113, USA; **Legal Basis:** Legitimate Interests (Article 6 (1) (f) GDPR); **Website:** [https://zoom.us](https://zoom.us); **Privacy Policy:** [https://explore.zoom.us/en/privacy/](https://explore.zoom.us/en/privacy/); **Data Processing Agreement:** [https://explore.zoom.us/docs/doc/Zoom\_GLOBAL\_DPA.pdf](https://explore.zoom.us/docs/doc/Zoom_GLOBAL_DPA.pdf). **Basis for third-country transfers:** Data Privacy Framework (DPF).
 *   **Nextcloud (hosting on own server):** Cloud storage service, with operation and storage of processed data on a server managed by us; **Service provider**: Nextcloud GmbH, Hauptmannsreute 44a, 70192 Stuttgart, Germany; **Legal Basis:** Legitimate Interests (Article 6 (1) (f) GDPR); **Website:** [https://nextcloud.com/](https://nextcloud.com/). **Privacy Policy:** [https://nextcloud.com/privacy/](https://nextcloud.com/privacy/).
 
-### Audio Content {#m296}
+### Audio Content {#me296}
 
 We utilise hosting services from service providers to offer our audio content for listening and downloading. In this process, we employ platforms that enable the uploading, storage, and distribution of audio material.
 
@@ -862,7 +862,7 @@ We utilise hosting services from service providers to offer our audio content fo
 *   **Soundcloud:** Soundcloud - Music hosting; **Service provider**: SoundCloud Limited, Rheinsberger Str. 76/77, 10115 Berlin, Germany; **Legal Basis:** Legitimate Interests (Article 6 (1) (f) GDPR); **Website:** [https://soundcloud.com](https://soundcloud.com). **Privacy Policy:** [https://soundcloud.com/pages/privacy](https://soundcloud.com/pages/privacy).
 *   **Spotify:** Spotify - Music hosting and Widget; **Service provider**: Spotify AB, Regeringsgatan 19, SE-111 53 Stockholm, Sweden; **Legal Basis:** Legitimate Interests (Article 6 (1) (f) GDPR); **Website:** [https://podcasters.spotify.com/](https://podcasters.spotify.com/). **Privacy Policy:** [https://www.spotify.com/legal/privacy-policy/](https://www.spotify.com/legal/privacy-policy/).
 
-### Cloud Services {#m29}
+### Cloud Services {#me29}
 
 We use Internet-accessible software services (so-called "cloud services", also referred to as "Software as a Service") provided on the servers of its providers for the storage and management of content (e.g. document storage and management, exchange of documents, content and information with certain recipients or publication of content and information).
 
@@ -880,7 +880,7 @@ If we use cloud services to provide documents and content to other users or publ
 
 *   **Nextcloud (hosting on own server):** Cloud storage service, with operation and storage of processed data on a server managed by us; **Service provider**: Nextcloud GmbH, Hauptmannsreute 44a, 70192 Stuttgart, Germany; **Legal Basis:** Legitimate Interests (Article 6 (1) (f) GDPR); **Website:** [https://nextcloud.com/](https://nextcloud.com/). **Privacy Policy:** [https://nextcloud.com/privacy/](https://nextcloud.com/privacy/).
 
-### Surveys and Questionnaires {#m408}
+### Surveys and Questionnaires {#me408}
 
 We conduct surveys and interviews to gather information for the survey purpose communicated in each case. The surveys and questionnaires ("surveys") carried out by us are evaluated anonymously. Personal data is only processed insofar as this is necessary for the provision and technical execution of the survey (e.g. processing the IP address to display the survey in the user's browser or to enable a resumption of the survey with the aid of a cookie).
 
@@ -894,7 +894,7 @@ We conduct surveys and interviews to gather information for the survey purpose c
 
 *   **Mentimeter:** Erstellung von Präsentationen und Besprechungen mit Echtzeit-Feedback; **Service provider**: Mentimeter AB, Alströmergatan 22 SE-112 47 Stockholm, Sweden; **Legal Basis:** Legitimate Interests (Article 6 (1) (f) GDPR); **Website:** [https://www.mentimeter.com](https://www.mentimeter.com). **Privacy Policy:** [https://www.mentimeter.com/policies](https://www.mentimeter.com/policies).
 
-### Profiles in Social Networks (Social Media) {#m136}
+### Profiles in Social Networks (Social Media) {#me136}
 
 We maintain online presences within social networks and process user data in this context in order to communicate with the users active there or to offer information about us.
 
@@ -923,7 +923,7 @@ Also in the case of requests for information and the exercise of rights of data 
 *   **GitHub:** Platform for version control of software projects. Developers are enabled to upload their code to repositories and track changes, as well as use tools for project management in software development; **Service provider**: GitHub B.V., Netherlands, [https://support.github.com/contact/privacy](https://support.github.com/contact/privacy); **Legal Basis:** Legitimate Interests (Article 6 (1) (f) GDPR); **Website:** [https://github.com](https://github.com). **Privacy Policy:** [https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement](https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement).
 *   **Signal:** Signal Messenger with end-to-end encryption; **Service provider**: Privacy Signal Messenger, LLC 650 Castro Street, Suite 120-223 Mountain View, CA 94041, USA; **Legal Basis:** Legitimate Interests (Article 6 (1) (f) GDPR); **Website:** [https://signal.org/](https://signal.org/). **Privacy Policy:** [https://signal.org/legal/](https://signal.org/legal/).
 
-### Plugins and embedded functions and content {#m328}
+### Plugins and embedded functions and content {#me328}
 
 Within our online services, we integrate functional and content elements that are obtained from the servers of their respective providers (hereinafter referred to as "third-party providers"). These may, for example, be graphics, videos or city maps (hereinafter uniformly referred to as "Content").
 
@@ -955,7 +955,7 @@ The integration always presupposes that the third-party providers of this conten
 *   **Apple Podcasts:** Podcast hosting and statistical analysis of podcast performance; **Service provider**: Apple Inc., Infinite Loop, Cupertino, CA 95014, USA; **Website:** [https://www.apple.com/apple-podcasts/](https://www.apple.com/apple-podcasts/). **Privacy Policy:** [https://www.apple.com/legal/privacy/](https://www.apple.com/legal/privacy/).
 *   **Google Docs:** Online word processing application, document storage, collaboration, and sharing; **Service provider**: Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Ireland; **Legal Basis:** Legitimate Interests (Article 6 (1) (f) GDPR); **Website:** [https://www.google.de/docs/about/](https://www.google.de/docs/about/); **Privacy Policy:** [https://cloud.google.com/privacy](https://cloud.google.com/privacy); **Data Processing Agreement:** [https://cloud.google.com/terms/data-processing-addendum](https://cloud.google.com/terms/data-processing-addendum); **Basis for third-country transfers:** Data Privacy Framework (DPF). **Further Information:** [https://cloud.google.com/privacy](https://cloud.google.com/privacy).
 
-### Management, Organization and Utilities {#m723}
+### Management, Organization and Utilities {#me723}
 
 We use services, platforms and software from other providers (hereinafter referred to as " third-party providers") for the purposes of organizing, administering, planning and providing our services. When selecting third-party providers and their services, we comply with the legal requirements.
 
@@ -975,13 +975,13 @@ If users are referred to the third-party providers or their software or platform
 *   **Trello:** Project management tool; **Service provider**: Trello Inc., 55 Broadway New York, NY 10006, USA, parent company: Atlassian Inc. (San Francisco, Harrison Street Location), 1098 Harrison Street, San Francisco, California 94103, USA; **Legal Basis:** Legitimate Interests (Article 6 (1) (f) GDPR); **Website:** [https://trello.com/](https://trello.com/); **Privacy Policy:** [https://trello.com/privacy](https://trello.com/privacy); **Basis for third-country transfers:** Data Privacy Framework (DPF). **Further Information:** Data Transfer Impact Assessment: [https://www.atlassian.com/legal/data-transfer-impact-assessment](https://www.atlassian.com/legal/data-transfer-impact-assessment).
 *   **GitHub:** Platform for version control of software projects. Developers are enabled to upload their code to repositories and track changes, as well as use tools for project management in software development; **Service provider**: GitHub B.V., Netherlands, [https://support.github.com/contact/privacy](https://support.github.com/contact/privacy); **Legal Basis:** Legitimate Interests (Article 6 (1) (f) GDPR); **Website:** [https://github.com](https://github.com). **Privacy Policy:** [https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement](https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement).
 
-### Changes and Updates {#m15}
+### Changes and Updates {#me15}
 
 We kindly ask you to inform yourself regularly about the contents of our data protection declaration. We will adjust the privacy policy as changes in our data processing practices make this necessary. We will inform you as soon as the changes require your cooperation (e.g. consent) or other individual notification.
 
 If we provide addresses and contact information of companies and organizations in this privacy policy, we ask you to note that addresses may change over time and to verify the information before contacting us.
 
-### Terminology and Definitions {#m42}
+### Terminology and Definitions {#me42}
 
 In this section, you will find an overview of the terminology used in this privacy policy. Where the terminology is legally defined, their legal definitions apply. The following explanations, however, are primarily intended to aid understanding.
 
