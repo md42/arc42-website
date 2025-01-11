@@ -62,7 +62,7 @@ flowchart LR
         lightbox["mkdocs-glightbox via pip"]
         pages["mkdocs-awesome-pages-plugin via pip"]
         mermaid["mkdocs-mermaid2-plugin via pip"]
-        
+        rss["install mkdocs-rss-plugin via pip"]
         
         mkdocs --> imaging
         imaging --> png
@@ -70,6 +70,7 @@ flowchart LR
         authors --> lightbox
         lightbox --> pages
         pages --> mermaid
+        mermaid --> rss
     end
 
     base --> setup
