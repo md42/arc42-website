@@ -122,11 +122,11 @@ Es war und ist ein schönes Gedankenexperiment, ein Konzept, welches für Softwa
 
     Hier könnt ihr mein Projektportfolio und weitere Aktivitäten meinerseits einsehen.
 
-- :material-account-reactivate-outline: __6. Laufzeitsicht__{: class="disabled" }
+- :material-account-reactivate-outline: __6. Laufzeitsicht__
   
     ---
 
-    <span class="disabled">Wenn ich die Zeit dafür finde, schreibe ich gerne etwas über meine Arbeits- und Herangehensweise bezüglich verschiedenster Themen.</span>
+    Wenn ich die Zeit dafür finde, schreibe ich gerne etwas über meine Arbeits- und Herangehensweise bezüglich verschiedenster Themen.
 
 - :material-artboard: __7. Verteilungssicht__
   
