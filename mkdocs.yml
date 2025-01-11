@@ -151,6 +151,9 @@ extra:
 
 plugins:
   - search
+  - git-committers:
+      repository: flowinho/arc42-website
+      branch: main
   - blog:
       pagination: true
       authors_profiles: true
@@ -185,7 +188,6 @@ plugins:
   - glightbox
   - awesome-pages
   - typeset
-  - git-authors
   - meta:
       enabled: true
   - mermaid2:
